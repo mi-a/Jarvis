@@ -1,34 +1,150 @@
 <template name="dealSubmit">
-  <form class="main form page">
 
-    <div class="form-group {{errorClass 'company'}}">
-      <label class="control-label" for="company">Company</label>
+  <form class="form-horizontal">
+  <fieldset>
 
-      <div class="controls">
-          <input name="company" id="company" type="text" value="" placeholder="Your company" class="form-control"/>
-          <span class="help-block">{{errorMessage 'company'}}</span>
+  <!-- Form Name -->
+  <legend>Create New Deal</legend>
+
+  <!-- Text input-->
+  <div class="form-group">
+    <label class="col-md-4 control-label" for="company">Company Name</label>  
+    <div class="col-md-5">
+    <input id="company" name="company" type="text" placeholder="" class="form-control input-md" required="">
+      
+    </div>
+  </div>
+
+  <!-- Text input-->
+  <div class="form-group">
+    <label class="col-md-4 control-label" for="locationStreet">Address</label>  
+    <div class="col-md-5">
+    <input id="locationStreet" name="locationStreet" type="text" placeholder="" class="form-control input-md">
+      
+    </div>
+  </div>
+
+  <!-- Text input-->
+  <div class="form-group">
+    <label class="col-md-4 control-label" for="locationOption"></label>  
+    <div class="col-md-5">
+    <input id="locationOption" name="locationOption" type="text" placeholder="" class="form-control input-md">
+      
+    </div>
+  </div>
+
+  <!-- Text input-->
+  <div class="form-group">
+    <label class="col-md-4 control-label" for="city">City</label>  
+    <div class="col-md-4">
+    <input id="city" name="city" type="text" placeholder="" class="form-control input-md">
+      
+    </div>
+  </div>
+
+  <!-- Button Drop Down -->
+  <div class="form-group">
+    <label class="col-md-4 control-label" for="state">State</label>
+    <div class="col-md-1">
+      <div class="input-group">
+        <input id="state" name="state" class="form-control" placeholder="" type="text">
+        <div class="input-group-btn">
+          <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+            Choose
+            <span class="caret"></span>
+          </button>
+          <ul class="dropdown-menu pull-right">
+            <li><a href="#">AL</a></li>
+            <li><a href="#">AK</a></li>
+            <li><a href="#">AZ</a></li>
+            <li><a href="#">AR</a></li>
+            <li><a href="#">CA</a></li>
+            <li><a href="#">CO</a></li>
+            <li><a href="#">CT</a></li>
+            <li><a href="#">DE</a></li>
+            <li><a href="#">FL</a></li>
+            <li><a href="#">GA</a></li>
+            <li><a href="#">HI</a></li>
+            <li><a href="#">ID</a></li>
+            <li><a href="#">IL</a></li>
+            <li><a href="#">IN</a></li>
+            <li><a href="#">IA</a></li>
+            <li><a href="#">KS</a></li>
+            <li><a href="#">KY</a></li>
+            <li><a href="#">LA</a></li>
+            <li><a href="#">ME</a></li>
+            <li><a href="#">MD</a></li>
+            <li><a href="#">MA</a></li>
+            <li><a href="#">MI</a></li>
+            <li><a href="#">MN</a></li>
+            <li><a href="#">MS</a></li>
+            <li><a href="#">MO</a></li>
+            <li><a href="#">MT</a></li>
+            <li><a href="#">NE</a></li>
+            <li><a href="#">NV</a></li>
+            <li><a href="#">NH</a></li>
+            <li><a href="#">NJ</a></li>
+            <li><a href="#">NM</a></li>
+            <li><a href="#">NY</a></li>
+            <li><a href="#">NC</a></li>
+            <li><a href="#">ND</a></li>
+            <li><a href="#">OH</a></li>
+            <li><a href="#">OK</a></li>
+            <li><a href="#">OR</a></li>
+            <li><a href="#">PA</a></li>
+            <li><a href="#">RI</a></li>
+            <li><a href="#">SC</a></li>
+            <li><a href="#">SD</a></li>
+            <li><a href="#">TN</a></li>
+            <li><a href="#">TX</a></li>
+            <li><a href="#">UT</a></li>
+            <li><a href="#">VT</a></li>
+            <li><a href="#">VA</a></li>
+            <li><a href="#">WA</a></li>
+            <li><a href="#">WV</a></li>
+            <li><a href="#">WI</a></li>
+            <li><a href="#">WY</a></li>
+          </ul>
+        </div>
       </div>
     </div>
+  </div>
 
-    <div class="form-group {{errorClass 'location'}}">
-      <label class="control-label" for="location">Location</label>
-
-      <div class="controls">
-          <input name="location" id="location" type="text" value="" placeholder="Address" class="form-control"/>
-          <span class="help-block">{{errorMessage 'location'}}</span>
-      </div>
+  <!-- Text input-->
+  <div class="form-group">
+    <label class="col-md-4 control-label" for="zip">Zip Code</label>  
+    <div class="col-md-2">
+    <input id="zip" name="zip" type="text" placeholder="" class="form-control input-md">
+      
     </div>
+  </div>
 
-    <div class="form-group {{errorClass 'details'}}">
-      <label class="control-label" for="details">Deal details</label>
-
-      <div class="controls">
-          <input name="details" id="details" type="text" value="" placeholder="Enter details" class="form-control"/>
-          <span class="help-block">{{errorMessage 'details'}}</span>
-      </div>
+  <!-- Text input-->
+  <div class="form-group">
+    <label class="col-md-4 control-label" for="headline">Deal Title</label>  
+    <div class="col-md-5">
+    <input id="headline" name="headline" type="text" placeholder="" class="form-control input-md" required="">
+      
     </div>
+  </div>
 
-    <input type="submit" value="Submit" class="btn btn-primary"/>
-    
+  <!-- Textarea -->
+  <div class="form-group">
+    <label class="col-md-4 control-label" for="details">Deal Details</label>
+    <div class="col-md-4">                     
+      <textarea class="form-control" id="details" name="details">Be as specific about the deal as you can!</textarea>
+    </div>
+  </div>
+
+  <!-- Button -->
+  <div class="form-group">
+    <label class="col-md-4 control-label" for="buttonSubmit"></label>
+    <div class="col-md-4">
+      <button id="buttonSubmit" name="buttonSubmit" class="btn btn-primary">Submit Deal</button>
+    </div>
+  </div>
+
+  </fieldset>
   </form>
+
 </template>
