@@ -36,7 +36,8 @@ Template.dealSubmit.events({
       if (result.dealExists)
         throwError('This deal has already been posted');
             
-      Router.go('dealPage', {_id: result._id});  
+      // Router.go('dealPage', {_id: result._id});  
+      // deal page has not been created yet
     });
 	}
 });
