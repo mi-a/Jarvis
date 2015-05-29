@@ -18,13 +18,18 @@ Template.dealSubmit.events({
 
 		var deal = {
 			name: $(e.target).find('[name=company]').val(),
-      location: $(e.target).find('[name=location]').val(),
+      locationStreet: $(e.target).find('[name=locationStreet]').val(),
+      locationOption: $(e.target).find('[name=locationOption]').val(),
+      city: $(e.target).find('[name=city]').val(),
+      state: $(e.target).find('[name=state]').val(),
+      zip: $(e.target).find('[name=zip]').val(),
+      headline: $(e.target).find('[name=headline]').val(),
 			details: $(e.target).find('[name=details]').val()
 		};
 
     var errors = validateDeal(deal);
     // call validateDeal function from deals.js
-    if (errors.name || errors.location || errors.details)
+    if (errors.name || errors.headline || errors.details)
       return Session.set('dealSubmitErrors', errors);
 
 		Meteor.call('dealInsert', deal, function(error, result) {
