@@ -3,6 +3,9 @@ Template.dealSubmit.created = function() {
   // This ensures that the user won't see old error messages left over from a previous visit to this page.
 }
 Template.dealSubmit.helpers({
+  errors: function () {
+    return Session.get('errors');
+  },
   errorMessage: function(field) {
     return Session.get('dealSubmitErrors')[field];
   },
@@ -15,6 +18,7 @@ Template.dealSubmit.helpers({
 Template.dealSubmit.events({
 	'submit form': function(e) {
 		e.preventDefault();
+    console.log(e);
 
 		var deal = {
 			headline: $(e.target).find('[name=headline]').val(),
@@ -35,6 +39,9 @@ Template.dealSubmit.events({
     Meteor.call('saveDeal', deal, function(error, result) {
       console.log("Error: ", error);
       console.log("Result: ", result);
+      if (error) {
+        Session.set('errors', error.reason);
+      }
     });
 
 		// Meteor.call('dealInsert', deal, function(error, result) {

@@ -10,7 +10,7 @@
   <div class="form-group">
     <label class="col-md-4 control-label" for="company">Company Name</label>  
     <div class="col-md-5">
-    <input id="company" name="company" type="text" placeholder="" class="form-control input-md" required="">
+    <input id="company" name="company" type="text" placeholder="" class="form-control input-md">
     <span class="help-block">{{errorMessage 'company'}}</span>
       
     </div>
@@ -109,7 +109,7 @@
   <div class="form-group">
     <label class="col-md-4 control-label" for="headline">Deal Title</label>  
     <div class="col-md-5">
-    <input id="headline" name="headline" type="text" placeholder="" class="form-control input-md" required="">
+    <input id="headline" name="headline" type="text" placeholder="" class="form-control input-md">
       
     </div>
   </div>
@@ -118,7 +118,7 @@
   <div class="form-group">
     <label class="col-md-4 control-label" for="details">Deal Details</label>
     <div class="col-md-4">                     
-      <textarea class="form-control" id="details" name="details" required=""></textarea>
+      <textarea class="form-control" id="details" name="details"></textarea>
     </div>
     <span class="help-block">{{errorMessage 'details'}}</span>
   </div>
@@ -134,7 +134,10 @@
   
 
   </fieldset>
+  <div id="errors" name="errors">
+    {{#each errors}}
+      <p>{{this}}</p>
+    {{/each}}
+  </div>
   </form>
-
-
 </template>
