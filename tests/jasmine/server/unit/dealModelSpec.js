@@ -7,7 +7,7 @@ describe("Deal", function() {
 			callback(null, "1");
 		});
 
-		var deal = new Deal(null, "Sample Headline", "Sample Company", "Sample Details");
+		var deal = new Deal(null, "Sample Headline", "Sample Company", "Sample Details", {street: '123 Main Street', city: 'San Francisco', state: 'CA', zip: '94101'});
 
 		expect(deal.headline).toBe("Sample Headline");
 		expect(deal.company).toBe("Sample Company");
