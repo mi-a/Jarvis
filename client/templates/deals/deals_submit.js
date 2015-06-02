@@ -17,32 +17,37 @@ Template.dealSubmit.events({
 		e.preventDefault();
 
 		var deal = {
-			name: $(e.target).find('[name=company]').val(),
-      locationStreet: $(e.target).find('[name=locationStreet]').val(),
-      locationOption: $(e.target).find('[name=locationOption]').val(),
-      city: $(e.target).find('[name=city]').val(),
-      state: $(e.target).find('[name=state]').val(),
-      zip: $(e.target).find('[name=zip]').val(),
-      headline: $(e.target).find('[name=headline]').val(),
-			details: $(e.target).find('[name=details]').val()
+			headline: $(e.target).find('[name=headline]').val(),
+      company: $(e.target).find('[name=company]').val(),
+      details: $(e.target).find('[name=details]').val(),
+      location: {
+        street: $(e.target).find('[name=street]').val(),
+        city: $(e.target).find('[name=city]').val(),
+        state: $(e.target).find('[name=state]').val(),
+        zip: $(e.target).find('[name=zip]').val()
+      }
 		};
+    // var errors = validateDeal(deal);
+    // // call validateDeal function from dealModel.js
+    // if (errors.name || errors.headline || errors.details)
+    //   return Session.set('dealSubmitErrors', errors);
 
-    var errors = validateDeal(deal);
-    // call validateDeal function from deals.js
-    if (errors.name || errors.headline || errors.details)
-      return Session.set('dealSubmitErrors', errors);
-
-		Meteor.call('dealInsert', deal, function(error, result) {
-		  // display the error to the user and abort
-      if (error)
-        return throwError(error.reason);
-
-      // show this result but route anyway
-      if (result.dealExists)
-        throwError('This deal has already been posted');
-            
-      // Router.go('dealPage', {_id: result._id});  
-      // deal page has not been created yet
+    Meteor.call('saveDeal', deal, function(error, result) {
+      console.log("Error: ", error);
+      console.log("Result: ", result);
     });
+
+		// Meteor.call('dealInsert', deal, function(error, result) {
+		//   // display the error to the user and abort
+  //     if (error)
+  //       return throwError(error.reason);
+
+  //     // show this result but route anyway
+  //     if (result.dealExists)
+  //       throwError('This deal has already been posted');
+            
+  //     // Router.go('dealPage', {_id: result._id});  
+  //     // deal page has not been created yet
+  //   });
 	}
 });
