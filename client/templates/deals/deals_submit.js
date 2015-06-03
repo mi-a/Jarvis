@@ -31,25 +31,15 @@ Template.dealSubmit.events({
         zip: $(e.target).find('[name=zip]').val()
       }
     };
-    // var errors = validateDeal(deal);
-    // // call validateDeal function from dealModel.js
-    // if (errors.name || errors.headline || errors.details)
-    //   return Session.set('dealSubmitErrors', errors);
 
-    var newDeal = new Deal(deal);
-    newDeal.save();
-
-		// Meteor.call('dealInsert', deal, function(error, result) {
-		//   // display the error to the user and abort
-  //     if (error)
-  //       return throwError(error.reason);
-
-  //     // show this result but route anyway
-  //     if (result.dealExists)
-  //       throwError('This deal has already been posted');
-            
-  //     // Router.go('dealPage', {_id: result._id});  
-  //     // deal page has not been created yet
-  //   });
+    Meteor.call('saveDeal', deal, function(error, result) {
+      console.log("Error: ", error);
+      console.log("Result: ", result);
+      if (error) {
+        Session.set('errors', error.reason);
+      } else {
+        Router.go('dealsList', {_id: result._id});
+      }
+    });
 	}
 });

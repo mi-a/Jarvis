@@ -1,0 +1,11 @@
+<template name="dealsList">
+	<legend>All Deals</legend>
+	
+	{{#each deals}}
+		<div>
+		{{headline}} - {{company}} - {{details}}
+			
+		</div>
+		<br><br>
+	{{/each}}
+</template>
