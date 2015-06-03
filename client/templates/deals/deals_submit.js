@@ -20,8 +20,8 @@ Template.dealSubmit.events({
 		e.preventDefault();
     console.log(e);
 
-		var deal = {
-			headline: $(e.target).find('[name=headline]').val(),
+    var deal = {
+      headline: $(e.target).find('[name=headline]').val(),
       company: $(e.target).find('[name=company]').val(),
       details: $(e.target).find('[name=details]').val(),
       location: {
@@ -30,19 +30,14 @@ Template.dealSubmit.events({
         state: $(e.target).find('[name=state]').val(),
         zip: $(e.target).find('[name=zip]').val()
       }
-		};
+    };
     // var errors = validateDeal(deal);
     // // call validateDeal function from dealModel.js
     // if (errors.name || errors.headline || errors.details)
     //   return Session.set('dealSubmitErrors', errors);
 
-    Meteor.call('saveDeal', deal, function(error, result) {
-      console.log("Error: ", error);
-      console.log("Result: ", result);
-      if (error) {
-        Session.set('errors', error.reason);
-      }
-    });
+    var newDeal = new Deal(deal);
+    newDeal.save();
 
 		// Meteor.call('dealInsert', deal, function(error, result) {
 		//   // display the error to the user and abort
