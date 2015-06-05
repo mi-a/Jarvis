@@ -1,57 +1,55 @@
 <template name="dealSubmit">
 
-  <form class="form-horizontal">
+  <form>
   <fieldset>
 
   <!-- Form Name -->
-  <legend>Create New Deal</legend>
+  <legend>ADD NEW DEAL</legend>
 
   <!-- Text input-->
   <div class="form-group">
-    <label class="col-md-4 control-label" for="company">Company Name</label>  
-    <div class="col-md-5">
-    <input id="company" name="company" type="text" placeholder="" class="form-control input-md">
+    <div class="col-xm-12 col-md-6 col-lg-6">
+    <input id="headline" name="headline" type="text" placeholder="Deal Headline" class="form-control input-md">
     </div>
   </div>
 
   <!-- Text input-->
   <div class="form-group">
-    <label class="col-md-4 control-label" for="headline">Deal Title</label>  
-    <div class="col-md-5">
-    <input id="headline" name="headline" type="text" placeholder="" class="form-control input-md">
+    <div class="col-xm-12 col-md-6 col-lg-6">
+    <input id="company" name="company" type="text" placeholder="Company Name" class="form-control input-md">
     </div>
   </div>
 
   <!-- Textarea -->
   <div class="form-group">
-    <label class="col-md-4 control-label" for="details">Deal Details</label>
-    <div class="col-md-4">                     
-      <textarea class="form-control" id="details" name="details"></textarea>
+    <div class="col-xm-12 col-md-6 col-lg-6">                     
+      <textarea class="form-control" id="details" placeholder="Deal Details" name="details"></textarea>
     </div>
   </div>
 
-  <!-- Text input-->
-  <div class="form-group">
-    <label class="col-md-4 control-label" for="street">Address</label>  
-    <div class="col-md-5">
-    <input id="street" name="street" type="text" placeholder="" class="form-control input-md">
-    </div>
-  </div>
 
   <!-- Text input-->
   <div class="form-group">
-    <label class="col-md-4 control-label" for="city">City</label>  
-    <div class="col-md-4">
-    <input id="city" name="city" type="text" placeholder="" class="form-control input-md">
+    <label class="col-md-2 control-label" for="street">ADDRESS (optional)</label>  
+    <div class="col-xm-12 col-md-6 col-lg-6">
+    <input id="street" name="street" type="text" placeholder="Street" class="form-control input-md">
+    </div>
+  </div>
+
+  <form class="form-inline">
+  <!-- Text input-->
+  <div class="form-group">
+    <!-- <label class="col-md-4 control-label" for="city">City</label>   -->
+    <div class="col-xm-12 col-md-3">
+    <input id="city" name="city" type="text" placeholder="City" class="form-control input-md">
     </div>
   </div>
 
   <!-- Button Drop Down -->
   <div class="form-group">
-    <label class="col-md-4 control-label" for="state">State</label>
-    <div class="col-md-1">
+    <div class="col-xm-12 col-md-1">
       <div class="input-group">
-          <select name="state" class="dropdown-menu pull-right form-control">
+          <select name="state" placeholder="State" class="dropdown-menu form-control input-xm">
             <option value='AL'>AL</option>
             <option value='AK'>AK</option>
             <option value='AZ'>AZ</option>
@@ -109,24 +107,22 @@
 
   <!-- Text input-->
   <div class="form-group">
-    <label class="col-md-4 control-label" for="zip">ZIP Code</label>  
-    <div class="col-md-2">
-    <input id="zip" name="zip" type="text" placeholder="" class="form-control input-md">
+    <div class="col-xm-12 col-md-3">
+    <input id="zip" name="zip" type="text" placeholder="ZIP" class="form-control input-md">
       
     </div>
   </div>
-
+  </form> <!-- in line -->
 
   <!-- Submit -->
   <div class="form-group">
-    <label class="col-md-4 control-label" for="buttonSubmit"></label>
-    <div class="col-md-4">
+    <div class="col-xm-12 col-md-4">
       <button id="buttonSubmit" name="buttonSubmit" class="btn btn-primary">Submit Deal</button>
     </div>
   </div>
 
-
   </fieldset>
+
   <div id="errors" name="errors">
     {{#each errors}}
       <p>{{this}}</p>
