@@ -18,27 +18,27 @@ Template.dealSubmit.helpers({
 Template.dealSubmit.events({
 	'submit form': function(e) {
 		e.preventDefault();
-    console.log(e);
+    var $el = $(e.target);
 
     var deal = {
-      headline: $(e.target).find('[name=headline]').val(),
-      company: $(e.target).find('[name=company]').val(),
-      details: $(e.target).find('[name=details]').val(),
+      headline: $el.find('[name=headline]').val(),
+      company: $el.find('[name=company]').val(),
+      details: $el.find('[name=details]').val(),
       location: {
-        street: $(e.target).find('[name=street]').val(),
-        city: $(e.target).find('[name=city]').val(),
-        state: $(e.target).find('[name=state]').val(),
-        zip: $(e.target).find('[name=zip]').val()
+        street: $el.find('[name=street]').val(),
+        city: $el.find('[name=city]').val(),
+        state: $el.find('[name=state]').val(),
+        zip: $el.find('[name=zip]').val()
       }
     };
 
     Meteor.call('saveDeal', deal, function(error, result) {
-      console.log("Error: ", error);
-      console.log("Result: ", result);
       if (error) {
         Session.set('errors', error.reason);
+        console.log("Error: ", error);
       } else {
         Router.go('dealsList', {_id: result._id});
+        console.log("Result: ", result);
       }
     });
 	}
