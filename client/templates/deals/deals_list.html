@@ -1,11 +1,36 @@
 <template name="dealsList">
 	<legend>All Deals</legend>
-	
-	{{#each deals}}
-		<div>
-		{{headline}} - {{company}} - {{details}}
-			
-		</div>
-		<br><br>
-	{{/each}}
+<!-- this is the add deal button that needs to be formatted
+		<div class="col-lg-1 col-xs-offset-5 col-sm-offset-10">
+    <a href="/admin/deals/create"><button type="button" class="btn btn-primary">Add Deal</button></a>
+  </div> -->
+
+	<div class="table-responsive"> 
+    <table class="table borderless">
+    	<thead>
+    		<tr class="labels">
+    			<th class="col-md-3">HEADLINE</th>
+    			<th class="col-md-2">COMPANY</th>
+    			<th class="col-md-4">DESCRIPTION</th>
+    			<th class="col-md-3">ADDRESS</th>
+    			<th class="col-md-1">UPDATED</th>
+    		</tr>
+    	</thead>
+  		{{#each deals}}
+      <tbody>
+      	<tr class="items">
+      		<td><a href="{{pathFor 'dealItem'}}">{{headline}}</a></td>
+      		<td>{{company}}</td>
+      		<td>{{details}}</td>
+      		<td>
+      			{{location.street}}<br>
+      			{{location.city}}, {{location.state}}<br>
+      			{{location.zip}}
+      		</td>
+      		<td>MM/DD/YYYY</td>
+      	</tr>
+      </tbody>
+    	{{/each}}
+    </table>
+  </div>
 </template>

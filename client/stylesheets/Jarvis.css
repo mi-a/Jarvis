@@ -1,1 +1,19 @@
 /* CSS declarations go here */
+body {
+	color: #20467e;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; ;
+}
+
+/*table*/
+tr.labels {
+	font-size: 18px;
+	text-align: center;
+}
+
+tr.items {
+	font-size: 14px;
+}
+
+.borderless td, .borderless th {
+    border: none;
+}
