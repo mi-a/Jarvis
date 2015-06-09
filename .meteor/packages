@@ -6,12 +6,12 @@
 
 meteor-platform
 insecure
-iron:router
 meteoric:ionic
 sacha:spin
 ian:accounts-ui-bootstrap-3
 twbs:bootstrap
 accounts-password
-sanjo:jasmine
 velocity:html-reporter
 clinical:nightwatch
+iron:router
+velocity:shim
