@@ -12,9 +12,5 @@ ian:accounts-ui-bootstrap-3
 twbs:bootstrap
 accounts-password
 velocity:html-reporter
-<<<<<<< HEAD
-clinical:nightwatch
 iron:router
 velocity:shim
-=======
->>>>>>> 7bc9b3da2eab15c003d010cd481293b74c99c790
