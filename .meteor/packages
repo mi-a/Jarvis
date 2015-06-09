@@ -14,4 +14,3 @@ twbs:bootstrap
 accounts-password
 sanjo:jasmine
 velocity:html-reporter
-clinical:nightwatch
