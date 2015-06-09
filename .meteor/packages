@@ -11,6 +11,7 @@ sacha:spin
 ian:accounts-ui-bootstrap-3
 twbs:bootstrap
 accounts-password
-velocity:html-reporter
 iron:router
 velocity:shim
+sanjo:jasmine
+velocity:console-reporter
