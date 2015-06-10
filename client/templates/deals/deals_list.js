@@ -1,5 +1,5 @@
 Template.dealsList.helpers({
 	deals: function() {
-		return Deals.find({}, {sort: {_id: 1} });
+		return Deals.find({}, {sort: {createdAt: -1} });
 	}
 });
