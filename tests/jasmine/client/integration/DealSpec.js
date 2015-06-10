@@ -14,7 +14,7 @@ describe('Deal', function() {
             $('#buttonSubmit').click();
             $(window).load(function() {
             	expect(Router.current().route.path()).toBe('/admin/deals');
-            	expect($('.headline').text()).toContain('Free help from Charlie Co.');
+            	expect($('a.headline').text()).toContain('Free help from Charlie Co.');
             });
             done();
         }, 600);
