@@ -41,5 +41,6 @@ Template.dealSubmit.events({
         console.log("Result: ", result);
       }
     });
+    
 	}
 });

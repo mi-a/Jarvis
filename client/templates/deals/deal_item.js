@@ -33,15 +33,15 @@ Template.dealItem.events({
         zip: $el.find('[name=zip]').val()
       }
     };
-    console.log("Saving deal now. Current Deal ID: " + deal.id);
 
-    Deals.update(currentDealId, {$set: deal}, function(error) {
+    Meteor.call('saveDeal', deal, function(error, result) {
       if (error) {
-        throwError(error.reason);
+        Session.set('errors', error.reason);
+        console.log("Error: ", error);
       } else {
-        Router.go('dealsList');
+        Router.go('dealsList', {_id: result._id});
+        console.log("Result: ", result);
       }
     });
-
 	}
 });
