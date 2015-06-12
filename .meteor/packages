@@ -16,3 +16,4 @@ velocity:shim
 sanjo:jasmine
 velocity:console-reporter
 velocity:html-reporter
+matb33:collection-hooks
