@@ -32,8 +32,8 @@ Template.dealItem.events({
         state: $el.find('[name=state]').val(),
         zip: $el.find('[name=zip]').val()
       },
-      createdAt: $el.find('[name=createdAt]').val(),
-      updatedAt: $el.find('[name=updatedAt]').val()
+      createdAt: parseInt($el.find('[name=createdAt]').val()),
+      updatedAt: parseInt($el.find('[name=updatedAt]').val())
     });
 
     Meteor.call('saveDeal', deal, function(error, result) {
