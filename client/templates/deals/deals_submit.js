@@ -20,7 +20,7 @@ Template.dealSubmit.events({
 		e.preventDefault();
     var $el = $(e.target);
 
-    var deal = {
+    var deal = new Deal({
       headline: $el.find('[name=headline]').val(),
       company: $el.find('[name=company]').val(),
       details: $el.find('[name=details]').val(),
@@ -30,7 +30,7 @@ Template.dealSubmit.events({
         state: $el.find('[name=state]').val(),
         zip: $el.find('[name=zip]').val()
       }
-    };
+    });
 
     Meteor.call('saveDeal', deal, function(error, result) {
       if (error) {

@@ -21,7 +21,7 @@ Template.dealItem.events({
 
 		var currentDealId = this._id;
 
-		var deal = {
+    var deal = new Deal({
       id: currentDealId,
       headline: $el.find('[name=headline]').val(),
       company: $el.find('[name=company]').val(),
@@ -31,8 +31,10 @@ Template.dealItem.events({
         city: $el.find('[name=city]').val(),
         state: $el.find('[name=state]').val(),
         zip: $el.find('[name=zip]').val()
-      }
-    };
+      },
+      createdAt: $el.find('[name=createdAt]').val(),
+      updatedAt: $el.find('[name=updatedAt]').val()
+    });
 
     Meteor.call('saveDeal', deal, function(error, result) {
       if (error) {

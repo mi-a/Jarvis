@@ -6,7 +6,12 @@ describe("Deal", function() {
 
 	beforeEach(function() {
 		MeteorStubs.install();
-		deal = new Deal(null, "Sample Headline", "Sample Company", "Sample Details", {street: '123 Main Street', city: 'San Francisco', state: 'CA', zip: '94101'});
+		deal = new Deal({
+			headline: "Sample Headline",
+			company: "Sample Company",
+			details: "Sample Details",
+			location: {street: '123 Main Street', city: 'San Francisco', state: 'CA', zip: '94101'}
+		});
 	});
 
 	afterEach(function() {
