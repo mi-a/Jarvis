@@ -3,6 +3,5 @@ Meteor.publish('deals', function(){
 });
 
 Meteor.publish('singleDeal', function(id) {
-	check(id, String);
 	return Deals.find(id);
 });
