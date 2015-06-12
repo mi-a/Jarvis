@@ -1,36 +1,53 @@
 <template name="dealsList">
-  <legend>All Deals</legend>
-  <div class="pull-right">
-    <a href="/admin/deals/create"><button type="button" class="btn btn-primary">Add Deal</button></a>
-  </div>
+  <h3>All Deals</h3>
 <!-- this is the add deal button that needs to be formatted -->
   <div class="clearfix"></div>
-	<div class="table-responsive"> 
+	<div class="table-responsive hidden-xs hidden-sm"> 
     <table class="table borderless">
-    	<thead>
+    	<thead data-spy="affix" data-offset-top="60" data-offset-bottom="200">
     		<tr class="labels">
-    			<th class="col-md-3">HEADLINE</th>
-    			<th class="col-md-2">COMPANY</th>
-    			<th class="col-md-4">DESCRIPTION</th>
-    			<th class="col-md-3">ADDRESS</th>
+    			<th class="col-md-2">HEADLINE</th>
+    			<th class="col-md-1">COMPANY</th>
+    			<th class="col-md-5">DESCRIPTION</th>
+    			<th class="col-md-2">ADDRESS</th>
     			<th class="col-md-1">UPDATED</th>
+          <th class="col-md-1"><a href="/admin/deals/create"><button type="button" class="btn btn-primary">Add Deal</button></a></th>
     		</tr>
     	</thead>
-  		{{#each deals}}
       <tbody>
+  		{{#each deals}}
       	<tr class="items">
-      		<td><a class="headline" href="{{pathFor 'dealItem'}}">{{headline}}</a></td>
-      		<td>{{company}}</td>
-      		<td>{{details}}</td>
-      		<td>
-      			{{location.street}}<br>
-      			{{location.city}}, {{location.state}}<br>
-      			{{location.zip}}
+      		<td class="col-md-2"><a class="headline" href="{{pathFor 'dealItem'}}">{{headline}}</a></td>
+      		<td class="col-md-1">{{company}}</td>
+      		<td class="col-md-5">{{details}}</td>
+      		<td class="col-md-2">
+            {{#if location.city}}
+        			{{location.street}}<br>
+        			{{location.city}}, {{location.state}}<br>
+        			{{location.zip}}
+            {{/if}}
       		</td>
-      		<td>{{this.createdAt}}</td>
+      		<td class="col-md-1">{{this.createdAt}}</td>
+          <td></td>
       	</tr>
-      </tbody>
     	{{/each}}
+      </tbody>
     </table>
   </div>
+
+  <div class="clearfix"></div>
+  <div class="deal-list visible-xs-12 visible-sm-12 hidden-md hidden-lg">
+    <div class="text-center">
+      <a href="/admin/deals/create"><button type="button" class="btn btn-primary">Add Deal</button></a>
+    </div>
+    {{#each deals}}
+    <div class="item">
+      <div class="panel-body">
+        <h4><a class="headline" href="{{pathFor 'dealItem'}}">{{headline}}</a></h4>
+        <p>{{details}}</p>
+      </div>
+    </div>
+    {{/each}}
+  </div>
+
 </template>
