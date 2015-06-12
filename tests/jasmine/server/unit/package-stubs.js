@@ -7013,7 +7013,7 @@ var packageMetadata = {
                 },
                 "version": {
                   "type": "constant",
-                  "value": "ccdfc1cbbf6afd34f5eb245c4b9ab1adfeeb5797"
+                  "value": "9acf8e4d5283402e3afc40606e282c5987d242f9"
                 },
                 "PUBLIC_SETTINGS": {
                   "type": "undefined"
@@ -7248,7 +7248,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/underscore.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/underscore.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7265,7 +7265,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/underscore.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/underscore.js.map"
                 }
               }
             },
@@ -7274,7 +7274,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/meteor.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/meteor.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7291,7 +7291,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/meteor.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/meteor.js.map"
                 }
               }
             },
@@ -7300,7 +7300,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/json.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/json.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7317,7 +7317,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/json.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/json.js.map"
                 }
               }
             },
@@ -7326,7 +7326,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/base64.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/base64.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7343,7 +7343,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/base64.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/base64.js.map"
                 }
               }
             },
@@ -7352,7 +7352,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/ejson.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/ejson.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7369,7 +7369,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/ejson.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/ejson.js.map"
                 }
               }
             },
@@ -7378,7 +7378,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/logging.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/logging.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7395,7 +7395,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/logging.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/logging.js.map"
                 }
               }
             },
@@ -7404,7 +7404,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/reload.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/reload.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7421,7 +7421,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/reload.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/reload.js.map"
                 }
               }
             },
@@ -7430,7 +7430,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/tracker.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/tracker.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7447,7 +7447,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/tracker.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/tracker.js.map"
                 }
               }
             },
@@ -7456,7 +7456,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/random.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/random.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7473,7 +7473,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/random.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/random.js.map"
                 }
               }
             },
@@ -7482,7 +7482,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/retry.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/retry.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7499,7 +7499,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/retry.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/retry.js.map"
                 }
               }
             },
@@ -7508,7 +7508,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/check.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/check.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7525,7 +7525,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/check.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/check.js.map"
                 }
               }
             },
@@ -7534,7 +7534,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/id-map.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/id-map.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7551,7 +7551,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/id-map.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/id-map.js.map"
                 }
               }
             },
@@ -7560,7 +7560,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/ordered-dict.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/ordered-dict.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7577,7 +7577,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/ordered-dict.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/ordered-dict.js.map"
                 }
               }
             },
@@ -7586,7 +7586,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/geojson-utils.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/geojson-utils.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7603,7 +7603,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/geojson-utils.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/geojson-utils.js.map"
                 }
               }
             },
@@ -7612,7 +7612,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/minimongo.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/minimongo.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7629,7 +7629,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/minimongo.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/minimongo.js.map"
                 }
               }
             },
@@ -7638,7 +7638,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/ddp.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/ddp.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7655,7 +7655,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/ddp.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/ddp.js.map"
                 }
               }
             },
@@ -7664,7 +7664,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/follower-livedata.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/follower-livedata.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7681,7 +7681,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/follower-livedata.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/follower-livedata.js.map"
                 }
               }
             },
@@ -7690,7 +7690,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/application-configuration.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/application-configuration.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7707,7 +7707,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/application-configuration.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/application-configuration.js.map"
                 }
               }
             },
@@ -7716,7 +7716,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/insecure.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/insecure.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7733,7 +7733,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/insecure.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/insecure.js.map"
                 }
               }
             },
@@ -7742,7 +7742,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/mongo.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/mongo.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7759,7 +7759,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/mongo.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/mongo.js.map"
                 }
               }
             },
@@ -7768,7 +7768,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/autoupdate.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/autoupdate.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7785,7 +7785,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/autoupdate.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/autoupdate.js.map"
                 }
               }
             },
@@ -7794,7 +7794,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/meteor-platform.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/meteor-platform.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7811,7 +7811,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/meteor-platform.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/meteor-platform.js.map"
                 }
               }
             },
@@ -7820,7 +7820,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/jquery.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/jquery.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7837,7 +7837,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/jquery.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/jquery.js.map"
                 }
               }
             },
@@ -7846,7 +7846,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/deps.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/deps.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7863,7 +7863,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/deps.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/deps.js.map"
                 }
               }
             },
@@ -7872,7 +7872,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/htmljs.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/htmljs.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7889,7 +7889,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/htmljs.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/htmljs.js.map"
                 }
               }
             },
@@ -7898,7 +7898,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/observe-sequence.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/observe-sequence.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7915,7 +7915,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/observe-sequence.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/observe-sequence.js.map"
                 }
               }
             },
@@ -7924,7 +7924,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/reactive-var.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/reactive-var.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7941,7 +7941,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/reactive-var.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/reactive-var.js.map"
                 }
               }
             },
@@ -7950,7 +7950,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/blaze.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/blaze.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7967,7 +7967,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/blaze.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/blaze.js.map"
                 }
               }
             },
@@ -7976,7 +7976,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/templating.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/templating.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -7993,7 +7993,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/templating.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/templating.js.map"
                 }
               }
             },
@@ -8002,7 +8002,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/fastclick.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/fastclick.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8019,7 +8019,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/fastclick.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/fastclick.js.map"
                 }
               }
             },
@@ -8028,7 +8028,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/ui.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/ui.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8045,7 +8045,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/ui.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/ui.js.map"
                 }
               }
             },
@@ -8054,7 +8054,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_core.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_core.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8071,7 +8071,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_core.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_core.js.map"
                 }
               }
             },
@@ -8080,7 +8080,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_dynamic-template.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_dynamic-template.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8097,7 +8097,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_dynamic-template.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_dynamic-template.js.map"
                 }
               }
             },
@@ -8106,7 +8106,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_layout.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_layout.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8123,7 +8123,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_layout.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_layout.js.map"
                 }
               }
             },
@@ -8132,7 +8132,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_url.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_url.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8149,7 +8149,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_url.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_url.js.map"
                 }
               }
             },
@@ -8158,7 +8158,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_middleware-stack.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_middleware-stack.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8175,7 +8175,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_middleware-stack.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_middleware-stack.js.map"
                 }
               }
             },
@@ -8184,7 +8184,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_location.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_location.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8201,7 +8201,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_location.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_location.js.map"
                 }
               }
             },
@@ -8210,7 +8210,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/reactive-dict.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/reactive-dict.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8227,7 +8227,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/reactive-dict.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/reactive-dict.js.map"
                 }
               }
             },
@@ -8236,7 +8236,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_controller.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_controller.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8253,7 +8253,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_controller.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_controller.js.map"
                 }
               }
             },
@@ -8262,7 +8262,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_router.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_router.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8279,7 +8279,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_router.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/iron_router.js.map"
                 }
               }
             },
@@ -8288,7 +8288,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/session.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/session.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8305,7 +8305,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/session.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/session.js.map"
                 }
               }
             },
@@ -8314,7 +8314,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/meteoric_ionic.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/meteoric_ionic.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8331,7 +8331,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/meteoric_ionic.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/meteoric_ionic.js.map"
                 }
               }
             },
@@ -8340,7 +8340,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/sacha_spin.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/sacha_spin.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8357,7 +8357,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/sacha_spin.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/sacha_spin.js.map"
                 }
               }
             },
@@ -8366,7 +8366,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/spacebars.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/spacebars.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8383,7 +8383,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/spacebars.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/spacebars.js.map"
                 }
               }
             },
@@ -8392,7 +8392,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/stylus.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/stylus.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8409,7 +8409,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/stylus.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/stylus.js.map"
                 }
               }
             },
@@ -8418,7 +8418,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/localstorage.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/localstorage.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8435,7 +8435,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/localstorage.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/localstorage.js.map"
                 }
               }
             },
@@ -8444,7 +8444,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/accounts-base.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/accounts-base.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8461,7 +8461,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/accounts-base.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/accounts-base.js.map"
                 }
               }
             },
@@ -8470,7 +8470,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/anti_i18n.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/anti_i18n.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8487,7 +8487,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/anti_i18n.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/anti_i18n.js.map"
                 }
               }
             },
@@ -8496,7 +8496,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/twbs_bootstrap.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/twbs_bootstrap.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8513,7 +8513,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/twbs_bootstrap.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/twbs_bootstrap.js.map"
                 }
               }
             },
@@ -8522,7 +8522,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/sha.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/sha.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8539,7 +8539,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/sha.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/sha.js.map"
                 }
               }
             },
@@ -8548,7 +8548,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/srp.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/srp.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8565,7 +8565,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/srp.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/srp.js.map"
                 }
               }
             },
@@ -8574,7 +8574,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/accounts-password.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/accounts-password.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8591,7 +8591,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/accounts-password.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/accounts-password.js.map"
                 }
               }
             },
@@ -8600,7 +8600,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/ian_accounts-ui-bootstrap-3.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/ian_accounts-ui-bootstrap-3.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8617,7 +8617,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/ian_accounts-ui-bootstrap-3.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/ian_accounts-ui-bootstrap-3.js.map"
                 }
               }
             },
@@ -8626,7 +8626,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_core.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_core.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8643,7 +8643,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_core.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_core.js.map"
                 }
               }
             },
@@ -8652,7 +8652,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_shim.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_shim.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8669,7 +8669,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_shim.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_shim.js.map"
                 }
               }
             },
@@ -8678,7 +8678,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/coffeescript.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/coffeescript.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8695,7 +8695,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/coffeescript.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/coffeescript.js.map"
                 }
               }
             },
@@ -8704,7 +8704,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/practicalmeteor_chai.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/practicalmeteor_chai.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8721,7 +8721,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/practicalmeteor_chai.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/practicalmeteor_chai.js.map"
                 }
               }
             },
@@ -8730,7 +8730,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/practicalmeteor_loglevel.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/practicalmeteor_loglevel.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8747,7 +8747,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/practicalmeteor_loglevel.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/practicalmeteor_loglevel.js.map"
                 }
               }
             },
@@ -8756,7 +8756,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/sanjo_jasmine.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/sanjo_jasmine.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8773,7 +8773,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/sanjo_jasmine.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/sanjo_jasmine.js.map"
                 }
               }
             },
@@ -8782,7 +8782,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_console-reporter.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_console-reporter.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8799,7 +8799,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_console-reporter.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_console-reporter.js.map"
                 }
               }
             },
@@ -8808,7 +8808,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/amplify.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/amplify.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8825,7 +8825,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/amplify.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/amplify.js.map"
                 }
               }
             },
@@ -8834,7 +8834,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/less.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/less.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8851,7 +8851,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/less.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/less.js.map"
                 }
               }
             },
@@ -8860,7 +8860,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8877,7 +8877,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter.js.map"
                 }
               }
             },
@@ -8886,7 +8886,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/matb33_collection-hooks.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/matb33_collection-hooks.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8903,7 +8903,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/matb33_collection-hooks.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/matb33_collection-hooks.js.map"
                 }
               }
             },
@@ -8912,7 +8912,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/webapp.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/webapp.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8929,7 +8929,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/webapp.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/webapp.js.map"
                 }
               }
             },
@@ -8938,7 +8938,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/livedata.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/livedata.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8955,7 +8955,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/livedata.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/livedata.js.map"
                 }
               }
             },
@@ -8964,7 +8964,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/launch-screen.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/launch-screen.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -8981,7 +8981,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/launch-screen.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/launch-screen.js.map"
                 }
               }
             },
@@ -8990,7 +8990,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/global-imports.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/global-imports.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9006,7 +9006,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/templates/application/template.app.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/templates/application/template.app.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9022,7 +9022,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/templates/application/template.home.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/templates/application/template.home.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9038,7 +9038,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/templates/application/template.loading.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/templates/application/template.loading.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9054,7 +9054,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/templates/application/template.navigation.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/templates/application/template.navigation.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9070,7 +9070,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/templates/application/template.not_found.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/templates/application/template.not_found.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9086,7 +9086,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/templates/deals/template.deal_item.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/templates/deals/template.deal_item.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9102,7 +9102,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/templates/deals/template.deals_list.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/templates/deals/template.deals_list.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9118,7 +9118,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/templates/deals/template.deals_submit.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/templates/deals/template.deals_submit.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9134,7 +9134,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/templates/template.admin_home.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/templates/template.admin_home.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9150,7 +9150,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/lib/collections/dealModel.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/lib/collections/dealModel.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9166,7 +9166,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/lib/router.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/lib/router.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9182,7 +9182,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/templates/deals/deal_item.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/templates/deals/deal_item.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9198,7 +9198,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/templates/deals/deals_list.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/templates/deals/deals_list.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9214,7 +9214,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/templates/deals/deals_submit.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/templates/deals/deals_submit.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9230,7 +9230,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/helpers/errors.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/helpers/errors.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9246,7 +9246,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/helpers/formatDate.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/helpers/formatDate.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9262,7 +9262,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/helpers/pluralize.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/client/helpers/pluralize.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9278,7 +9278,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/service-configuration.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/service-configuration.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9295,7 +9295,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/service-configuration.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/service-configuration.js.map"
                 }
               }
             },
@@ -9304,11 +9304,11 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_test-proxy.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_test-proxy.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/packages/f100610392703cf02c7c1c2ffaa061aadb350b34.map"
+                  "value": "/packages/ea82029353a37c93dfed1c9c2996457d4f57b49f.map"
                 },
                 "type": {
                   "type": "constant",
@@ -9316,12 +9316,12 @@ var packageMetadata = {
                 }
               }
             },
-            "/packages/f100610392703cf02c7c1c2ffaa061aadb350b34.map": {
+            "/packages/ea82029353a37c93dfed1c9c2996457d4f57b49f.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_test-proxy.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_test-proxy.js.map"
                 }
               }
             },
@@ -9330,7 +9330,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_node-soft-mirror.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_node-soft-mirror.js"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
@@ -9347,20 +9347,20 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_node-soft-mirror.js.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_node-soft-mirror.js.map"
                 }
               }
             },
-            "/a5bb2080e3bb68f9b44bb32168f8bf971292307b.css": {
+            "/6bcdfff2283ff2d6bf87285572314c15795e502e.css": {
               "type": "object",
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/a5bb2080e3bb68f9b44bb32168f8bf971292307b.css"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/6bcdfff2283ff2d6bf87285572314c15795e502e.css"
                 },
                 "sourceMapUrl": {
                   "type": "constant",
-                  "value": "/a5bb2080e3bb68f9b44bb32168f8bf971292307b.map"
+                  "value": "/6bcdfff2283ff2d6bf87285572314c15795e502e.map"
                 },
                 "type": {
                   "type": "constant",
@@ -9368,12 +9368,12 @@ var packageMetadata = {
                 }
               }
             },
-            "/a5bb2080e3bb68f9b44bb32168f8bf971292307b.map": {
+            "/6bcdfff2283ff2d6bf87285572314c15795e502e.map": {
               "type": "object",
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/a5bb2080e3bb68f9b44bb32168f8bf971292307b.css.map"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/6bcdfff2283ff2d6bf87285572314c15795e502e.css.map"
                 }
               }
             },
@@ -9382,7 +9382,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.eot"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.eot"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9398,7 +9398,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.svg"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.svg"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9414,7 +9414,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.ttf"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.ttf"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9430,7 +9430,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9446,7 +9446,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff2"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff2"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9462,7 +9462,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/velocity_logo.svg"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/velocity_logo.svg"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9478,7 +9478,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/velocity_cog.svg"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/velocity_cog.svg"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9494,7 +9494,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/icon-time.png"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/packages/velocity_html-reporter/lib/icon-time.png"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9510,7 +9510,7 @@ var packageMetadata = {
               "members": {
                 "absolutePath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/Jarvis.js"
+                  "value": "/Users/Jessie/Desktop/Jarvis/.meteor/local/build/programs/web.browser/app/Jarvis.js"
                 },
                 "sourceMapUrl": {
                   "type": "undefined"
@@ -9526,7 +9526,7 @@ var packageMetadata = {
               "members": {
                 "content": {
                   "type": "constant",
-                  "value": "{\"manifest\":[{\"path\":\"packages/underscore.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/underscore.js?0a80a8623e1b40b5df5a05582f288ddd586eaa18\",\"sourceMap\":\"packages/underscore.js.map\",\"sourceMapUrl\":\"/packages/0a80a8623e1b40b5df5a05582f288ddd586eaa18.map\",\"size\":150686,\"hash\":\"0a80a8623e1b40b5df5a05582f288ddd586eaa18\"},{\"path\":\"packages/meteor.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/meteor.js?81e2f06cff198adaa81b3bc09fc4f3728b7370ec\",\"sourceMap\":\"packages/meteor.js.map\",\"sourceMapUrl\":\"/packages/81e2f06cff198adaa81b3bc09fc4f3728b7370ec.map\",\"size\":109437,\"hash\":\"81e2f06cff198adaa81b3bc09fc4f3728b7370ec\"},{\"path\":\"packages/json.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/json.js?e22856eae714c681199eabc5c0710b904b125554\",\"sourceMap\":\"packages/json.js.map\",\"sourceMapUrl\":\"/packages/e22856eae714c681199eabc5c0710b904b125554.map\",\"size\":58343,\"hash\":\"e22856eae714c681199eabc5c0710b904b125554\"},{\"path\":\"packages/base64.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/base64.js?1a63019243b73298e2964e6d4680f25bca657726\",\"sourceMap\":\"packages/base64.js.map\",\"sourceMapUrl\":\"/packages/1a63019243b73298e2964e6d4680f25bca657726.map\",\"size\":15685,\"hash\":\"1a63019243b73298e2964e6d4680f25bca657726\"},{\"path\":\"packages/ejson.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ejson.js?71047b64b5196348bdbe5fd5eea9ac97a5a9eb14\",\"sourceMap\":\"packages/ejson.js.map\",\"sourceMapUrl\":\"/packages/71047b64b5196348bdbe5fd5eea9ac97a5a9eb14.map\",\"size\":81471,\"hash\":\"71047b64b5196348bdbe5fd5eea9ac97a5a9eb14\"},{\"path\":\"packages/logging.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/logging.js?07e201b648f16be8435a4f666156995eeda0c750\",\"sourceMap\":\"packages/logging.js.map\",\"sourceMapUrl\":\"/packages/07e201b648f16be8435a4f666156995eeda0c750.map\",\"size\":27996,\"hash\":\"07e201b648f16be8435a4f666156995eeda0c750\"},{\"path\":\"packages/reload.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reload.js?da8974b7231dd8c0caccb5f322dcf97329d486d1\",\"sourceMap\":\"packages/reload.js.map\",\"sourceMapUrl\":\"/packages/da8974b7231dd8c0caccb5f322dcf97329d486d1.map\",\"size\":25926,\"hash\":\"da8974b7231dd8c0caccb5f322dcf97329d486d1\"},{\"path\":\"packages/tracker.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/tracker.js?517c8fe8ed6408951a30941e64a5383a7174bcfa\",\"sourceMap\":\"packages/tracker.js.map\",\"sourceMapUrl\":\"/packages/517c8fe8ed6408951a30941e64a5383a7174bcfa.map\",\"size\":68185,\"hash\":\"517c8fe8ed6408951a30941e64a5383a7174bcfa\"},{\"path\":\"packages/random.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/random.js?fe7b46080c91ce482acf6fc326afbc5b176f0502\",\"sourceMap\":\"packages/random.js.map\",\"sourceMapUrl\":\"/packages/fe7b46080c91ce482acf6fc326afbc5b176f0502.map\",\"size\":24099,\"hash\":\"fe7b46080c91ce482acf6fc326afbc5b176f0502\"},{\"path\":\"packages/retry.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/retry.js?1f1dd2c35d300110fdaba51ce4473583bc3bf031\",\"sourceMap\":\"packages/retry.js.map\",\"sourceMapUrl\":\"/packages/1f1dd2c35d300110fdaba51ce4473583bc3bf031.map\",\"size\":7245,\"hash\":\"1f1dd2c35d300110fdaba51ce4473583bc3bf031\"},{\"path\":\"packages/check.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/check.js?ac81167b8513b85b926c167bba423981b0c4cf9c\",\"sourceMap\":\"packages/check.js.map\",\"sourceMapUrl\":\"/packages/ac81167b8513b85b926c167bba423981b0c4cf9c.map\",\"size\":35647,\"hash\":\"ac81167b8513b85b926c167bba423981b0c4cf9c\"},{\"path\":\"packages/id-map.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/id-map.js?9ea6eaae8d74693ce2505a858d9a5e60cf191298\",\"sourceMap\":\"packages/id-map.js.map\",\"sourceMapUrl\":\"/packages/9ea6eaae8d74693ce2505a858d9a5e60cf191298.map\",\"size\":8584,\"hash\":\"9ea6eaae8d74693ce2505a858d9a5e60cf191298\"},{\"path\":\"packages/ordered-dict.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ordered-dict.js?bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37\",\"sourceMap\":\"packages/ordered-dict.js.map\",\"sourceMapUrl\":\"/packages/bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37.map\",\"size\":20395,\"hash\":\"bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37\"},{\"path\":\"packages/geojson-utils.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/geojson-utils.js?81b79d5cf96d00b4b7a28987debcffb665c17526\",\"sourceMap\":\"packages/geojson-utils.js.map\",\"sourceMapUrl\":\"/packages/81b79d5cf96d00b4b7a28987debcffb665c17526.map\",\"size\":48339,\"hash\":\"81b79d5cf96d00b4b7a28987debcffb665c17526\"},{\"path\":\"packages/minimongo.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/minimongo.js?e8806aa7782b729b2517ebc0cd10b321667f1427\",\"sourceMap\":\"packages/minimongo.js.map\",\"sourceMapUrl\":\"/packages/e8806aa7782b729b2517ebc0cd10b321667f1427.map\",\"size\":455881,\"hash\":\"e8806aa7782b729b2517ebc0cd10b321667f1427\"},{\"path\":\"packages/ddp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ddp.js?41b62dcceb3ce0de6ca79c6aed088cccde6a44d8\",\"sourceMap\":\"packages/ddp.js.map\",\"sourceMapUrl\":\"/packages/41b62dcceb3ce0de6ca79c6aed088cccde6a44d8.map\",\"size\":617153,\"hash\":\"41b62dcceb3ce0de6ca79c6aed088cccde6a44d8\"},{\"path\":\"packages/follower-livedata.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/follower-livedata.js?74156c6baa89da861fc4ddb58ef158eac71e58e0\",\"sourceMap\":\"packages/follower-livedata.js.map\",\"sourceMapUrl\":\"/packages/74156c6baa89da861fc4ddb58ef158eac71e58e0.map\",\"size\":1490,\"hash\":\"74156c6baa89da861fc4ddb58ef158eac71e58e0\"},{\"path\":\"packages/application-configuration.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/application-configuration.js?dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f\",\"sourceMap\":\"packages/application-configuration.js.map\",\"sourceMapUrl\":\"/packages/dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f.map\",\"size\":1485,\"hash\":\"dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f\"},{\"path\":\"packages/insecure.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/insecure.js?3dc9d4a2dad55999b5b15a447d57f3d5fb66b290\",\"sourceMap\":\"packages/insecure.js.map\",\"sourceMapUrl\":\"/packages/3dc9d4a2dad55999b5b15a447d57f3d5fb66b290.map\",\"size\":1290,\"hash\":\"3dc9d4a2dad55999b5b15a447d57f3d5fb66b290\"},{\"path\":\"packages/mongo.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/mongo.js?052f30e968644b2b39a96605ffee73a7684ff37b\",\"sourceMap\":\"packages/mongo.js.map\",\"sourceMapUrl\":\"/packages/052f30e968644b2b39a96605ffee73a7684ff37b.map\",\"size\":147662,\"hash\":\"052f30e968644b2b39a96605ffee73a7684ff37b\"},{\"path\":\"packages/autoupdate.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/autoupdate.js?9a5ea03bf057815385bf569c7acc2c285c005491\",\"sourceMap\":\"packages/autoupdate.js.map\",\"sourceMapUrl\":\"/packages/9a5ea03bf057815385bf569c7acc2c285c005491.map\",\"size\":17152,\"hash\":\"9a5ea03bf057815385bf569c7acc2c285c005491\"},{\"path\":\"packages/meteor-platform.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/meteor-platform.js?499a2f8522e25820b1153c69a92751ccaae507b3\",\"sourceMap\":\"packages/meteor-platform.js.map\",\"sourceMapUrl\":\"/packages/499a2f8522e25820b1153c69a92751ccaae507b3.map\",\"size\":1384,\"hash\":\"499a2f8522e25820b1153c69a92751ccaae507b3\"},{\"path\":\"packages/jquery.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/jquery.js?dd8bac56f8fd3666d433d2285ae01e52597cc51a\",\"sourceMap\":\"packages/jquery.js.map\",\"sourceMapUrl\":\"/packages/dd8bac56f8fd3666d433d2285ae01e52597cc51a.map\",\"size\":1296513,\"hash\":\"dd8bac56f8fd3666d433d2285ae01e52597cc51a\"},{\"path\":\"packages/deps.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/deps.js?504589e1e9585dec8f9f6094e5a87b22de3783a1\",\"sourceMap\":\"packages/deps.js.map\",\"sourceMapUrl\":\"/packages/504589e1e9585dec8f9f6094e5a87b22de3783a1.map\",\"size\":1442,\"hash\":\"504589e1e9585dec8f9f6094e5a87b22de3783a1\"},{\"path\":\"packages/htmljs.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/htmljs.js?567eb96d5d22631c03d6aca6afa4c42f0d1295f2\",\"sourceMap\":\"packages/htmljs.js.map\",\"sourceMapUrl\":\"/packages/567eb96d5d22631c03d6aca6afa4c42f0d1295f2.map\",\"size\":60161,\"hash\":\"567eb96d5d22631c03d6aca6afa4c42f0d1295f2\"},{\"path\":\"packages/observe-sequence.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/observe-sequence.js?2fd807ea171ead273b9e6458607cb226012d9240\",\"sourceMap\":\"packages/observe-sequence.js.map\",\"sourceMapUrl\":\"/packages/2fd807ea171ead273b9e6458607cb226012d9240.map\",\"size\":30271,\"hash\":\"2fd807ea171ead273b9e6458607cb226012d9240\"},{\"path\":\"packages/reactive-var.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reactive-var.js?20335b7b37165980ddd9f23943b2e5b00aae1cc2\",\"sourceMap\":\"packages/reactive-var.js.map\",\"sourceMapUrl\":\"/packages/20335b7b37165980ddd9f23943b2e5b00aae1cc2.map\",\"size\":13963,\"hash\":\"20335b7b37165980ddd9f23943b2e5b00aae1cc2\"},{\"path\":\"packages/blaze.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/blaze.js?efa68f65e67544b5a05509804bf97e2c91ce75eb\",\"sourceMap\":\"packages/blaze.js.map\",\"sourceMapUrl\":\"/packages/efa68f65e67544b5a05509804bf97e2c91ce75eb.map\",\"size\":391530,\"hash\":\"efa68f65e67544b5a05509804bf97e2c91ce75eb\"},{\"path\":\"packages/templating.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/templating.js?599ba307216da826d8b335332ebcc9a497a369a0\",\"sourceMap\":\"packages/templating.js.map\",\"sourceMapUrl\":\"/packages/599ba307216da826d8b335332ebcc9a497a369a0.map\",\"size\":11910,\"hash\":\"599ba307216da826d8b335332ebcc9a497a369a0\"},{\"path\":\"packages/fastclick.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/fastclick.js?fe15770c77da049b885a0d66c669fa44057f05ee\",\"sourceMap\":\"packages/fastclick.js.map\",\"sourceMapUrl\":\"/packages/fe15770c77da049b885a0d66c669fa44057f05ee.map\",\"size\":109373,\"hash\":\"fe15770c77da049b885a0d66c669fa44057f05ee\"},{\"path\":\"packages/ui.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ui.js?5a663333fd30f8fd913f110e0ef779e84f67c4b8\",\"sourceMap\":\"packages/ui.js.map\",\"sourceMapUrl\":\"/packages/5a663333fd30f8fd913f110e0ef779e84f67c4b8.map\",\"size\":1529,\"hash\":\"5a663333fd30f8fd913f110e0ef779e84f67c4b8\"},{\"path\":\"packages/iron_core.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_core.js?d966a1f70c94792fd94c8a155bdbef9bec5e0047\",\"sourceMap\":\"packages/iron_core.js.map\",\"sourceMapUrl\":\"/packages/d966a1f70c94792fd94c8a155bdbef9bec5e0047.map\",\"size\":32915,\"hash\":\"d966a1f70c94792fd94c8a155bdbef9bec5e0047\"},{\"path\":\"packages/iron_dynamic-template.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_dynamic-template.js?ccf1d8e4c1e95e99af04ba0ac922dbd8099fb0bd\",\"sourceMap\":\"packages/iron_dynamic-template.js.map\",\"sourceMapUrl\":\"/packages/ccf1d8e4c1e95e99af04ba0ac922dbd8099fb0bd.map\",\"size\":86389,\"hash\":\"ccf1d8e4c1e95e99af04ba0ac922dbd8099fb0bd\"},{\"path\":\"packages/iron_layout.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_layout.js?4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062\",\"sourceMap\":\"packages/iron_layout.js.map\",\"sourceMapUrl\":\"/packages/4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062.map\",\"size\":62058,\"hash\":\"4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062\"},{\"path\":\"packages/iron_url.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_url.js?f73de31c2603555662bc2fa86029a2e04c9ea051\",\"sourceMap\":\"packages/iron_url.js.map\",\"sourceMapUrl\":\"/packages/f73de31c2603555662bc2fa86029a2e04c9ea051.map\",\"size\":69417,\"hash\":\"f73de31c2603555662bc2fa86029a2e04c9ea051\"},{\"path\":\"packages/iron_middleware-stack.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_middleware-stack.js?56e0c02a758f48c0a704ca978a8fb6d7bd9ebbab\",\"sourceMap\":\"packages/iron_middleware-stack.js.map\",\"sourceMapUrl\":\"/packages/56e0c02a758f48c0a704ca978a8fb6d7bd9ebbab.map\",\"size\":47239,\"hash\":\"56e0c02a758f48c0a704ca978a8fb6d7bd9ebbab\"},{\"path\":\"packages/iron_location.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_location.js?ca4f0f6672edbfb6cafab6e5c024208d9364eac9\",\"sourceMap\":\"packages/iron_location.js.map\",\"sourceMapUrl\":\"/packages/ca4f0f6672edbfb6cafab6e5c024208d9364eac9.map\",\"size\":52275,\"hash\":\"ca4f0f6672edbfb6cafab6e5c024208d9364eac9\"},{\"path\":\"packages/reactive-dict.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reactive-dict.js?6b25309b1f0dcf775b44984324878d6f8ad1abc2\",\"sourceMap\":\"packages/reactive-dict.js.map\",\"sourceMapUrl\":\"/packages/6b25309b1f0dcf775b44984324878d6f8ad1abc2.map\",\"size\":19802,\"hash\":\"6b25309b1f0dcf775b44984324878d6f8ad1abc2\"},{\"path\":\"packages/iron_controller.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_controller.js?5a7eedaafda7001b9d5cb52322a419bbb758968c\",\"sourceMap\":\"packages/iron_controller.js.map\",\"sourceMapUrl\":\"/packages/5a7eedaafda7001b9d5cb52322a419bbb758968c.map\",\"size\":41091,\"hash\":\"5a7eedaafda7001b9d5cb52322a419bbb758968c\"},{\"path\":\"packages/iron_router.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_router.js?7b16fe70bccff9182aca02afb2ccd7708ac57c64\",\"sourceMap\":\"packages/iron_router.js.map\",\"sourceMapUrl\":\"/packages/7b16fe70bccff9182aca02afb2ccd7708ac57c64.map\",\"size\":210846,\"hash\":\"7b16fe70bccff9182aca02afb2ccd7708ac57c64\"},{\"path\":\"packages/session.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/session.js?e436deefadc999c21b6fd16e8e1ecce55c3c3a55\",\"sourceMap\":\"packages/session.js.map\",\"sourceMapUrl\":\"/packages/e436deefadc999c21b6fd16e8e1ecce55c3c3a55.map\",\"size\":6497,\"hash\":\"e436deefadc999c21b6fd16e8e1ecce55c3c3a55\"},{\"path\":\"packages/meteoric_ionic.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/meteoric_ionic.js?708d8d9367c28d8c342bfc218c515f37f52ccc8a\",\"sourceMap\":\"packages/meteoric_ionic.js.map\",\"sourceMapUrl\":\"/packages/708d8d9367c28d8c342bfc218c515f37f52ccc8a.map\",\"size\":678972,\"hash\":\"708d8d9367c28d8c342bfc218c515f37f52ccc8a\"},{\"path\":\"packages/sacha_spin.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sacha_spin.js?6ab6fb94c8dfd98b9fdc1a9831a8051edeec5c04\",\"sourceMap\":\"packages/sacha_spin.js.map\",\"sourceMapUrl\":\"/packages/6ab6fb94c8dfd98b9fdc1a9831a8051edeec5c04.map\",\"size\":48440,\"hash\":\"6ab6fb94c8dfd98b9fdc1a9831a8051edeec5c04\"},{\"path\":\"packages/spacebars.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/spacebars.js?7f53771c84a2eafac2b561c9796dda0d8af8e7f5\",\"sourceMap\":\"packages/spacebars.js.map\",\"sourceMapUrl\":\"/packages/7f53771c84a2eafac2b561c9796dda0d8af8e7f5.map\",\"size\":42206,\"hash\":\"7f53771c84a2eafac2b561c9796dda0d8af8e7f5\"},{\"path\":\"packages/stylus.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/stylus.js?48b7e3e0953c004a73211d7489462e73ed11be2c\",\"sourceMap\":\"packages/stylus.js.map\",\"sourceMapUrl\":\"/packages/48b7e3e0953c004a73211d7489462e73ed11be2c.map\",\"size\":1288,\"hash\":\"48b7e3e0953c004a73211d7489462e73ed11be2c\"},{\"path\":\"packages/localstorage.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/localstorage.js?9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c\",\"sourceMap\":\"packages/localstorage.js.map\",\"sourceMapUrl\":\"/packages/9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c.map\",\"size\":7092,\"hash\":\"9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c\"},{\"path\":\"packages/accounts-base.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/accounts-base.js?88bb0577cebfbd40b522bb337f8ff8af92244c2f\",\"sourceMap\":\"packages/accounts-base.js.map\",\"sourceMapUrl\":\"/packages/88bb0577cebfbd40b522bb337f8ff8af92244c2f.map\",\"size\":109093,\"hash\":\"88bb0577cebfbd40b522bb337f8ff8af92244c2f\"},{\"path\":\"packages/anti_i18n.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/anti_i18n.js?b753e9e958be5df82d8bdde8dc342a2870ccf372\",\"sourceMap\":\"packages/anti_i18n.js.map\",\"sourceMapUrl\":\"/packages/b753e9e958be5df82d8bdde8dc342a2870ccf372.map\",\"size\":11110,\"hash\":\"b753e9e958be5df82d8bdde8dc342a2870ccf372\"},{\"path\":\"packages/twbs_bootstrap.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/twbs_bootstrap.js?e448ccf9152d78f24a6299968e1f39c997a02dbc\",\"sourceMap\":\"packages/twbs_bootstrap.js.map\",\"sourceMapUrl\":\"/packages/e448ccf9152d78f24a6299968e1f39c997a02dbc.map\",\"size\":295541,\"hash\":\"e448ccf9152d78f24a6299968e1f39c997a02dbc\"},{\"path\":\"packages/sha.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sha.js?65ef52f7221944768bfc2049d6b7e163c8ae2615\",\"sourceMap\":\"packages/sha.js.map\",\"sourceMapUrl\":\"/packages/65ef52f7221944768bfc2049d6b7e163c8ae2615.map\",\"size\":19584,\"hash\":\"65ef52f7221944768bfc2049d6b7e163c8ae2615\"},{\"path\":\"packages/srp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/srp.js?e2e28156e8c912d504a3586351c8a1119f664cfd\",\"sourceMap\":\"packages/srp.js.map\",\"sourceMapUrl\":\"/packages/e2e28156e8c912d504a3586351c8a1119f664cfd.map\",\"size\":173470,\"hash\":\"e2e28156e8c912d504a3586351c8a1119f664cfd\"},{\"path\":\"packages/accounts-password.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/accounts-password.js?3845cc71ad2dc1378b7d8cc4164a78359506dd40\",\"sourceMap\":\"packages/accounts-password.js.map\",\"sourceMapUrl\":\"/packages/3845cc71ad2dc1378b7d8cc4164a78359506dd40.map\",\"size\":33170,\"hash\":\"3845cc71ad2dc1378b7d8cc4164a78359506dd40\"},{\"path\":\"packages/ian_accounts-ui-bootstrap-3.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ian_accounts-ui-bootstrap-3.js?35fe3ed34c494919103b87e69262389bb6780e82\",\"sourceMap\":\"packages/ian_accounts-ui-bootstrap-3.js.map\",\"sourceMapUrl\":\"/packages/35fe3ed34c494919103b87e69262389bb6780e82.map\",\"size\":521820,\"hash\":\"35fe3ed34c494919103b87e69262389bb6780e82\"},{\"path\":\"packages/velocity_core.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_core.js?cecf2443254038195518d507d5fe0ecdc5dce435\",\"sourceMap\":\"packages/velocity_core.js.map\",\"sourceMapUrl\":\"/packages/cecf2443254038195518d507d5fe0ecdc5dce435.map\",\"size\":12238,\"hash\":\"cecf2443254038195518d507d5fe0ecdc5dce435\"},{\"path\":\"packages/velocity_shim.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_shim.js?14363d085a412115605c41536e4f2867425b89d5\",\"sourceMap\":\"packages/velocity_shim.js.map\",\"sourceMapUrl\":\"/packages/14363d085a412115605c41536e4f2867425b89d5.map\",\"size\":2905,\"hash\":\"14363d085a412115605c41536e4f2867425b89d5\"},{\"path\":\"packages/coffeescript.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/coffeescript.js?969f68786bbc68e6cad299e74922a53af3d1404b\",\"sourceMap\":\"packages/coffeescript.js.map\",\"sourceMapUrl\":\"/packages/969f68786bbc68e6cad299e74922a53af3d1404b.map\",\"size\":1294,\"hash\":\"969f68786bbc68e6cad299e74922a53af3d1404b\"},{\"path\":\"packages/practicalmeteor_chai.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/practicalmeteor_chai.js?7fbbbec9a13f4adf082b394c5ddd7230d84afc48\",\"sourceMap\":\"packages/practicalmeteor_chai.js.map\",\"sourceMapUrl\":\"/packages/7fbbbec9a13f4adf082b394c5ddd7230d84afc48.map\",\"size\":570118,\"hash\":\"7fbbbec9a13f4adf082b394c5ddd7230d84afc48\"},{\"path\":\"packages/practicalmeteor_loglevel.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/practicalmeteor_loglevel.js?9185331dfa11fd235edfbef93838d4ca3244d638\",\"sourceMap\":\"packages/practicalmeteor_loglevel.js.map\",\"sourceMapUrl\":\"/packages/9185331dfa11fd235edfbef93838d4ca3244d638.map\",\"size\":28719,\"hash\":\"9185331dfa11fd235edfbef93838d4ca3244d638\"},{\"path\":\"packages/sanjo_jasmine.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sanjo_jasmine.js?2278340fa64c071f6d8497a1fe77e4a412864fef\",\"sourceMap\":\"packages/sanjo_jasmine.js.map\",\"sourceMapUrl\":\"/packages/2278340fa64c071f6d8497a1fe77e4a412864fef.map\",\"size\":537993,\"hash\":\"2278340fa64c071f6d8497a1fe77e4a412864fef\"},{\"path\":\"packages/velocity_console-reporter.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_console-reporter.js?ba62cdcac74399a3ddf8b77badc9a308985462a5\",\"sourceMap\":\"packages/velocity_console-reporter.js.map\",\"sourceMapUrl\":\"/packages/ba62cdcac74399a3ddf8b77badc9a308985462a5.map\",\"size\":1398,\"hash\":\"ba62cdcac74399a3ddf8b77badc9a308985462a5\"},{\"path\":\"packages/amplify.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/amplify.js?0943ecb804169b991257a319fa92b9e6f34e2d1b\",\"sourceMap\":\"packages/amplify.js.map\",\"sourceMapUrl\":\"/packages/0943ecb804169b991257a319fa92b9e6f34e2d1b.map\",\"size\":88428,\"hash\":\"0943ecb804169b991257a319fa92b9e6f34e2d1b\"},{\"path\":\"packages/less.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/less.js?7d1bf981a25a449d6270558bcfc983313c40cd26\",\"sourceMap\":\"packages/less.js.map\",\"sourceMapUrl\":\"/packages/7d1bf981a25a449d6270558bcfc983313c40cd26.map\",\"size\":1286,\"hash\":\"7d1bf981a25a449d6270558bcfc983313c40cd26\"},{\"path\":\"packages/velocity_html-reporter.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_html-reporter.js?6f95f68ae89684415e5ad307900c26b670351e36\",\"sourceMap\":\"packages/velocity_html-reporter.js.map\",\"sourceMapUrl\":\"/packages/6f95f68ae89684415e5ad307900c26b670351e36.map\",\"size\":91132,\"hash\":\"6f95f68ae89684415e5ad307900c26b670351e36\"},{\"path\":\"packages/matb33_collection-hooks.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/matb33_collection-hooks.js?6be355737d1b00b2f05a3c833db2d77cd78d8d47\",\"sourceMap\":\"packages/matb33_collection-hooks.js.map\",\"sourceMapUrl\":\"/packages/6be355737d1b00b2f05a3c833db2d77cd78d8d47.map\",\"size\":73611,\"hash\":\"6be355737d1b00b2f05a3c833db2d77cd78d8d47\"},{\"path\":\"packages/webapp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/webapp.js?e1be090051b82f046484dccc2de7d747e50c7328\",\"sourceMap\":\"packages/webapp.js.map\",\"sourceMapUrl\":\"/packages/e1be090051b82f046484dccc2de7d747e50c7328.map\",\"size\":3106,\"hash\":\"e1be090051b82f046484dccc2de7d747e50c7328\"},{\"path\":\"packages/livedata.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/livedata.js?718526445deb4d9baacb6d92c551adea1d36c1e1\",\"sourceMap\":\"packages/livedata.js.map\",\"sourceMapUrl\":\"/packages/718526445deb4d9baacb6d92c551adea1d36c1e1.map\",\"size\":1413,\"hash\":\"718526445deb4d9baacb6d92c551adea1d36c1e1\"},{\"path\":\"packages/launch-screen.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/launch-screen.js?13e1092ebecdb7208762500188f1dc2dea5603e9\",\"sourceMap\":\"packages/launch-screen.js.map\",\"sourceMapUrl\":\"/packages/13e1092ebecdb7208762500188f1dc2dea5603e9.map\",\"size\":9707,\"hash\":\"13e1092ebecdb7208762500188f1dc2dea5603e9\"},{\"path\":\"packages/global-imports.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/global-imports.js?62d5418494f8adaf0d3d8c432d3adee9d7eeb384\",\"size\":1623,\"hash\":\"62d5418494f8adaf0d3d8c432d3adee9d7eeb384\"},{\"path\":\"app/client/templates/application/template.app.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/application/template.app.js?a34dfbd8ba207ed9ad287360f887f2dfb1ed7f39\",\"size\":602,\"hash\":\"a34dfbd8ba207ed9ad287360f887f2dfb1ed7f39\"},{\"path\":\"app/client/templates/application/template.home.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/application/template.home.js?74d61b8fd2c0a5d0297537512649759814e08253\",\"size\":178,\"hash\":\"74d61b8fd2c0a5d0297537512649759814e08253\"},{\"path\":\"app/client/templates/application/template.loading.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/application/template.loading.js?0b820746542c3b65b4fd0c78c00237f88a5c9a3f\",\"size\":206,\"hash\":\"0b820746542c3b65b4fd0c78c00237f88a5c9a3f\"},{\"path\":\"app/client/templates/application/template.navigation.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/application/template.navigation.js?c7e69a73b79bb29ae8173a4808363e9dbd67cd25\",\"size\":1201,\"hash\":\"c7e69a73b79bb29ae8173a4808363e9dbd67cd25\"},{\"path\":\"app/client/templates/application/template.not_found.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/application/template.not_found.js?ffe9ece7057e64e00be21d2394b92eaeddcd8eac\",\"size\":299,\"hash\":\"ffe9ece7057e64e00be21d2394b92eaeddcd8eac\"},{\"path\":\"app/client/templates/deals/template.deal_item.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/deals/template.deal_item.js?ea2cc7919ed75dd19bd09cfbd7cb1f4a54706923\",\"size\":7261,\"hash\":\"ea2cc7919ed75dd19bd09cfbd7cb1f4a54706923\"},{\"path\":\"app/client/templates/deals/template.deals_list.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/deals/template.deals_list.js?cd44a8843be8e88d71f8b6c94a8c73f09556b30b\",\"size\":2422,\"hash\":\"cd44a8843be8e88d71f8b6c94a8c73f09556b30b\"},{\"path\":\"app/client/templates/deals/template.deals_submit.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/deals/template.deals_submit.js?1f8bd13932daf2e621d5aa91b0e87d093b73d7d8\",\"size\":5239,\"hash\":\"1f8bd13932daf2e621d5aa91b0e87d093b73d7d8\"},{\"path\":\"app/client/templates/template.admin_home.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/template.admin_home.js?915866a7d8ecc056addf58f60f0c12e2e40c33a9\",\"size\":376,\"hash\":\"915866a7d8ecc056addf58f60f0c12e2e40c33a9\"},{\"path\":\"app/lib/collections/dealModel.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/collections/dealModel.js?7a7a0795565a707257dc38cabb638d19a9597f8b\",\"size\":2659,\"hash\":\"7a7a0795565a707257dc38cabb638d19a9597f8b\"},{\"path\":\"app/lib/router.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/router.js?176be335299718b3de5e50f287a83672c90ab928\",\"size\":1812,\"hash\":\"176be335299718b3de5e50f287a83672c90ab928\"},{\"path\":\"app/client/templates/deals/deal_item.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/deals/deal_item.js?1e3e352f49e42cd3ffd57c6e91c6e0513c5762e5\",\"size\":1366,\"hash\":\"1e3e352f49e42cd3ffd57c6e91c6e0513c5762e5\"},{\"path\":\"app/client/templates/deals/deals_list.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/deals/deals_list.js?ea6555c2fcca3b7e15762009537948c7cf94afc2\",\"size\":127,\"hash\":\"ea6555c2fcca3b7e15762009537948c7cf94afc2\"},{\"path\":\"app/client/templates/deals/deals_submit.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/deals/deals_submit.js?dd2558fd96ad66c0dd477886f9ed22d714bf7445\",\"size\":1455,\"hash\":\"dd2558fd96ad66c0dd477886f9ed22d714bf7445\"},{\"path\":\"app/client/helpers/errors.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/helpers/errors.js?a5ef08ce5cfd633532834a4739db1c97e74f9c78\",\"size\":164,\"hash\":\"a5ef08ce5cfd633532834a4739db1c97e74f9c78\"},{\"path\":\"app/client/helpers/formatDate.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/helpers/formatDate.js?40df51aa3b56f77b4a78c16fed940537e8b347b7\",\"size\":174,\"hash\":\"40df51aa3b56f77b4a78c16fed940537e8b347b7\"},{\"path\":\"app/client/helpers/pluralize.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/helpers/pluralize.js?b7b70f41c0914026425a8ba1b42c63b329c8738f\",\"size\":202,\"hash\":\"b7b70f41c0914026425a8ba1b42c63b329c8738f\"},{\"path\":\"packages/service-configuration.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/service-configuration.js?262da6fb1e9c97be84333c429c9a2929c80f8e3b\",\"sourceMap\":\"packages/service-configuration.js.map\",\"sourceMapUrl\":\"/packages/262da6fb1e9c97be84333c429c9a2929c80f8e3b.map\",\"size\":5082,\"hash\":\"262da6fb1e9c97be84333c429c9a2929c80f8e3b\"},{\"path\":\"packages/velocity_test-proxy.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_test-proxy.js?f100610392703cf02c7c1c2ffaa061aadb350b34\",\"sourceMap\":\"packages/velocity_test-proxy.js.map\",\"sourceMapUrl\":\"/packages/f100610392703cf02c7c1c2ffaa061aadb350b34.map\",\"size\":6677,\"hash\":\"f100610392703cf02c7c1c2ffaa061aadb350b34\"},{\"path\":\"packages/velocity_node-soft-mirror.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_node-soft-mirror.js?acf27a727fa9aa2f29f237ade3b2046fb9890e36\",\"sourceMap\":\"packages/velocity_node-soft-mirror.js.map\",\"sourceMapUrl\":\"/packages/acf27a727fa9aa2f29f237ade3b2046fb9890e36.map\",\"size\":11067,\"hash\":\"acf27a727fa9aa2f29f237ade3b2046fb9890e36\"},{\"path\":\"a5bb2080e3bb68f9b44bb32168f8bf971292307b.css\",\"where\":\"client\",\"type\":\"css\",\"cacheable\":true,\"url\":\"/a5bb2080e3bb68f9b44bb32168f8bf971292307b.css\",\"sourceMap\":\"a5bb2080e3bb68f9b44bb32168f8bf971292307b.css.map\",\"sourceMapUrl\":\"/a5bb2080e3bb68f9b44bb32168f8bf971292307b.map\",\"size\":160316,\"hash\":\"a5bb2080e3bb68f9b44bb32168f8bf971292307b\"},{\"path\":\"packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.eot\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.eot\",\"size\":20127,\"hash\":\"86b6f62b7853e67d3e635f6512a5a5efc58ea3c3\"},{\"path\":\"packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.svg\",\"size\":108738,\"hash\":\"de51a8494180a6db074af2dee2383f0a363c5b08\"},{\"path\":\"packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.ttf\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.ttf\",\"size\":45404,\"hash\":\"44bc1850f570972267b169ae18f1cb06b611ffa2\"},{\"path\":\"packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff\",\"size\":23424,\"hash\":\"278e49a86e634da6f2a02f3b47dd9d2a8f26210f\"},{\"path\":\"packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff2\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff2\",\"size\":18028,\"hash\":\"ca35b697d99cae4d1b60f2d60fcd37771987eb07\"},{\"path\":\"packages/velocity_html-reporter/lib/velocity_logo.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/velocity_logo.svg\",\"size\":3723,\"hash\":\"bd19ecdc8eb1084f7bb562c298e4ce41f9cdc698\"},{\"path\":\"packages/velocity_html-reporter/lib/velocity_cog.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/velocity_cog.svg\",\"size\":987,\"hash\":\"6e74acfffcbd2bafdc8a95d9db7762ece07b1e81\"},{\"path\":\"packages/velocity_html-reporter/lib/icon-time.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/icon-time.png\",\"size\":2834,\"hash\":\"868f492022a4dab0f1522de6aae0773531bc6e85\"},{\"path\":\"app/Jarvis.js\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/Jarvis.js\",\"size\":588,\"hash\":\"cc1617bcc550305c420cfb6a9763730c42397f9f\"}],\"version\":\"ccdfc1cbbf6afd34f5eb245c4b9ab1adfeeb5797\"}"
+                  "value": "{\"manifest\":[{\"path\":\"packages/underscore.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/underscore.js?0a80a8623e1b40b5df5a05582f288ddd586eaa18\",\"sourceMap\":\"packages/underscore.js.map\",\"sourceMapUrl\":\"/packages/0a80a8623e1b40b5df5a05582f288ddd586eaa18.map\",\"size\":150686,\"hash\":\"0a80a8623e1b40b5df5a05582f288ddd586eaa18\"},{\"path\":\"packages/meteor.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/meteor.js?81e2f06cff198adaa81b3bc09fc4f3728b7370ec\",\"sourceMap\":\"packages/meteor.js.map\",\"sourceMapUrl\":\"/packages/81e2f06cff198adaa81b3bc09fc4f3728b7370ec.map\",\"size\":109437,\"hash\":\"81e2f06cff198adaa81b3bc09fc4f3728b7370ec\"},{\"path\":\"packages/json.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/json.js?e22856eae714c681199eabc5c0710b904b125554\",\"sourceMap\":\"packages/json.js.map\",\"sourceMapUrl\":\"/packages/e22856eae714c681199eabc5c0710b904b125554.map\",\"size\":58343,\"hash\":\"e22856eae714c681199eabc5c0710b904b125554\"},{\"path\":\"packages/base64.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/base64.js?1a63019243b73298e2964e6d4680f25bca657726\",\"sourceMap\":\"packages/base64.js.map\",\"sourceMapUrl\":\"/packages/1a63019243b73298e2964e6d4680f25bca657726.map\",\"size\":15685,\"hash\":\"1a63019243b73298e2964e6d4680f25bca657726\"},{\"path\":\"packages/ejson.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ejson.js?71047b64b5196348bdbe5fd5eea9ac97a5a9eb14\",\"sourceMap\":\"packages/ejson.js.map\",\"sourceMapUrl\":\"/packages/71047b64b5196348bdbe5fd5eea9ac97a5a9eb14.map\",\"size\":81471,\"hash\":\"71047b64b5196348bdbe5fd5eea9ac97a5a9eb14\"},{\"path\":\"packages/logging.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/logging.js?07e201b648f16be8435a4f666156995eeda0c750\",\"sourceMap\":\"packages/logging.js.map\",\"sourceMapUrl\":\"/packages/07e201b648f16be8435a4f666156995eeda0c750.map\",\"size\":27996,\"hash\":\"07e201b648f16be8435a4f666156995eeda0c750\"},{\"path\":\"packages/reload.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reload.js?da8974b7231dd8c0caccb5f322dcf97329d486d1\",\"sourceMap\":\"packages/reload.js.map\",\"sourceMapUrl\":\"/packages/da8974b7231dd8c0caccb5f322dcf97329d486d1.map\",\"size\":25926,\"hash\":\"da8974b7231dd8c0caccb5f322dcf97329d486d1\"},{\"path\":\"packages/tracker.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/tracker.js?517c8fe8ed6408951a30941e64a5383a7174bcfa\",\"sourceMap\":\"packages/tracker.js.map\",\"sourceMapUrl\":\"/packages/517c8fe8ed6408951a30941e64a5383a7174bcfa.map\",\"size\":68185,\"hash\":\"517c8fe8ed6408951a30941e64a5383a7174bcfa\"},{\"path\":\"packages/random.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/random.js?fe7b46080c91ce482acf6fc326afbc5b176f0502\",\"sourceMap\":\"packages/random.js.map\",\"sourceMapUrl\":\"/packages/fe7b46080c91ce482acf6fc326afbc5b176f0502.map\",\"size\":24099,\"hash\":\"fe7b46080c91ce482acf6fc326afbc5b176f0502\"},{\"path\":\"packages/retry.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/retry.js?1f1dd2c35d300110fdaba51ce4473583bc3bf031\",\"sourceMap\":\"packages/retry.js.map\",\"sourceMapUrl\":\"/packages/1f1dd2c35d300110fdaba51ce4473583bc3bf031.map\",\"size\":7245,\"hash\":\"1f1dd2c35d300110fdaba51ce4473583bc3bf031\"},{\"path\":\"packages/check.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/check.js?ac81167b8513b85b926c167bba423981b0c4cf9c\",\"sourceMap\":\"packages/check.js.map\",\"sourceMapUrl\":\"/packages/ac81167b8513b85b926c167bba423981b0c4cf9c.map\",\"size\":35647,\"hash\":\"ac81167b8513b85b926c167bba423981b0c4cf9c\"},{\"path\":\"packages/id-map.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/id-map.js?9ea6eaae8d74693ce2505a858d9a5e60cf191298\",\"sourceMap\":\"packages/id-map.js.map\",\"sourceMapUrl\":\"/packages/9ea6eaae8d74693ce2505a858d9a5e60cf191298.map\",\"size\":8584,\"hash\":\"9ea6eaae8d74693ce2505a858d9a5e60cf191298\"},{\"path\":\"packages/ordered-dict.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ordered-dict.js?bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37\",\"sourceMap\":\"packages/ordered-dict.js.map\",\"sourceMapUrl\":\"/packages/bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37.map\",\"size\":20395,\"hash\":\"bf8af2f26c8d96bf8b2e6b407d3ed69f23c2cd37\"},{\"path\":\"packages/geojson-utils.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/geojson-utils.js?81b79d5cf96d00b4b7a28987debcffb665c17526\",\"sourceMap\":\"packages/geojson-utils.js.map\",\"sourceMapUrl\":\"/packages/81b79d5cf96d00b4b7a28987debcffb665c17526.map\",\"size\":48339,\"hash\":\"81b79d5cf96d00b4b7a28987debcffb665c17526\"},{\"path\":\"packages/minimongo.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/minimongo.js?e8806aa7782b729b2517ebc0cd10b321667f1427\",\"sourceMap\":\"packages/minimongo.js.map\",\"sourceMapUrl\":\"/packages/e8806aa7782b729b2517ebc0cd10b321667f1427.map\",\"size\":455881,\"hash\":\"e8806aa7782b729b2517ebc0cd10b321667f1427\"},{\"path\":\"packages/ddp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ddp.js?41b62dcceb3ce0de6ca79c6aed088cccde6a44d8\",\"sourceMap\":\"packages/ddp.js.map\",\"sourceMapUrl\":\"/packages/41b62dcceb3ce0de6ca79c6aed088cccde6a44d8.map\",\"size\":617153,\"hash\":\"41b62dcceb3ce0de6ca79c6aed088cccde6a44d8\"},{\"path\":\"packages/follower-livedata.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/follower-livedata.js?74156c6baa89da861fc4ddb58ef158eac71e58e0\",\"sourceMap\":\"packages/follower-livedata.js.map\",\"sourceMapUrl\":\"/packages/74156c6baa89da861fc4ddb58ef158eac71e58e0.map\",\"size\":1490,\"hash\":\"74156c6baa89da861fc4ddb58ef158eac71e58e0\"},{\"path\":\"packages/application-configuration.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/application-configuration.js?dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f\",\"sourceMap\":\"packages/application-configuration.js.map\",\"sourceMapUrl\":\"/packages/dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f.map\",\"size\":1485,\"hash\":\"dcbf1f0774460fccf098a4c9e8fad4c3a0f2952f\"},{\"path\":\"packages/insecure.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/insecure.js?3dc9d4a2dad55999b5b15a447d57f3d5fb66b290\",\"sourceMap\":\"packages/insecure.js.map\",\"sourceMapUrl\":\"/packages/3dc9d4a2dad55999b5b15a447d57f3d5fb66b290.map\",\"size\":1290,\"hash\":\"3dc9d4a2dad55999b5b15a447d57f3d5fb66b290\"},{\"path\":\"packages/mongo.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/mongo.js?052f30e968644b2b39a96605ffee73a7684ff37b\",\"sourceMap\":\"packages/mongo.js.map\",\"sourceMapUrl\":\"/packages/052f30e968644b2b39a96605ffee73a7684ff37b.map\",\"size\":147662,\"hash\":\"052f30e968644b2b39a96605ffee73a7684ff37b\"},{\"path\":\"packages/autoupdate.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/autoupdate.js?9a5ea03bf057815385bf569c7acc2c285c005491\",\"sourceMap\":\"packages/autoupdate.js.map\",\"sourceMapUrl\":\"/packages/9a5ea03bf057815385bf569c7acc2c285c005491.map\",\"size\":17152,\"hash\":\"9a5ea03bf057815385bf569c7acc2c285c005491\"},{\"path\":\"packages/meteor-platform.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/meteor-platform.js?499a2f8522e25820b1153c69a92751ccaae507b3\",\"sourceMap\":\"packages/meteor-platform.js.map\",\"sourceMapUrl\":\"/packages/499a2f8522e25820b1153c69a92751ccaae507b3.map\",\"size\":1384,\"hash\":\"499a2f8522e25820b1153c69a92751ccaae507b3\"},{\"path\":\"packages/jquery.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/jquery.js?dd8bac56f8fd3666d433d2285ae01e52597cc51a\",\"sourceMap\":\"packages/jquery.js.map\",\"sourceMapUrl\":\"/packages/dd8bac56f8fd3666d433d2285ae01e52597cc51a.map\",\"size\":1296513,\"hash\":\"dd8bac56f8fd3666d433d2285ae01e52597cc51a\"},{\"path\":\"packages/deps.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/deps.js?504589e1e9585dec8f9f6094e5a87b22de3783a1\",\"sourceMap\":\"packages/deps.js.map\",\"sourceMapUrl\":\"/packages/504589e1e9585dec8f9f6094e5a87b22de3783a1.map\",\"size\":1442,\"hash\":\"504589e1e9585dec8f9f6094e5a87b22de3783a1\"},{\"path\":\"packages/htmljs.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/htmljs.js?567eb96d5d22631c03d6aca6afa4c42f0d1295f2\",\"sourceMap\":\"packages/htmljs.js.map\",\"sourceMapUrl\":\"/packages/567eb96d5d22631c03d6aca6afa4c42f0d1295f2.map\",\"size\":60161,\"hash\":\"567eb96d5d22631c03d6aca6afa4c42f0d1295f2\"},{\"path\":\"packages/observe-sequence.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/observe-sequence.js?2fd807ea171ead273b9e6458607cb226012d9240\",\"sourceMap\":\"packages/observe-sequence.js.map\",\"sourceMapUrl\":\"/packages/2fd807ea171ead273b9e6458607cb226012d9240.map\",\"size\":30271,\"hash\":\"2fd807ea171ead273b9e6458607cb226012d9240\"},{\"path\":\"packages/reactive-var.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reactive-var.js?20335b7b37165980ddd9f23943b2e5b00aae1cc2\",\"sourceMap\":\"packages/reactive-var.js.map\",\"sourceMapUrl\":\"/packages/20335b7b37165980ddd9f23943b2e5b00aae1cc2.map\",\"size\":13963,\"hash\":\"20335b7b37165980ddd9f23943b2e5b00aae1cc2\"},{\"path\":\"packages/blaze.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/blaze.js?efa68f65e67544b5a05509804bf97e2c91ce75eb\",\"sourceMap\":\"packages/blaze.js.map\",\"sourceMapUrl\":\"/packages/efa68f65e67544b5a05509804bf97e2c91ce75eb.map\",\"size\":391530,\"hash\":\"efa68f65e67544b5a05509804bf97e2c91ce75eb\"},{\"path\":\"packages/templating.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/templating.js?599ba307216da826d8b335332ebcc9a497a369a0\",\"sourceMap\":\"packages/templating.js.map\",\"sourceMapUrl\":\"/packages/599ba307216da826d8b335332ebcc9a497a369a0.map\",\"size\":11910,\"hash\":\"599ba307216da826d8b335332ebcc9a497a369a0\"},{\"path\":\"packages/fastclick.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/fastclick.js?fe15770c77da049b885a0d66c669fa44057f05ee\",\"sourceMap\":\"packages/fastclick.js.map\",\"sourceMapUrl\":\"/packages/fe15770c77da049b885a0d66c669fa44057f05ee.map\",\"size\":109373,\"hash\":\"fe15770c77da049b885a0d66c669fa44057f05ee\"},{\"path\":\"packages/ui.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ui.js?5a663333fd30f8fd913f110e0ef779e84f67c4b8\",\"sourceMap\":\"packages/ui.js.map\",\"sourceMapUrl\":\"/packages/5a663333fd30f8fd913f110e0ef779e84f67c4b8.map\",\"size\":1529,\"hash\":\"5a663333fd30f8fd913f110e0ef779e84f67c4b8\"},{\"path\":\"packages/iron_core.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_core.js?d966a1f70c94792fd94c8a155bdbef9bec5e0047\",\"sourceMap\":\"packages/iron_core.js.map\",\"sourceMapUrl\":\"/packages/d966a1f70c94792fd94c8a155bdbef9bec5e0047.map\",\"size\":32915,\"hash\":\"d966a1f70c94792fd94c8a155bdbef9bec5e0047\"},{\"path\":\"packages/iron_dynamic-template.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_dynamic-template.js?ccf1d8e4c1e95e99af04ba0ac922dbd8099fb0bd\",\"sourceMap\":\"packages/iron_dynamic-template.js.map\",\"sourceMapUrl\":\"/packages/ccf1d8e4c1e95e99af04ba0ac922dbd8099fb0bd.map\",\"size\":86389,\"hash\":\"ccf1d8e4c1e95e99af04ba0ac922dbd8099fb0bd\"},{\"path\":\"packages/iron_layout.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_layout.js?4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062\",\"sourceMap\":\"packages/iron_layout.js.map\",\"sourceMapUrl\":\"/packages/4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062.map\",\"size\":62058,\"hash\":\"4e65c46acdaf0ce6a8b1a479d7b9d0b5c0902062\"},{\"path\":\"packages/iron_url.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_url.js?f73de31c2603555662bc2fa86029a2e04c9ea051\",\"sourceMap\":\"packages/iron_url.js.map\",\"sourceMapUrl\":\"/packages/f73de31c2603555662bc2fa86029a2e04c9ea051.map\",\"size\":69417,\"hash\":\"f73de31c2603555662bc2fa86029a2e04c9ea051\"},{\"path\":\"packages/iron_middleware-stack.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_middleware-stack.js?56e0c02a758f48c0a704ca978a8fb6d7bd9ebbab\",\"sourceMap\":\"packages/iron_middleware-stack.js.map\",\"sourceMapUrl\":\"/packages/56e0c02a758f48c0a704ca978a8fb6d7bd9ebbab.map\",\"size\":47239,\"hash\":\"56e0c02a758f48c0a704ca978a8fb6d7bd9ebbab\"},{\"path\":\"packages/iron_location.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_location.js?ca4f0f6672edbfb6cafab6e5c024208d9364eac9\",\"sourceMap\":\"packages/iron_location.js.map\",\"sourceMapUrl\":\"/packages/ca4f0f6672edbfb6cafab6e5c024208d9364eac9.map\",\"size\":52275,\"hash\":\"ca4f0f6672edbfb6cafab6e5c024208d9364eac9\"},{\"path\":\"packages/reactive-dict.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/reactive-dict.js?6b25309b1f0dcf775b44984324878d6f8ad1abc2\",\"sourceMap\":\"packages/reactive-dict.js.map\",\"sourceMapUrl\":\"/packages/6b25309b1f0dcf775b44984324878d6f8ad1abc2.map\",\"size\":19802,\"hash\":\"6b25309b1f0dcf775b44984324878d6f8ad1abc2\"},{\"path\":\"packages/iron_controller.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_controller.js?5a7eedaafda7001b9d5cb52322a419bbb758968c\",\"sourceMap\":\"packages/iron_controller.js.map\",\"sourceMapUrl\":\"/packages/5a7eedaafda7001b9d5cb52322a419bbb758968c.map\",\"size\":41091,\"hash\":\"5a7eedaafda7001b9d5cb52322a419bbb758968c\"},{\"path\":\"packages/iron_router.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/iron_router.js?7b16fe70bccff9182aca02afb2ccd7708ac57c64\",\"sourceMap\":\"packages/iron_router.js.map\",\"sourceMapUrl\":\"/packages/7b16fe70bccff9182aca02afb2ccd7708ac57c64.map\",\"size\":210846,\"hash\":\"7b16fe70bccff9182aca02afb2ccd7708ac57c64\"},{\"path\":\"packages/session.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/session.js?e436deefadc999c21b6fd16e8e1ecce55c3c3a55\",\"sourceMap\":\"packages/session.js.map\",\"sourceMapUrl\":\"/packages/e436deefadc999c21b6fd16e8e1ecce55c3c3a55.map\",\"size\":6497,\"hash\":\"e436deefadc999c21b6fd16e8e1ecce55c3c3a55\"},{\"path\":\"packages/meteoric_ionic.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/meteoric_ionic.js?708d8d9367c28d8c342bfc218c515f37f52ccc8a\",\"sourceMap\":\"packages/meteoric_ionic.js.map\",\"sourceMapUrl\":\"/packages/708d8d9367c28d8c342bfc218c515f37f52ccc8a.map\",\"size\":678972,\"hash\":\"708d8d9367c28d8c342bfc218c515f37f52ccc8a\"},{\"path\":\"packages/sacha_spin.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sacha_spin.js?6ab6fb94c8dfd98b9fdc1a9831a8051edeec5c04\",\"sourceMap\":\"packages/sacha_spin.js.map\",\"sourceMapUrl\":\"/packages/6ab6fb94c8dfd98b9fdc1a9831a8051edeec5c04.map\",\"size\":48440,\"hash\":\"6ab6fb94c8dfd98b9fdc1a9831a8051edeec5c04\"},{\"path\":\"packages/spacebars.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/spacebars.js?7f53771c84a2eafac2b561c9796dda0d8af8e7f5\",\"sourceMap\":\"packages/spacebars.js.map\",\"sourceMapUrl\":\"/packages/7f53771c84a2eafac2b561c9796dda0d8af8e7f5.map\",\"size\":42206,\"hash\":\"7f53771c84a2eafac2b561c9796dda0d8af8e7f5\"},{\"path\":\"packages/stylus.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/stylus.js?48b7e3e0953c004a73211d7489462e73ed11be2c\",\"sourceMap\":\"packages/stylus.js.map\",\"sourceMapUrl\":\"/packages/48b7e3e0953c004a73211d7489462e73ed11be2c.map\",\"size\":1288,\"hash\":\"48b7e3e0953c004a73211d7489462e73ed11be2c\"},{\"path\":\"packages/localstorage.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/localstorage.js?9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c\",\"sourceMap\":\"packages/localstorage.js.map\",\"sourceMapUrl\":\"/packages/9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c.map\",\"size\":7092,\"hash\":\"9ec7d68858d2e33aa807e5cfd5e12bb4d62fe00c\"},{\"path\":\"packages/accounts-base.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/accounts-base.js?88bb0577cebfbd40b522bb337f8ff8af92244c2f\",\"sourceMap\":\"packages/accounts-base.js.map\",\"sourceMapUrl\":\"/packages/88bb0577cebfbd40b522bb337f8ff8af92244c2f.map\",\"size\":109093,\"hash\":\"88bb0577cebfbd40b522bb337f8ff8af92244c2f\"},{\"path\":\"packages/anti_i18n.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/anti_i18n.js?b753e9e958be5df82d8bdde8dc342a2870ccf372\",\"sourceMap\":\"packages/anti_i18n.js.map\",\"sourceMapUrl\":\"/packages/b753e9e958be5df82d8bdde8dc342a2870ccf372.map\",\"size\":11110,\"hash\":\"b753e9e958be5df82d8bdde8dc342a2870ccf372\"},{\"path\":\"packages/twbs_bootstrap.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/twbs_bootstrap.js?e448ccf9152d78f24a6299968e1f39c997a02dbc\",\"sourceMap\":\"packages/twbs_bootstrap.js.map\",\"sourceMapUrl\":\"/packages/e448ccf9152d78f24a6299968e1f39c997a02dbc.map\",\"size\":295541,\"hash\":\"e448ccf9152d78f24a6299968e1f39c997a02dbc\"},{\"path\":\"packages/sha.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sha.js?65ef52f7221944768bfc2049d6b7e163c8ae2615\",\"sourceMap\":\"packages/sha.js.map\",\"sourceMapUrl\":\"/packages/65ef52f7221944768bfc2049d6b7e163c8ae2615.map\",\"size\":19584,\"hash\":\"65ef52f7221944768bfc2049d6b7e163c8ae2615\"},{\"path\":\"packages/srp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/srp.js?e2e28156e8c912d504a3586351c8a1119f664cfd\",\"sourceMap\":\"packages/srp.js.map\",\"sourceMapUrl\":\"/packages/e2e28156e8c912d504a3586351c8a1119f664cfd.map\",\"size\":173470,\"hash\":\"e2e28156e8c912d504a3586351c8a1119f664cfd\"},{\"path\":\"packages/accounts-password.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/accounts-password.js?3845cc71ad2dc1378b7d8cc4164a78359506dd40\",\"sourceMap\":\"packages/accounts-password.js.map\",\"sourceMapUrl\":\"/packages/3845cc71ad2dc1378b7d8cc4164a78359506dd40.map\",\"size\":33170,\"hash\":\"3845cc71ad2dc1378b7d8cc4164a78359506dd40\"},{\"path\":\"packages/ian_accounts-ui-bootstrap-3.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/ian_accounts-ui-bootstrap-3.js?35fe3ed34c494919103b87e69262389bb6780e82\",\"sourceMap\":\"packages/ian_accounts-ui-bootstrap-3.js.map\",\"sourceMapUrl\":\"/packages/35fe3ed34c494919103b87e69262389bb6780e82.map\",\"size\":521820,\"hash\":\"35fe3ed34c494919103b87e69262389bb6780e82\"},{\"path\":\"packages/velocity_core.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_core.js?cecf2443254038195518d507d5fe0ecdc5dce435\",\"sourceMap\":\"packages/velocity_core.js.map\",\"sourceMapUrl\":\"/packages/cecf2443254038195518d507d5fe0ecdc5dce435.map\",\"size\":12238,\"hash\":\"cecf2443254038195518d507d5fe0ecdc5dce435\"},{\"path\":\"packages/velocity_shim.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_shim.js?14363d085a412115605c41536e4f2867425b89d5\",\"sourceMap\":\"packages/velocity_shim.js.map\",\"sourceMapUrl\":\"/packages/14363d085a412115605c41536e4f2867425b89d5.map\",\"size\":2905,\"hash\":\"14363d085a412115605c41536e4f2867425b89d5\"},{\"path\":\"packages/coffeescript.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/coffeescript.js?969f68786bbc68e6cad299e74922a53af3d1404b\",\"sourceMap\":\"packages/coffeescript.js.map\",\"sourceMapUrl\":\"/packages/969f68786bbc68e6cad299e74922a53af3d1404b.map\",\"size\":1294,\"hash\":\"969f68786bbc68e6cad299e74922a53af3d1404b\"},{\"path\":\"packages/practicalmeteor_chai.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/practicalmeteor_chai.js?7fbbbec9a13f4adf082b394c5ddd7230d84afc48\",\"sourceMap\":\"packages/practicalmeteor_chai.js.map\",\"sourceMapUrl\":\"/packages/7fbbbec9a13f4adf082b394c5ddd7230d84afc48.map\",\"size\":570118,\"hash\":\"7fbbbec9a13f4adf082b394c5ddd7230d84afc48\"},{\"path\":\"packages/practicalmeteor_loglevel.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/practicalmeteor_loglevel.js?9185331dfa11fd235edfbef93838d4ca3244d638\",\"sourceMap\":\"packages/practicalmeteor_loglevel.js.map\",\"sourceMapUrl\":\"/packages/9185331dfa11fd235edfbef93838d4ca3244d638.map\",\"size\":28719,\"hash\":\"9185331dfa11fd235edfbef93838d4ca3244d638\"},{\"path\":\"packages/sanjo_jasmine.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/sanjo_jasmine.js?2278340fa64c071f6d8497a1fe77e4a412864fef\",\"sourceMap\":\"packages/sanjo_jasmine.js.map\",\"sourceMapUrl\":\"/packages/2278340fa64c071f6d8497a1fe77e4a412864fef.map\",\"size\":537993,\"hash\":\"2278340fa64c071f6d8497a1fe77e4a412864fef\"},{\"path\":\"packages/velocity_console-reporter.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_console-reporter.js?ba62cdcac74399a3ddf8b77badc9a308985462a5\",\"sourceMap\":\"packages/velocity_console-reporter.js.map\",\"sourceMapUrl\":\"/packages/ba62cdcac74399a3ddf8b77badc9a308985462a5.map\",\"size\":1398,\"hash\":\"ba62cdcac74399a3ddf8b77badc9a308985462a5\"},{\"path\":\"packages/amplify.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/amplify.js?0943ecb804169b991257a319fa92b9e6f34e2d1b\",\"sourceMap\":\"packages/amplify.js.map\",\"sourceMapUrl\":\"/packages/0943ecb804169b991257a319fa92b9e6f34e2d1b.map\",\"size\":88428,\"hash\":\"0943ecb804169b991257a319fa92b9e6f34e2d1b\"},{\"path\":\"packages/less.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/less.js?7d1bf981a25a449d6270558bcfc983313c40cd26\",\"sourceMap\":\"packages/less.js.map\",\"sourceMapUrl\":\"/packages/7d1bf981a25a449d6270558bcfc983313c40cd26.map\",\"size\":1286,\"hash\":\"7d1bf981a25a449d6270558bcfc983313c40cd26\"},{\"path\":\"packages/velocity_html-reporter.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_html-reporter.js?6f95f68ae89684415e5ad307900c26b670351e36\",\"sourceMap\":\"packages/velocity_html-reporter.js.map\",\"sourceMapUrl\":\"/packages/6f95f68ae89684415e5ad307900c26b670351e36.map\",\"size\":91132,\"hash\":\"6f95f68ae89684415e5ad307900c26b670351e36\"},{\"path\":\"packages/matb33_collection-hooks.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/matb33_collection-hooks.js?6be355737d1b00b2f05a3c833db2d77cd78d8d47\",\"sourceMap\":\"packages/matb33_collection-hooks.js.map\",\"sourceMapUrl\":\"/packages/6be355737d1b00b2f05a3c833db2d77cd78d8d47.map\",\"size\":73611,\"hash\":\"6be355737d1b00b2f05a3c833db2d77cd78d8d47\"},{\"path\":\"packages/webapp.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/webapp.js?e1be090051b82f046484dccc2de7d747e50c7328\",\"sourceMap\":\"packages/webapp.js.map\",\"sourceMapUrl\":\"/packages/e1be090051b82f046484dccc2de7d747e50c7328.map\",\"size\":3106,\"hash\":\"e1be090051b82f046484dccc2de7d747e50c7328\"},{\"path\":\"packages/livedata.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/livedata.js?718526445deb4d9baacb6d92c551adea1d36c1e1\",\"sourceMap\":\"packages/livedata.js.map\",\"sourceMapUrl\":\"/packages/718526445deb4d9baacb6d92c551adea1d36c1e1.map\",\"size\":1413,\"hash\":\"718526445deb4d9baacb6d92c551adea1d36c1e1\"},{\"path\":\"packages/launch-screen.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/launch-screen.js?13e1092ebecdb7208762500188f1dc2dea5603e9\",\"sourceMap\":\"packages/launch-screen.js.map\",\"sourceMapUrl\":\"/packages/13e1092ebecdb7208762500188f1dc2dea5603e9.map\",\"size\":9707,\"hash\":\"13e1092ebecdb7208762500188f1dc2dea5603e9\"},{\"path\":\"packages/global-imports.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/global-imports.js?62d5418494f8adaf0d3d8c432d3adee9d7eeb384\",\"size\":1623,\"hash\":\"62d5418494f8adaf0d3d8c432d3adee9d7eeb384\"},{\"path\":\"app/client/templates/application/template.app.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/application/template.app.js?63d9d3a1fd56b4641167918b2a4d17a5585703a6\",\"size\":603,\"hash\":\"63d9d3a1fd56b4641167918b2a4d17a5585703a6\"},{\"path\":\"app/client/templates/application/template.home.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/application/template.home.js?74d61b8fd2c0a5d0297537512649759814e08253\",\"size\":178,\"hash\":\"74d61b8fd2c0a5d0297537512649759814e08253\"},{\"path\":\"app/client/templates/application/template.loading.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/application/template.loading.js?0b820746542c3b65b4fd0c78c00237f88a5c9a3f\",\"size\":206,\"hash\":\"0b820746542c3b65b4fd0c78c00237f88a5c9a3f\"},{\"path\":\"app/client/templates/application/template.navigation.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/application/template.navigation.js?c7e69a73b79bb29ae8173a4808363e9dbd67cd25\",\"size\":1201,\"hash\":\"c7e69a73b79bb29ae8173a4808363e9dbd67cd25\"},{\"path\":\"app/client/templates/application/template.not_found.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/application/template.not_found.js?ffe9ece7057e64e00be21d2394b92eaeddcd8eac\",\"size\":299,\"hash\":\"ffe9ece7057e64e00be21d2394b92eaeddcd8eac\"},{\"path\":\"app/client/templates/deals/template.deal_item.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/deals/template.deal_item.js?d2305cfa6b04efb133d4628c84307154cee1e2d6\",\"size\":7249,\"hash\":\"d2305cfa6b04efb133d4628c84307154cee1e2d6\"},{\"path\":\"app/client/templates/deals/template.deals_list.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/deals/template.deals_list.js?5de37a5fcd6b9a82119e7cdbb3227ba36d51591a\",\"size\":3894,\"hash\":\"5de37a5fcd6b9a82119e7cdbb3227ba36d51591a\"},{\"path\":\"app/client/templates/deals/template.deals_submit.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/deals/template.deals_submit.js?1f8bd13932daf2e621d5aa91b0e87d093b73d7d8\",\"size\":5239,\"hash\":\"1f8bd13932daf2e621d5aa91b0e87d093b73d7d8\"},{\"path\":\"app/client/templates/template.admin_home.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/template.admin_home.js?915866a7d8ecc056addf58f60f0c12e2e40c33a9\",\"size\":376,\"hash\":\"915866a7d8ecc056addf58f60f0c12e2e40c33a9\"},{\"path\":\"app/lib/collections/dealModel.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/collections/dealModel.js?46d1b4622a10bc98dcd1f8031a30cfdac33d2f3e\",\"size\":2689,\"hash\":\"46d1b4622a10bc98dcd1f8031a30cfdac33d2f3e\"},{\"path\":\"app/lib/router.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/lib/router.js?176be335299718b3de5e50f287a83672c90ab928\",\"size\":1812,\"hash\":\"176be335299718b3de5e50f287a83672c90ab928\"},{\"path\":\"app/client/templates/deals/deal_item.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/deals/deal_item.js?1e3e352f49e42cd3ffd57c6e91c6e0513c5762e5\",\"size\":1366,\"hash\":\"1e3e352f49e42cd3ffd57c6e91c6e0513c5762e5\"},{\"path\":\"app/client/templates/deals/deals_list.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/deals/deals_list.js?317be20636412b0d7d427ce136f4f0b9445ef8b2\",\"size\":127,\"hash\":\"317be20636412b0d7d427ce136f4f0b9445ef8b2\"},{\"path\":\"app/client/templates/deals/deals_submit.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/templates/deals/deals_submit.js?dd2558fd96ad66c0dd477886f9ed22d714bf7445\",\"size\":1455,\"hash\":\"dd2558fd96ad66c0dd477886f9ed22d714bf7445\"},{\"path\":\"app/client/helpers/errors.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/helpers/errors.js?a5ef08ce5cfd633532834a4739db1c97e74f9c78\",\"size\":164,\"hash\":\"a5ef08ce5cfd633532834a4739db1c97e74f9c78\"},{\"path\":\"app/client/helpers/formatDate.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/helpers/formatDate.js?98ad397273cdf3314e4a478c1bd0e029ec311e0d\",\"size\":173,\"hash\":\"98ad397273cdf3314e4a478c1bd0e029ec311e0d\"},{\"path\":\"app/client/helpers/pluralize.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/client/helpers/pluralize.js?b7b70f41c0914026425a8ba1b42c63b329c8738f\",\"size\":202,\"hash\":\"b7b70f41c0914026425a8ba1b42c63b329c8738f\"},{\"path\":\"packages/service-configuration.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/service-configuration.js?262da6fb1e9c97be84333c429c9a2929c80f8e3b\",\"sourceMap\":\"packages/service-configuration.js.map\",\"sourceMapUrl\":\"/packages/262da6fb1e9c97be84333c429c9a2929c80f8e3b.map\",\"size\":5082,\"hash\":\"262da6fb1e9c97be84333c429c9a2929c80f8e3b\"},{\"path\":\"packages/velocity_test-proxy.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_test-proxy.js?ea82029353a37c93dfed1c9c2996457d4f57b49f\",\"sourceMap\":\"packages/velocity_test-proxy.js.map\",\"sourceMapUrl\":\"/packages/ea82029353a37c93dfed1c9c2996457d4f57b49f.map\",\"size\":6677,\"hash\":\"ea82029353a37c93dfed1c9c2996457d4f57b49f\"},{\"path\":\"packages/velocity_node-soft-mirror.js\",\"where\":\"client\",\"type\":\"js\",\"cacheable\":true,\"url\":\"/packages/velocity_node-soft-mirror.js?acf27a727fa9aa2f29f237ade3b2046fb9890e36\",\"sourceMap\":\"packages/velocity_node-soft-mirror.js.map\",\"sourceMapUrl\":\"/packages/acf27a727fa9aa2f29f237ade3b2046fb9890e36.map\",\"size\":11067,\"hash\":\"acf27a727fa9aa2f29f237ade3b2046fb9890e36\"},{\"path\":\"6bcdfff2283ff2d6bf87285572314c15795e502e.css\",\"where\":\"client\",\"type\":\"css\",\"cacheable\":true,\"url\":\"/6bcdfff2283ff2d6bf87285572314c15795e502e.css\",\"sourceMap\":\"6bcdfff2283ff2d6bf87285572314c15795e502e.css.map\",\"sourceMapUrl\":\"/6bcdfff2283ff2d6bf87285572314c15795e502e.map\",\"size\":160396,\"hash\":\"6bcdfff2283ff2d6bf87285572314c15795e502e\"},{\"path\":\"packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.eot\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.eot\",\"size\":20127,\"hash\":\"86b6f62b7853e67d3e635f6512a5a5efc58ea3c3\"},{\"path\":\"packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.svg\",\"size\":108738,\"hash\":\"de51a8494180a6db074af2dee2383f0a363c5b08\"},{\"path\":\"packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.ttf\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.ttf\",\"size\":45404,\"hash\":\"44bc1850f570972267b169ae18f1cb06b611ffa2\"},{\"path\":\"packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff\",\"size\":23424,\"hash\":\"278e49a86e634da6f2a02f3b47dd9d2a8f26210f\"},{\"path\":\"packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff2\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/twbs_bootstrap/dist/fonts/glyphicons-halflings-regular.woff2\",\"size\":18028,\"hash\":\"ca35b697d99cae4d1b60f2d60fcd37771987eb07\"},{\"path\":\"packages/velocity_html-reporter/lib/velocity_logo.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/velocity_logo.svg\",\"size\":3723,\"hash\":\"bd19ecdc8eb1084f7bb562c298e4ce41f9cdc698\"},{\"path\":\"packages/velocity_html-reporter/lib/velocity_cog.svg\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/velocity_cog.svg\",\"size\":987,\"hash\":\"6e74acfffcbd2bafdc8a95d9db7762ece07b1e81\"},{\"path\":\"packages/velocity_html-reporter/lib/icon-time.png\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/packages/velocity_html-reporter/lib/icon-time.png\",\"size\":2834,\"hash\":\"868f492022a4dab0f1522de6aae0773531bc6e85\"},{\"path\":\"app/Jarvis.js\",\"where\":\"client\",\"type\":\"asset\",\"cacheable\":false,\"url\":\"/Jarvis.js\",\"size\":588,\"hash\":\"cc1617bcc550305c420cfb6a9763730c42397f9f\"}],\"version\":\"9acf8e4d5283402e3afc40606e282c5987d242f9\"}"
                 },
                 "type": {
                   "type": "constant",
@@ -10155,11 +10155,11 @@ var packageMetadata = {
       "members": {
         "autoupdateVersion": {
           "type": "constant",
-          "value": "kvMjcXQ6ZP2xEKwrv"
+          "value": "b9miQbsnLSLrFDSj4"
         },
         "autoupdateVersionRefreshable": {
           "type": "constant",
-          "value": "c26c84ba843555ef787afd2b83943d2acf5f115a"
+          "value": "675cb8dbbc8ce92779024d32195bc45d40651087"
         },
         "autoupdateVersionCordova": {
           "type": "constant",
@@ -11797,15 +11797,15 @@ var packageMetadata = {
                 },
                 "appPath": {
                   "type": "constant",
-                  "value": "/Users/Mia/Desktop/Jarvis"
+                  "value": "/Users/Jessie/Desktop/Jarvis"
                 },
                 "pid": {
                   "type": "constant",
-                  "value": 24583
+                  "value": 12100
                 },
                 "fout": {
                   "type": "constant",
-                  "value": 36
+                  "value": 37
                 },
                 "child": {
                   "type": "object",
@@ -11824,7 +11824,7 @@ var packageMetadata = {
                     },
                     "pid": {
                       "type": "constant",
-                      "value": 24583
+                      "value": 12100
                     },
                     "stdin": {
                       "type": "null",

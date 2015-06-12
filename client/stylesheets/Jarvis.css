@@ -17,3 +17,20 @@ tr.items {
 .borderless td, .borderless th {
     border: none;
 }
+
+div.deal-list div.item {
+	border: 0;
+	border-bottom: 1px solid #ccc;
+}
+
+.affix {
+	
+}
+
+.affix-top {
+
+}
+
+.affix-bottom {
+
+}
