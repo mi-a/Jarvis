@@ -1,0 +1,3350 @@
+[
+  {
+    "title": "Westin",
+    "description": "Save up to 15%.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999Westin10703.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Westin",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "Westin Hotels & Resorts redefine efficient service with an effortless style and gracious attitude that ensures a truly unforgettable experience. Every Westin is a haven of serenity and a distinctive alternative for those who appreciate a higher standard.404 S FIGUEROA ST,LOS ANGELES, CA 900710.63 miles191 N LOS ROBLES AVE,PASADENA, CA 911018.88 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "The Westin",
+        "addressLine2": "404 S FIGUEROA ST,",
+        "addressLine3": "LOS ANGELES, CA 90071",
+        "phone": "(866) AAA-SAVE",
+        "distance": "0.63 miles"
+      },
+      {
+        "addressLine1": "The Westin",
+        "addressLine2": "191 N LOS ROBLES AVE,",
+        "addressLine3": "PASADENA, CA 91101",
+        "phone": "(866) AAA-SAVE",
+        "distance": "8.88 miles"
+      }
+    ]
+  },
+  {
+    "title": "wehrenberg Theatres",
+    "description": "Save 30% when you purchase tickets in advance through AAA. Tickets available in select branches in Missouri, Illinois, and Arkansas. Savings are approximate. Some restrictions apply. Discount not available at theatre box office.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004wehrenbergTheatrescee5f7.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://discounts.autoclubmo.aaa.com/offer/index/offerId/286372/uSource/PSRV…umber%22:0,%22position%22:%220%22,%22entityType%22:%22Store%22,%22entityId",
+      "phone": ""
+    },
+    "merchantDescription": "Save 30% when you purchase tickets in advance through AAA.Tickets available in select branches in Missouri, Illinois, and Arkansas. Savings are approximate. Discount not available at theatre box office. Wehrenberg tickets are good for any movie before 6 pm. After 6 pm, some restrictions apply. Generally, tickets are not good the first two weeks of a movie's release. Gate pricing & savings vary by location and showtime - savings are approximate.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Water Country",
+    "description": "Save $3 on gate admission.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004WaterCountryb6ab43.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://discounts.autoclubmo.aaa.com/offer/index/offerId/286371/uSource/PSRV…umber%22:0,%22position%22:%220%22,%22entityType%22:%22Store%22,%22entityId",
+      "phone": ""
+    },
+    "merchantDescription": "Cannot be combined with any other offer or discountValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Waldorf Astoria Collection",
+    "description": "Save 5% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999WaldorfAstoriaCollection11407.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Hilton",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "The Waldorf Astoria Collection properties includes architectural significance, unique decor and original artwork, historic or landmark status and a reputation for product and service excellence.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "W Hotels",
+    "description": "Save up to 15%.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999WHotels5242.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Starwood",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "W Hotels is a global luxury lifestyle brand with 25 properties in the most vibrant destinations around the world. Inspiring, iconic, innovative and influential, W Hotels provides the ultimate in insider access.6250 HOLLYWOOD BLVD,HOLLYWOOD, CA 900285.69 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "W Hollywood",
+        "addressLine2": "6250 HOLLYWOOD BLVD,",
+        "addressLine3": "HOLLYWOOD, CA 90028",
+        "phone": "(866) AAA-SAVE",
+        "distance": "5.69 miles"
+      }
+    ]
+  },
+  {
+    "title": "Universal Studios Hollywood",
+    "description": "$3 off one-day park tickets at front gate; SAVE 10% at select in-park merchandise and restaurant locations.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999UniversalStudiosHollywood24.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/universal",
+      "phone": ""
+    },
+    "merchantDescription": "Universal Studios Hollywood is the world's largest movie studio and theme park and LA's most popular entertainment destination.100 UNIVERSAL CITY PLAZA,UNIVERSAL CITY, CA 916088.90 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Universal CityWalk Hollywood",
+        "addressLine2": "100 UNIVERSAL CITY PLAZA,",
+        "addressLine3": "UNIVERSAL CITY, CA 91608",
+        "phone": "(818) 622-4455",
+        "distance": "8.90 miles"
+      }
+    ]
+  },
+  {
+    "title": "Universal Studios Hollywood",
+    "description": "Save $8.00 on Adults@Kids price with 2nd Day FREE. Member price: $87.00. (Blackout dates: May 23-Sep 9; Dec 19-31, 2015.) On blackout dates, save $8.00 on Adults@Kids price 1-day ticket. Member price: $84.00. Up to 20% off Front of the Line passes. To obtain discounts, tickets must be purchased online or in advance at a AAA Northern CA, NV & UT branch office. Save 10% at select in-park merchandise and restaurants.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/005UniversalStudiosHollywoodec2476.jpg",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": ""
+    },
+    "merchantDescription": "Universal Studios Hollywood is the world's largest movie studio and theme park and LA's most popular entertainment destination.100 UNIVERSAL DR.,UNIVERSAL CITY, CA 916088.61 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Universal Studios Hollywood",
+        "addressLine2": "100 UNIVERSAL DR.,",
+        "addressLine3": "UNIVERSAL CITY, CA 91608",
+        "phone": "(510) 596-5332",
+        "distance": "8.61 miles"
+      }
+    ]
+  },
+  {
+    "title": "Universal Orlando",
+    "description": "Save at Universal Orlando® when you pre-purchase tickets or vacation packages through AAA/CAA* as well as the following in-park AAA Discounts & Rewards.**10% off at participating food/beverage locations in the parks, 10% off merchandise with a minimum purchase of $50. at participating locations, 15% off merchandise with a minimum purchase of $75. at participating locations, 10% off at participating Universal CityWalk® locations^, 10% off at the Palm Restaurant,† located at the Hard Rock Hotel®",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999UniversalOrlando23.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/universal",
+      "phone": ""
+    },
+    "merchantDescription": "The Orlando Vacation Destination for the 21st Century! Ride the movies at Universal Studios; live the adventures of Harry Potter and Dr. Seuss at Islands of Adventure theme park; dine, shop, dance at CityWalk, or stay at one of four on-site hotels.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "UCLA Athletics",
+    "description": "Save 20% on Bench tickets to 2015 UCLA home football games at the Rose Bowl. Offer good on individual reserved tickets only – maximum of four tickets, based on availability. Valid only at the Rose Bowl box office on game day. For more information, call (310) UCLA-WIN (825-2946).",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004uclaathletics.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": ""
+    },
+    "merchantDescription": "College Athletic Events1001 ROSE BOWL DR.,PASADENA, CA 911038.55 milesOffer good on individual reserved tickets only – maximum of four tickets, based on availability. Valid only at the Rose Bowl box office on game day.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Rose Bowl",
+        "addressLine2": "1001 ROSE BOWL DR.,",
+        "addressLine3": "PASADENA, CA 91103",
+        "phone": "(310) 825-2946",
+        "distance": "8.55 miles"
+      }
+    ]
+  },
+  {
+    "title": "Toyota of Glendale / Scion of Glendale",
+    "description": "AAA Members receive a 10% parts discount and a 10% labor discount on repairs performed at this facility. The maximum parts and/or labor discount is $50.",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": ""
+    },
+    "merchantDescription": "Show your card and save at this AAA Approved Auto Repair facility.1260 S BRAND BLVD,GLENDALE, CA 912045.35 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Toyota of Glendale / Scion of Glendale",
+        "addressLine2": "1260 S BRAND BLVD,",
+        "addressLine3": "GLENDALE, CA 91204",
+        "phone": "(818) 244-4196",
+        "distance": "5.35 miles"
+      }
+    ]
+  },
+  {
+    "title": "TownePlace Suites",
+    "description": "Save 5% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999TownePlaceSuites3288.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Marriott",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "Mid-priced, extended-stay brand that provides all the conveniences of home in a residential atmosphere. Guest suites feature separate living and working areas with fully equipped kitchen in each suite.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "The UPS Store",
+    "description": "Save up to 15% on select products and services and 5% on UPS shipping.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999TheUPSStore10352.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://aaa.com/theupsstore",
+      "phone": ""
+    },
+    "merchantDescription": "The UPS Store is the world's largest franchisor of retail shipping, postal, printing and business service centers. With over 4,400 locations in the United States, AAA members are sure to find a store close by.645 WEST 9TH ST UNIT 110,LOS ANGELES, CA 900151.05 miles2202 S FIGUEROA ST,LOS ANGELES, CA 900072.24 miles3183 WILSHIRE BLVD STE #196,LOS ANGELES, CA 900102.68 miles4470 W SUNSET BLVD,LOS ANGELES, CA 900273.93 miles5924 PACIFIC BLVD,HUNTINGTON PARK, CA 902554.63 miles5419 HOLLYWOOD BLVD STE C,LOS ANGELES, CA 900274.92 miles5211 WASHINGTON BLVD STE #2,COMMERCE, CA 900405.65 miles5482 WILSHIRE BLVD,LOS ANGELES, CA 900365.93 miles1905 N WILCOX AVE,LOS ANGELES, CA 900686.10 miles350 N GLENDALE AVE STE B,GLENDALE, CA 912066.81 miles1107 FAIR OAKS AVE,SOUTH PASADENA, CA 910306.84 miles201 WEST GARVEY AVE #102,MONTEREY PARK, CA 917546.92 miles560 W MAIN ST STE C,ALHAMBRA, CA 918017.00 miles8391 BEVERLY BLVD,LOS ANGELES, CA 900487.48 miles8033 SUNSET BLVD,LOS ANGELES, CA 900467.53 miles556 S FAIR OAKS AVE #101,PASADENA, CA 911057.89 miles1171 S ROBERTSON BLVD,LOS ANGELES, CA 900357.94 miles1500 WASHINGTON BLVD,MONTEBELLO, CA 906407.95 miles8581 SANTA MONICA BLVD,WEST HOLLYWOOD, CA 900698.00 miles4859 WEST SLAUSON UNIT A,LOS ANGELES, CA 900568.09 miles1012 W BEVERLY BLVD,MONTEBELLO, CA 906408.22 miles10910 LONG BEACH BLVD STE 103,LYNWOOD, CA 902628.46 miles324 S. BEVERLY DR.,BEVERLY HILLS, CA 902128.84 miles10736 JEFFERSON BLVD,CULVER CITY, CA 902309.16 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "The UPS Store",
+        "addressLine2": "645 WEST 9TH ST UNIT 110,",
+        "addressLine3": "LOS ANGELES, CA 90015",
+        "phone": "(213) 620-0081",
+        "distance": "1.05 miles"
+      },
+      {
+        "addressLine1": "The UPS Store",
+        "addressLine2": "2202 S FIGUEROA ST,",
+        "addressLine3": "LOS ANGELES, CA 90007",
+        "phone": "(213) 749-1249",
+        "distance": "2.24 miles"
+      },
+      {
+        "addressLine1": "The UPS Store",
+        "addressLine2": "3183 WILSHIRE BLVD STE #196,",
+        "addressLine3": "LOS ANGELES, CA 90010",
+        "phone": "(213) 351-1338",
+        "distance": "2.68 miles"
+      },
+      {
+        "addressLine1": "The UPS Store",
+        "addressLine2": "4470 W SUNSET BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90027",
+        "phone": "(323) 644-2621",
+        "distance": "3.93 miles"
+      },
+      {
+        "addressLine1": "The UPS Store",
+        "addressLine2": "5924 PACIFIC BLVD,",
+        "addressLine3": "HUNTINGTON PARK, CA 90255",
+        "phone": "(323) 586-0233",
+        "distance": "4.63 miles"
+      },
+      {
+        "addressLine1": "The UPS Store",
+        "addressLine2": "5419 HOLLYWOOD BLVD STE C,",
+        "addressLine3": "LOS ANGELES, CA 90027",
+        "phone": "(323) 460-6323",
+        "distance": "4.92 miles"
+      },
+      {
+        "addressLine1": "The UPS Store",
+        "addressLine2": "5211 WASHINGTON BLVD STE #2,",
+        "addressLine3": "COMMERCE, CA 90040",
+        "phone": "(323) 261-5441",
+        "distance": "5.65 miles"
+      },
+      {
+        "addressLine1": "The UPS Store",
+        "addressLine2": "5482 WILSHIRE BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90036",
+        "phone": "(323) 939-6001",
+        "distance": "5.93 miles"
+      },
+      {
+        "addressLine1": "The UPS Store",
+        "addressLine2": "1905 N WILCOX AVE,",
+        "addressLine3": "LOS ANGELES, CA 90068",
+        "phone": "(323) 845-0767",
+        "distance": "6.10 miles"
+      },
+      {
+        "addressLine1": "The UPS Store",
+        "addressLine2": "350 N GLENDALE AVE STE B,",
+        "addressLine3": "GLENDALE, CA 91206",
+        "phone": "(818) 241-6300",
+        "distance": "6.81 miles"
+      },
+      {
+        "addressLine1": "The UPS Store",
+        "addressLine2": "1107 FAIR OAKS AVE,",
+        "addressLine3": "SOUTH PASADENA, CA 91030",
+        "phone": "(626) 799-4589",
+        "distance": "6.84 miles"
+      },
+      {
+        "addressLine1": "The UPS Store",
+        "addressLine2": "201 WEST GARVEY AVE #102,",
+        "addressLine3": "MONTEREY PARK, CA 91754",
+        "phone": "(626) 280-8012",
+        "distance": "6.92 miles"
+      },
+      {
+        "addressLine1": "The UPS Store",
+        "addressLine2": "560 W MAIN ST STE C,",
+        "addressLine3": "ALHAMBRA, CA 91801",
+        "phone": "(626) 284-8298",
+        "distance": "7.00 miles"
+      },
+      {
+        "addressLine1": "The UPS Store",
+        "addressLine2": "8391 BEVERLY BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90048",
+        "phone": "(323) 655-9980",
+        "distance": "7.48 miles"
+      },
+      {
+        "addressLine1": "The UPS Store",
+        "addressLine2": "8033 SUNSET BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90046",
+        "phone": "(323) 848-8300",
+        "distance": "7.53 miles"
+      },
+      {
+        "addressLine1": "The UPS Store",
+        "addressLine2": "556 S FAIR OAKS AVE #101,",
+        "addressLine3": "PASADENA, CA 91105",
+        "phone": "(626) 564-0690",
+        "distance": "7.89 miles"
+      },
+      {
+        "addressLine1": "The UPS Store",
+        "addressLine2": "1171 S ROBERTSON BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90035",
+        "phone": "(310) 860-0856",
+        "distance": "7.94 miles"
+      },
+      {
+        "addressLine1": "The UPS Store",
+        "addressLine2": "1500 WASHINGTON BLVD,",
+        "addressLine3": "MONTEBELLO, CA 90640",
+        "phone": "(323) 473-3366",
+        "distance": "7.95 miles"
+      },
+      {
+        "addressLine1": "The UPS Store",
+        "addressLine2": "8581 SANTA MONICA BLVD,",
+        "addressLine3": "WEST HOLLYWOOD, CA 90069",
+        "phone": "(310) 289-5952",
+        "distance": "8.00 miles"
+      },
+      {
+        "addressLine1": "The UPS Store",
+        "addressLine2": "4859 WEST SLAUSON UNIT A,",
+        "addressLine3": "LOS ANGELES, CA 90056",
+        "phone": "(323) 291-4800",
+        "distance": "8.09 miles"
+      },
+      {
+        "addressLine1": "The UPS Store",
+        "addressLine2": "1012 W BEVERLY BLVD,",
+        "addressLine3": "MONTEBELLO, CA 90640",
+        "phone": "(323) 721-7529",
+        "distance": "8.22 miles"
+      },
+      {
+        "addressLine1": "The UPS Store",
+        "addressLine2": "10910 LONG BEACH BLVD STE 103,",
+        "addressLine3": "LYNWOOD, CA 90262",
+        "phone": "(310) 868-5969",
+        "distance": "8.46 miles"
+      },
+      {
+        "addressLine1": "The UPS Store",
+        "addressLine2": "324 S. BEVERLY DR.,",
+        "addressLine3": "BEVERLY HILLS, CA 90212",
+        "phone": "(310) 203-0301",
+        "distance": "8.84 miles"
+      },
+      {
+        "addressLine1": "The UPS Store",
+        "addressLine2": "10736 JEFFERSON BLVD,",
+        "addressLine3": "CULVER CITY, CA 90230",
+        "phone": "(310) 558-4778",
+        "distance": "9.16 miles"
+      }
+    ]
+  },
+  {
+    "title": "The Ritz-Carlton",
+    "description": "Save 5% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999TheRitzCarlton13365.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Marriott",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "Unequaled service at special member savings.900 W OLYMPIC BLVD,LOS ANGELES, CA 900151.35 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "The Ritz-Carlton, Los Angeles",
+        "addressLine2": "900 W OLYMPIC BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90015",
+        "phone": "(866) AAA-SAVE",
+        "distance": "1.35 miles"
+      }
+    ]
+  },
+  {
+    "title": "TEAM LA",
+    "description": "Save 15% off your favorite Lakers merchandise at TEAM LA Store located at STAPLES Center, and online at www.LakersStore.com. Check out our selection of Lakers jerseys, hats, t-shirts, jackets, collectibles & more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004TEAMLA22110.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.lakersstore.com",
+      "phone": ""
+    },
+    "merchantDescription": "TEAM LA offers the largest selection of officially licensed merchandise featuring all your favorite players and teams of the NBA, NHL, NFL, MLB and MLS.1111 S FIGUEROA ST,LOS ANGELES, CA 900151.44 milesUse code AAA15 at checkout. Expires 4/15/15. Not valid with any other offer. Some restrictions may apply.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "TEAM LA Store",
+        "addressLine2": "1111 S FIGUEROA ST,",
+        "addressLine3": "LOS ANGELES, CA 90015",
+        "phone": "(213) 742-7852",
+        "distance": "1.44 miles"
+      }
+    ]
+  },
+  {
+    "title": "Target Optical",
+    "description": "30% off on eye exams, complete pair eyewear, sunglasses, and accessories; 15% off lenses and frames purchased separately; 10% discount on contact lenses may apply. At participating locations, please check with the store for more information.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999TargetOptical11523.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": ""
+    },
+    "merchantDescription": "Every day we deliver on our \"expect more, pay less\" promise by bringing together quality eye care, fashion, affordability and a simple, fun shopping experience.3471 W CENTURY BLVD,INGLEWOOD, CA 903038.99 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Target Optical - Non Exam Location",
+        "addressLine2": "3471 W CENTURY BLVD,",
+        "addressLine3": "INGLEWOOD, CA 90303",
+        "phone": "(310) 671-1290",
+        "distance": "8.99 miles"
+      }
+    ]
+  },
+  {
+    "title": "Tara Energy",
+    "description": "AAA members receive Tara Energy's best residential energy rate offer and a waiver of the standard monthly service fee. To enroll, call 1.866.GET.TARA (438.8272) or visit TaraEnergy.com and use promotion code AAA0705 on the Residential Service page.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004TaraEnergy7876.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": "(866) 438-8272"
+    },
+    "merchantDescription": "Residential EnergyDiscounted energy rate does not apply to Transmission & Distribution Service Provider (TDSP) charges, applicable taxes and deposit. Offer valid within deregulated service areas and upon credit approval. A deposit may be required. Subject to Tara Energy residential enrollment requirements including a minimum one-year agreement. PUCT License Number: 10051.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Super Shuttle/ExecuCar",
+    "description": "Save $2 per person per ride each direction on SuperShuttle. Save $5 per ride each direction on ExecuCar private sedan service. To book reservations online, visit AAA.com/discounts.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004SuperShuttleExecuCara35fd6.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://discounts.autoclubmo.aaa.com/panda/result/?panda-search-match=true%2…%3A424%2C%22subCategoryId%22%3A424%2C%22type%22%3A%22Stores%22%2C%22url%22",
+      "phone": ""
+    },
+    "merchantDescription": "Shuttle ServiceOffer valid on service to and from airports served by Save $2 per person per ride each direction on SuperShuttle. Save $5 per ride each direction on ExecuCar private sedan service. To book reservations online, visit AAA.com/discounts. Offer valid on service to and from airports served by SuperShuttle in Southern CalValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "St. Regis Hotels & Resorts",
+    "description": "Save up to 15%.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999StRegisHotelsResorts5240.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Starwood",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "St. Regis Hotels & Resorts are luxury hotels that merit the reputation of offering unprecedented excellence in standards of hospitality and elegance.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Sprint",
+    "description": "AAA Members are eligible for these special offers: 10% monthly recurring discount on all lines, Waived activation fee - a $36 value, $50 credit with online purchase, Sprint customers can dial *222 (*AAA) for Emergency Road Service.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999Sprint14470.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.aaa.com/sprint",
+      "phone": "(800) 754-6907"
+    },
+    "merchantDescription": "Sprint is a cellular service provider.300 S BROADWAY,LOS ANGELES, CA 900130.23 miles626 WILSHIRE BLVD.,LOS ANGELES, CA 900170.74 miles3530 WILSHIRE BLVD.,LOS ANGELES, CA 900103.28 miles5535 W SUNSET BLVD.,LOS ANGELES, CA 900284.88 miles6421 PACIFIC BLVD.,HUNTINGTON PARK, CA 902555.11 miles1127 S FREMONT AVE.,ALHAMBRA, CA 918035.64 miles1810 W SLAUSON AVE.,LOS ANGELES, CA 900475.79 miles5616 E WHITTIER BLVD.,COMMERCE, CA 900225.95 miles301 N BRAND BLVD.,GLENDALE, CA 912036.71 miles364 S LA CIENEGA BLVD.,WEST HOLLYWOOD, CA 900487.62 miles8500 BEVERLY BLVD.,LOS ANGELES, CA 900487.69 miles80 E COLORADO BLVD.,PASADENA, CA 911058.44 miles3561 W CENTURY BLVD.,INGLEWOOD, CA 903039.03 miles2008 MONTEBELLO TOWN CENTER DR,MONTEBELLO, CA 906409.30 miles5528 S SEPULVEDA BLVD.,CULVER CITY, CA 902309.56 miles321 N SAN FERNANDO BLVD.,BURBANK, CA 915029.70 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Sprint",
+        "addressLine2": "300 S BROADWAY,",
+        "addressLine3": "LOS ANGELES, CA 90013",
+        "phone": "(213) 613-4200",
+        "distance": "0.23 miles"
+      },
+      {
+        "addressLine1": "Sprint",
+        "addressLine2": "626 WILSHIRE BLVD.,",
+        "addressLine3": "LOS ANGELES, CA 90017",
+        "phone": "(213) 891-0687",
+        "distance": "0.74 miles"
+      },
+      {
+        "addressLine1": "Sprint",
+        "addressLine2": "3530 WILSHIRE BLVD.,",
+        "addressLine3": "LOS ANGELES, CA 90010",
+        "phone": "(213) 368-7300",
+        "distance": "3.28 miles"
+      },
+      {
+        "addressLine1": "Sprint",
+        "addressLine2": "5535 W SUNSET BLVD.,",
+        "addressLine3": "LOS ANGELES, CA 90028",
+        "phone": "(323) 962-8350",
+        "distance": "4.88 miles"
+      },
+      {
+        "addressLine1": "Sprint",
+        "addressLine2": "6421 PACIFIC BLVD.,",
+        "addressLine3": "HUNTINGTON PARK, CA 90255",
+        "phone": "(323) 586-3113",
+        "distance": "5.11 miles"
+      },
+      {
+        "addressLine1": "Sprint",
+        "addressLine2": "1127 S FREMONT AVE.,",
+        "addressLine3": "ALHAMBRA, CA 91803",
+        "phone": "(626) 576-1515",
+        "distance": "5.64 miles"
+      },
+      {
+        "addressLine1": "Sprint",
+        "addressLine2": "1810 W SLAUSON AVE.,",
+        "addressLine3": "LOS ANGELES, CA 90047",
+        "phone": "(323) 290-2400",
+        "distance": "5.79 miles"
+      },
+      {
+        "addressLine1": "Sprint",
+        "addressLine2": "5616 E WHITTIER BLVD.,",
+        "addressLine3": "COMMERCE, CA 90022",
+        "phone": "(323) 278-9800",
+        "distance": "5.95 miles"
+      },
+      {
+        "addressLine1": "Sprint",
+        "addressLine2": "301 N BRAND BLVD.,",
+        "addressLine3": "GLENDALE, CA 91203",
+        "phone": "(818) 662-1020",
+        "distance": "6.71 miles"
+      },
+      {
+        "addressLine1": "Sprint",
+        "addressLine2": "364 S LA CIENEGA BLVD.,",
+        "addressLine3": "WEST HOLLYWOOD, CA 90048",
+        "phone": "(310) 360-6727",
+        "distance": "7.62 miles"
+      },
+      {
+        "addressLine1": "Sprint",
+        "addressLine2": "8500 BEVERLY BLVD.,",
+        "addressLine3": "LOS ANGELES, CA 90048",
+        "phone": "(310) 652-1186",
+        "distance": "7.69 miles"
+      },
+      {
+        "addressLine1": "Sprint",
+        "addressLine2": "80 E COLORADO BLVD.,",
+        "addressLine3": "PASADENA, CA 91105",
+        "phone": "(626) 396-6200",
+        "distance": "8.44 miles"
+      },
+      {
+        "addressLine1": "Sprint",
+        "addressLine2": "3561 W CENTURY BLVD.,",
+        "addressLine3": "INGLEWOOD, CA 90303",
+        "phone": "(310) 330-4633",
+        "distance": "9.03 miles"
+      },
+      {
+        "addressLine1": "Sprint",
+        "addressLine2": "2008 MONTEBELLO TOWN CENTER DR,",
+        "addressLine3": "MONTEBELLO, CA 90640",
+        "phone": "(323) 725-3006",
+        "distance": "9.30 miles"
+      },
+      {
+        "addressLine1": "Sprint",
+        "addressLine2": "5528 S SEPULVEDA BLVD.,",
+        "addressLine3": "CULVER CITY, CA 90230",
+        "phone": "(310) 391-8610",
+        "distance": "9.56 miles"
+      },
+      {
+        "addressLine1": "Sprint",
+        "addressLine2": "321 N SAN FERNANDO BLVD.,",
+        "addressLine3": "BURBANK, CA 91502",
+        "phone": "(818) 260-1977",
+        "distance": "9.70 miles"
+      }
+    ]
+  },
+  {
+    "title": "SpringHill Suites",
+    "description": "Save 5% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999SpringHillSuites10689.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Marriott",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "Moderately priced, all-suite lodging brand. Guest suites that are up to 25% larger than standard hotel rooms.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Sparefoot",
+    "description": "Get your 1st month free plus $20 Amazon gift card when you book with SpareFoot.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999Sparefoot24715.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.aaa.com/selfstorage",
+      "phone": "(844) 425-4990"
+    },
+    "merchantDescription": "SpareFoot is the largest online aggregator of self-storage in the U.S.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "South Coast Repertory",
+    "description": "Enjoy $28 Tickets for Sunday, Tuesday, Wednesday and Thursday evening performances. Some restrictions apply. Call for details. Use code 10318 to receive discount.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004SouthCoastRepertoryb008d4.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://scr.org",
+      "phone": "(714) 708-5565"
+    },
+    "merchantDescription": "South Coast Repertory's live theatre experience includes new plays by acclaimed playwrights, innovative staging of the Classics, and outreach and educational programs.Must enter promotion code 10318 to obtain discount. Some restrictions apply. Section A and B only. Offer available by phone or in-person only. Limit 4 tickets per household. Subject to availability. Excludes TYA and holiday shows. Must show AAA membership card when picking up tickets.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Six Flags Theme Parks",
+    "description": "Up to 30% off online tickets, plus a 33% savings on the Print-N-Go service fee; $5 off general admission; $2 off general admission at Six Flags Water Parks; 10% discount in-park on select merchandise.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999SixFlagsThemeParks9.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/sixflags",
+      "phone": ""
+    },
+    "merchantDescription": "Theme Park- America's Favorite Thrills!Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Sheraton Hotels & Resorts",
+    "description": "Save up to 15%.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999SheratonHotelsResorts5239.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Starwood",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "What families and individuals dream of being able to be away from home without being apart, beds that make dreams better, being surrounded by people who share a sense of adventure is what Sheraton hotels strive for with every detail.711 S HOPE ST,LOS ANGELES, CA 900170.83 miles303 E CORDOVA ST,PASADENA, CA 911018.44 miles333 UNIVERSAL HOLLYWOOD DR,UNIVERSAL CITY, CA 916088.79 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Sheraton",
+        "addressLine2": "711 S HOPE ST,",
+        "addressLine3": "LOS ANGELES, CA 90017",
+        "phone": "(866) AAA-SAVE",
+        "distance": "0.83 miles"
+      },
+      {
+        "addressLine1": "Sheraton",
+        "addressLine2": "303 E CORDOVA ST,",
+        "addressLine3": "PASADENA, CA 91101",
+        "phone": "(866) AAA-SAVE",
+        "distance": "8.44 miles"
+      },
+      {
+        "addressLine1": "Sheraton",
+        "addressLine2": "333 UNIVERSAL HOLLYWOOD DR,",
+        "addressLine3": "UNIVERSAL CITY, CA 91608",
+        "phone": "(866) AAA-SAVE",
+        "distance": "8.79 miles"
+      }
+    ]
+  },
+  {
+    "title": "Shaw Floors",
+    "description": "Save 10% on all regularly priced Shaw flooring materials.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004ShawFloors0cc4d3.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": ""
+    },
+    "merchantDescription": "Flooring3007 WEST TEMPLE STREET,LOS ANGELES, CA 900262.47 miles1904 WEST ADAM BLVD,LOS ANGELES, CA 900183.78 miles4849 SANTA MONICA BLVD,LOS ANGELES, CA 900293.87 miles3608 SANFERNANDO ROAD,GLENDALE, CA 912064.72 miles4310 SAN FERNANDO RD,GLENDALE, CA 912045.46 miles4701 E. SLAUSON AVE,MAYWOOD, CA 902705.87 miles4611 CRENSHAW BLVD,LOS ANGELES, CA 900436.09 miles5210 SAN FERNANDO RD,GLENDALE, CA 912036.67 miles7815 BEVERLY BLVD,LOS ANGELES, CA 900366.77 miles7951 MELROSE AVE,LOS ANGELES, CA 900467.07 miles5970 W PICO BLVD,LOS ANGELES, CA 900357.18 miles6601 TELEGRAPH ROAD,COMMERCE, CA 900407.50 miles5631 LEEDS AVE,SOUTH GATE, CA 902809.42 miles5568 S SEPULVEDA BLVD,CULVER CITY, CA 902309.59 miles140 S. GLENOAKS BLVD,BURBANK, CA 915029.60 milesMinimum purchase of 450 sq. ft. carpet or 250 sq. ft hard surface material required. Excludes labor and installation.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Shaw Floors - MONARCH CARPET & UPH. SVC.INC.",
+        "addressLine2": "3007 WEST TEMPLE STREET,",
+        "addressLine3": "LOS ANGELES, CA 90026",
+        "phone": "(800) 441-7429",
+        "distance": "2.47 miles"
+      },
+      {
+        "addressLine1": "Shaw Floors - RIVERA's FLOOR COVERING INC.",
+        "addressLine2": "1904 WEST ADAM BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90018",
+        "phone": "(800) 441-7429",
+        "distance": "3.78 miles"
+      },
+      {
+        "addressLine1": "Shaw Floors - LINOLEUM CITY INC",
+        "addressLine2": "4849 SANTA MONICA BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90029",
+        "phone": "(800) 441-7429",
+        "distance": "3.87 miles"
+      },
+      {
+        "addressLine1": "Shaw Floors - CARPET WAGON INC",
+        "addressLine2": "3608 SANFERNANDO ROAD,",
+        "addressLine3": "GLENDALE, CA 91206",
+        "phone": "(800) 441-7429",
+        "distance": "4.72 miles"
+      },
+      {
+        "addressLine1": "Shaw Floors - FAME FLOOR COVERING INC",
+        "addressLine2": "4310 SAN FERNANDO RD,",
+        "addressLine3": "GLENDALE, CA 91204",
+        "phone": "(800) 441-7429",
+        "distance": "5.46 miles"
+      },
+      {
+        "addressLine1": "Shaw Floors - DURA CARPET",
+        "addressLine2": "4701 E. SLAUSON AVE,",
+        "addressLine3": "MAYWOOD, CA 90270",
+        "phone": "(800) 441-7429",
+        "distance": "5.87 miles"
+      },
+      {
+        "addressLine1": "Shaw Floors - BARNETTS CRENSHAW CARPET CENTER, INC.",
+        "addressLine2": "4611 CRENSHAW BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90043",
+        "phone": "(800) 441-7429",
+        "distance": "6.09 miles"
+      },
+      {
+        "addressLine1": "Shaw Floors - GLENDALE CARPET CENTER",
+        "addressLine2": "5210 SAN FERNANDO RD,",
+        "addressLine3": "GLENDALE, CA 91203",
+        "phone": "(800) 441-7429",
+        "distance": "6.67 miles"
+      },
+      {
+        "addressLine1": "Shaw Floors - LESTER, LARRY CARPET COMPANY INC.",
+        "addressLine2": "7815 BEVERLY BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90036",
+        "phone": "(800) 441-7429",
+        "distance": "6.77 miles"
+      },
+      {
+        "addressLine1": "Shaw Floors - MELROSE DISCOUNT CARPET CO INC",
+        "addressLine2": "7951 MELROSE AVE,",
+        "addressLine3": "LOS ANGELES, CA 90046",
+        "phone": "(800) 441-7429",
+        "distance": "7.07 miles"
+      },
+      {
+        "addressLine1": "Shaw Floors - PLAZA CARPET COMPANY",
+        "addressLine2": "5970 W PICO BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90035",
+        "phone": "(800) 441-7429",
+        "distance": "7.18 miles"
+      },
+      {
+        "addressLine1": "Shaw Floors - HERNANDEZ CARPET BROKER INC",
+        "addressLine2": "6601 TELEGRAPH ROAD,",
+        "addressLine3": "COMMERCE, CA 90040",
+        "phone": "(800) 441-7429",
+        "distance": "7.50 miles"
+      },
+      {
+        "addressLine1": "Shaw Floors - M & J CARPETS CORP",
+        "addressLine2": "5631 LEEDS AVE,",
+        "addressLine3": "SOUTH GATE, CA 90280",
+        "phone": "(800) 441-7429",
+        "distance": "9.42 miles"
+      },
+      {
+        "addressLine1": "Shaw Floors - CARPETS DIRECT",
+        "addressLine2": "5568 S SEPULVEDA BLVD,",
+        "addressLine3": "CULVER CITY, CA 90230",
+        "phone": "(800) 441-7429",
+        "distance": "9.59 miles"
+      },
+      {
+        "addressLine1": "Shaw Floors - RAAD INC., DBA BEAUTY KISS CARPETS",
+        "addressLine2": "140 S. GLENOAKS BLVD,",
+        "addressLine3": "BURBANK, CA 91502",
+        "phone": "(800) 441-7429",
+        "distance": "9.60 miles"
+      }
+    ]
+  },
+  {
+    "title": "Sesame Place",
+    "description": "Up to $22.00 on single day admission to Sesame Place at your local AAA office of online at AAA.com.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999SesamePlace97befe.jpg",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://aaa.com/sesameplace",
+      "phone": "(866) Go4-Elmo"
+    },
+    "merchantDescription": "Sesame Place is the only theme park based entirely on Sesame Street. The park blends the character and spirit of the award-winning TV show with exciting rides, exhilarating water slides, captivating shows and furry friends.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Service Station of the Stars",
+    "description": "AAA Members receive a 10% parts discount and a 10% labor discount on repairs performed at this facility. The maximum parts and/or labor discount is $50.",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": ""
+    },
+    "merchantDescription": "Show your card and save at this AAA Approved Auto Repair facility.9448 W PICO BLVD,LOS ANGELES, CA 900358.59 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Service Station of the Stars",
+        "addressLine2": "9448 W PICO BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90035",
+        "phone": "(310) 275-9628",
+        "distance": "8.59 miles"
+      }
+    ]
+  },
+  {
+    "title": "Sears Optical",
+    "description": "30% off on eye exams, complete pair eyewear, sunglasses, and accessories; 15% off lenses and frames purchased separately; 10% discount on contact lenses may apply. At participating locations, please check with the store for more information.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999SearsOptical8648.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": ""
+    },
+    "merchantDescription": "Affordable and quality eyewear with style and service that families can trust.236 N CENTRAL AVE,GLENDALE, CA 912036.68 miles1401 MONTEBELLO BLVD,MONTEBELLO, CA 906408.50 miles111 E MAGNOLIA AVE,BURBANK, CA 915029.70 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Sears Optical - Non Exam Location",
+        "addressLine2": "236 N CENTRAL AVE,",
+        "addressLine3": "GLENDALE, CA 91203",
+        "phone": "(818) 507-7349",
+        "distance": "6.68 miles"
+      },
+      {
+        "addressLine1": "Sears Optical - Non Exam Location",
+        "addressLine2": "1401 MONTEBELLO BLVD,",
+        "addressLine3": "MONTEBELLO, CA 90640",
+        "phone": "(323) 889-5623",
+        "distance": "8.50 miles"
+      },
+      {
+        "addressLine1": "Sears Optical - Non Exam Location",
+        "addressLine2": "111 E MAGNOLIA AVE,",
+        "addressLine3": "BURBANK, CA 91502",
+        "phone": "(818) 559-6661",
+        "distance": "9.70 miles"
+      }
+    ]
+  },
+  {
+    "title": "Residence Inn",
+    "description": "Save 5% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999ResidenceInn3286.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Marriott",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "Designed as \"home away from home\" for travelers staying 5 or more nights. Residential atmosphere with spacious accommodations.901 W OLYMPIC BLVD,LOS ANGELES, CA 900151.29 miles1177 S BEVERLY DR,LOS ANGELES, CA 900358.63 miles321 S 1ST ST,BURBANK, CA 915029.29 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Residence Inn by Marriott",
+        "addressLine2": "901 W OLYMPIC BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90015",
+        "phone": "(866) AAA-SAVE",
+        "distance": "1.29 miles"
+      },
+      {
+        "addressLine1": "Residence Inn by Marriott",
+        "addressLine2": "1177 S BEVERLY DR,",
+        "addressLine3": "LOS ANGELES, CA 90035",
+        "phone": "(866) AAA-SAVE",
+        "distance": "8.63 miles"
+      },
+      {
+        "addressLine1": "Residence Inn by Marriott",
+        "addressLine2": "321 S 1ST ST,",
+        "addressLine3": "BURBANK, CA 91502",
+        "phone": "(866) AAA-SAVE",
+        "distance": "9.29 miles"
+      }
+    ]
+  },
+  {
+    "title": "Regal Entertainment Group",
+    "description": "Save 12% when you purchase tickets in advance through AAA. Purchase your tickets in advance at AAA.com/discounts or visit a participating branch.(ACMO: 12%, CA:up to 35%, TX: up to 25%, NM:up to 30%, HI:up to 30%)",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004RegalEntertainmentGroup24320.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://discounts.autoclubmo.aaa.com/offer/index/offerId/286350/uSource/PSRV…%22pageNumber%22:0,%22position%22:%220%22,%22entityType%22:%22Store%22,%22",
+      "phone": ""
+    },
+    "merchantDescription": "Enjoy a night out at the movies. Regal Entertainment Group operates the largest theater circuit in the United States featuring major motion pictures, digital movie presentation, RealD Digital 3D, and much more.Tickets available in select branches in Illinois, Arkansas, Louisiana and Mississippi. Savings are approximate. Some restrictions apply. Discount not available at theatre box office.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Reebok and Rockport Outlet Stores",
+    "description": "Save 20% off the total purchase price.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999ReebokandRockportOutletStores4122.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": ""
+    },
+    "merchantDescription": "With over 150 outlet store locations nationwide, Reebok and Rockport Outlets proudly features an incredible selection of quality footwear, apparel and accessories at everyday savings of up to 60% off suggested retail prices.100 CITADEL DR,COMMERCE, CA 900406.12 miles100 CITADEL DR,COMMERCE, CA 900406.12 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Rockport Factory Direct - Citadel",
+        "addressLine2": "100 CITADEL DR,",
+        "addressLine3": "COMMERCE, CA 90040",
+        "phone": "(323) 726-1287",
+        "distance": "6.12 miles"
+      },
+      {
+        "addressLine1": "Reebok Factory Direct - Citadel",
+        "addressLine2": "100 CITADEL DR,",
+        "addressLine3": "COMMERCE, CA 90040",
+        "phone": "(323) 887-9349",
+        "distance": "6.12 miles"
+      }
+    ]
+  },
+  {
+    "title": "Rainbow Ryders, Inc.",
+    "description": "\"Save 15% on \"\"The Experience of a Lifetime Happening Right Now.\"\" To book your reservation, call 1.800.725.2477.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004RainbowRydersInc63d5ff.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": "(800) 725-2477"
+    },
+    "merchantDescription": "Rainbow Ryders celebrates 30 years of flight experience in the Southwest. Enjoy a sunrise or sunset flight with a traditional champagne toast.Reservations required and subject to availability. Balloons hold up to 12 passengers. Must be 21 years or older to consume alcohol. Must be at least 5 years old to ride in balloon. Not valid for pregnant woman. Weather permitting. Cannot be combined with any other offer or promotion. \"Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "quake kare",
+    "description": "\"Save $10 on a purchase of $100. Visit AAA.com/discounts or call 1-800-2-PREPARE (277-3727).Offer only valid for orders totaling $100 or more before shipping and applicable taxes are applied.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004quakekaree65cf6.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.quakekare.com/aaa-members.php",
+      "phone": "(800) 277-3727"
+    },
+    "merchantDescription": "At QuakeKare.com, you'll find the most reliable emergency preparedness kits and supplies to prepare for all disasters in all locations. Let us help you get prepared today!Not valid with any other offers. Maximum use 1 per customer.\"Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Presley's Country Jubilee",
+    "description": "\"Save 10% on regular box office admission.Not valid with Value Passes.\"",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004PresleysCountryJubileeb3ed73.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": "(417) 334-4874"
+    },
+    "merchantDescription": "Don't miss Branson's first family of entertainment - The Presleys! The Presleys' blend of country, gospel, bluegrass and hilarious comedy has become a family tradition.Not valid with Value Passes.\"Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Precision Door Service",
+    "description": "Receive 15% off the total invoice for repair work, maintenance, new doors and openers. For more information, call 1.888.797.8688.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004PrecisionDoorService24f2d4.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": "(888) 797-8688"
+    },
+    "merchantDescription": "Garage door svcCannot be combined with any other offer or discount.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Pleasant Activities",
+    "description": "\"Save up to 10% on select activities and tours on the Hawaiian Islands. For reservations, call the Pleasant Activities reservations desks.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004PleasantActivities06a9c9.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": "(888) 229-7770"
+    },
+    "merchantDescription": "From the majestic volcanoes to pristine beaches and lush rainforests, a Hawaii vacation offers possibilities for adventure and relaxation. Take a look at the many activities we offer to make your vacation truly unforgettable!Tours and activities are subject to change, blackout dates, availability, and any restrictions. The suppliers providing tours and activities are independent suppliers and are not agents or employees of Pleasant Holidays. Any changes or cancellations to the activities listed on the web page are at the sole discretion of the individual supplier.\"Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Pet-Tenders",
+    "description": "\"Save 10% on in-home pet-sitting and house-sitting basic rate services. Feeding, exercising, plant watering and pet spoiling included. Drop by and overnight available. Services available in most of San Diego County only.\"",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004PetTenders3044b6.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": "(619) 298-3033"
+    },
+    "merchantDescription": "Save 10% on in-home pet-sitting and house-sitting basic rate services. Feeding, exercising, plant watering and pet spoiling included. Drop by and overnight available.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Penske Truck Rental",
+    "description": "Save 12% on one-way & local truck rentals and 12% off moving supplies and accessories. Offer only applicable to daily fixed rate and any mileage charges. Book online and save up to 20% on one-way rentals.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999PenskeTruckRental12.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.pensketruckrental.com",
+      "phone": "(877) 222-7924"
+    },
+    "merchantDescription": "Truck rentals for local and one-way.2300 E OLYMPIC BLVD,LOS ANGELES, CA 900212.02 miles2055 N FIGUEROA ST,LOS ANGELES, CA 900652.69 miles3707 S HILL ST,LOS ANGELES, CA 900073.15 miles5138 SUNSET BLVD,HOLLYWOOD, CA 900275.66 miles159 E MANCHESTER AVE,LOS ANGELES, CA 900036.64 miles665 S ARROYO PKWY,PASADENA, CA 911057.92 miles1500 S GREENWOOD AVE,MONTEBELLO, CA 906408.32 miles1200 FLOWER ST,BURBANK, CA 915028.70 miles3638 OVERLAND AVE,LOS ANGELES, CA 900349.68 miles1207 W EL SEGUNDO BLVD,GARDENA, CA 902479.90 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Penske Olympic Blvd/La",
+        "addressLine2": "2300 E OLYMPIC BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90021",
+        "phone": "(213) 628-1255",
+        "distance": "2.02 miles"
+      },
+      {
+        "addressLine1": "Penske - Home Depot #6689",
+        "addressLine2": "2055 N FIGUEROA ST,",
+        "addressLine3": "LOS ANGELES, CA 90065",
+        "phone": "(323) 307-9831",
+        "distance": "2.69 miles"
+      },
+      {
+        "addressLine1": "Penske - Storquest Self Storage",
+        "addressLine2": "3707 S HILL ST,",
+        "addressLine3": "LOS ANGELES, CA 90007",
+        "phone": "(213) 744-0857",
+        "distance": "3.15 miles"
+      },
+      {
+        "addressLine1": "Penske - Storquest Self Storage",
+        "addressLine2": "5138 SUNSET BLVD,",
+        "addressLine3": "HOLLYWOOD, CA 90027",
+        "phone": "(323) 666-0466",
+        "distance": "5.66 miles"
+      },
+      {
+        "addressLine1": "Penske - Western Truck Exchange",
+        "addressLine2": "159 E MANCHESTER AVE,",
+        "addressLine3": "LOS ANGELES, CA 90003",
+        "phone": "(323) 751-3853",
+        "distance": "6.64 miles"
+      },
+      {
+        "addressLine1": "Penske - Avenue Car Rental",
+        "addressLine2": "665 S ARROYO PKWY,",
+        "addressLine3": "PASADENA, CA 91105",
+        "phone": "(626) 795-6511",
+        "distance": "7.92 miles"
+      },
+      {
+        "addressLine1": "Penske Los Angeles",
+        "addressLine2": "1500 S GREENWOOD AVE,",
+        "addressLine3": "MONTEBELLO, CA 90640",
+        "phone": "(323) 724-4494",
+        "distance": "8.32 miles"
+      },
+      {
+        "addressLine1": "Penske - Home Depot #6654",
+        "addressLine2": "1200 FLOWER ST,",
+        "addressLine3": "BURBANK, CA 91502",
+        "phone": "(818) 848-8724",
+        "distance": "8.70 miles"
+      },
+      {
+        "addressLine1": "Penske - Am Pm Car & Truck Rental",
+        "addressLine2": "3638 OVERLAND AVE,",
+        "addressLine3": "LOS ANGELES, CA 90034",
+        "phone": "(310) 839-7241",
+        "distance": "9.68 miles"
+      },
+      {
+        "addressLine1": "Penske - Rapid Rental Corp",
+        "addressLine2": "1207 W EL SEGUNDO BLVD,",
+        "addressLine3": "GARDENA, CA 90247",
+        "phone": "(310) 644-1184",
+        "distance": "9.90 miles"
+      }
+    ]
+  },
+  {
+    "title": "Penske Racing Merchandise",
+    "description": "Save 10% on regularly priced merchandise at official on-track merchandise trailers. Save 20% on merchandise purchased online.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004PenskeRacingMerchandise9e8b4f.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://store.penskeracing.com/",
+      "phone": ""
+    },
+    "merchantDescription": "Racing merchandiseValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Payless ShoeSource",
+    "description": "AAA/CAA members save 10% on regularly priced merchandise.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999PaylessShoeSource5060.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": "(877) 452-7500"
+    },
+    "merchantDescription": "Everybody LOVES to Payless and as a AAA member you can! Payless ShoeSource offers a wide range of trend-right and essential shoes and accessory items at affordable prices to help every family member look good every step of the way.612 S BROADWAY,LOS ANGELES, CA 900140.62 miles2065 W 6TH,LOS ANGELES, CA 900571.73 miles412 E WASHINGTON BLVD,LOS ANGELES, CA 900151.90 miles2330 E CESAR E CHAVEZ AVE,LOS ANGELES, CA 900332.08 miles2602 N BROADWAY,LOS ANGELES, CA 900312.22 miles763 S VERMONT,LOS ANGELES, CA 900052.70 miles1100 N VERMONT AVE,LOS ANGELES, CA 900293.73 miles1707 S WESTERN AVE,LOS ANGELES, CA 900063.74 miles1021 W MARTIN LUTHER KING JR BLVD,LOS ANGELES, CA 900373.98 miles1541 N VERMONT AVE,LOS ANGELES, CA 900274.17 miles1098 N WESTERN AVE,LOS ANGELES, CA 900294.48 miles6005 N FIGUEROA ST,LOS ANGELES, CA 900425.15 miles5844 S VERMONT AVE,LOS ANGELES, CA 900445.21 miles6725 PACIFIC BLVD,HUNTINGTON PARK, CA 902555.30 miles1504 E FLORENCE AVE,LOS ANGELES, CA 900015.44 miles1250 VINE ST,LOS ANGELES, CA 900385.44 miles7408 S ALAMEDA ST,WALNUT PARK, CA 902555.58 miles4444 SLAUSON AVE,MAYWOOD, CA 902705.65 miles5514 WHITTIER BLVD,LOS ANGELES, CA 900225.87 miles2108 S ATLANTIC BLVD,MONTEREY PARK, CA 917545.88 miles3650 MARTIN LUTHER KING BLVD,LOS ANGELES, CA 900085.99 miles300 E COLORADO ST,GLENDALE, CA 912056.18 miles2700 COLORADO BLVD,LOS ANGELES, CA 900416.29 miles536 E MANCHESTER AVE,LOS ANGELES, CA 900036.54 miles215 N GLENDALE AVE,GLENDALE, CA 912066.58 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Payless ShoeSource",
+        "addressLine2": "612 S BROADWAY,",
+        "addressLine3": "LOS ANGELES, CA 90014",
+        "phone": "(213) 627-1402",
+        "distance": "0.62 miles"
+      },
+      {
+        "addressLine1": "Payless ShoeSource",
+        "addressLine2": "2065 W 6TH,",
+        "addressLine3": "LOS ANGELES, CA 90057",
+        "phone": "(213) 483-3532",
+        "distance": "1.73 miles"
+      },
+      {
+        "addressLine1": "Payless ShoeSource",
+        "addressLine2": "412 E WASHINGTON BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90015",
+        "phone": "(213) 748-1313",
+        "distance": "1.90 miles"
+      },
+      {
+        "addressLine1": "Payless ShoeSource",
+        "addressLine2": "2330 E CESAR E CHAVEZ AVE,",
+        "addressLine3": "LOS ANGELES, CA 90033",
+        "phone": "(323) 268-6779",
+        "distance": "2.08 miles"
+      },
+      {
+        "addressLine1": "Payless ShoeSource",
+        "addressLine2": "2602 N BROADWAY,",
+        "addressLine3": "LOS ANGELES, CA 90031",
+        "phone": "(323) 222-6839",
+        "distance": "2.22 miles"
+      },
+      {
+        "addressLine1": "Payless ShoeSource",
+        "addressLine2": "763 S VERMONT,",
+        "addressLine3": "LOS ANGELES, CA 90005",
+        "phone": "(213) 385-7644",
+        "distance": "2.70 miles"
+      },
+      {
+        "addressLine1": "Payless ShoeSource",
+        "addressLine2": "1100 N VERMONT AVE,",
+        "addressLine3": "LOS ANGELES, CA 90029",
+        "phone": "(323) 660-3499",
+        "distance": "3.73 miles"
+      },
+      {
+        "addressLine1": "Payless ShoeSource",
+        "addressLine2": "1707 S WESTERN AVE,",
+        "addressLine3": "LOS ANGELES, CA 90006",
+        "phone": "(323) 732-1569",
+        "distance": "3.74 miles"
+      },
+      {
+        "addressLine1": "Payless ShoeSource",
+        "addressLine2": "1021 W MARTIN LUTHER KING JR BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90037",
+        "phone": "(323) 733-0321",
+        "distance": "3.98 miles"
+      },
+      {
+        "addressLine1": "Payless ShoeSource",
+        "addressLine2": "1541 N VERMONT AVE,",
+        "addressLine3": "LOS ANGELES, CA 90027",
+        "phone": "(323) 662-4192",
+        "distance": "4.17 miles"
+      },
+      {
+        "addressLine1": "Payless ShoeSource",
+        "addressLine2": "1098 N WESTERN AVE,",
+        "addressLine3": "LOS ANGELES, CA 90029",
+        "phone": "(323) 469-1774",
+        "distance": "4.48 miles"
+      },
+      {
+        "addressLine1": "Payless ShoeSource",
+        "addressLine2": "6005 N FIGUEROA ST,",
+        "addressLine3": "LOS ANGELES, CA 90042",
+        "phone": "(323) 256-1317",
+        "distance": "5.15 miles"
+      },
+      {
+        "addressLine1": "Payless ShoeSource",
+        "addressLine2": "5844 S VERMONT AVE,",
+        "addressLine3": "LOS ANGELES, CA 90044",
+        "phone": "(323) 778-7959",
+        "distance": "5.21 miles"
+      },
+      {
+        "addressLine1": "Payless ShoeSource",
+        "addressLine2": "6725 PACIFIC BLVD,",
+        "addressLine3": "HUNTINGTON PARK, CA 90255",
+        "phone": "(323) 588-3512",
+        "distance": "5.30 miles"
+      },
+      {
+        "addressLine1": "Payless ShoeSource",
+        "addressLine2": "1504 E FLORENCE AVE,",
+        "addressLine3": "LOS ANGELES, CA 90001",
+        "phone": "(323) 589-8589",
+        "distance": "5.44 miles"
+      },
+      {
+        "addressLine1": "Payless ShoeSource",
+        "addressLine2": "1250 VINE ST,",
+        "addressLine3": "LOS ANGELES, CA 90038",
+        "phone": "(323) 469-5926",
+        "distance": "5.44 miles"
+      },
+      {
+        "addressLine1": "Payless ShoeSource",
+        "addressLine2": "7408 S ALAMEDA ST,",
+        "addressLine3": "WALNUT PARK, CA 90255",
+        "phone": "(323) 589-1791",
+        "distance": "5.58 miles"
+      },
+      {
+        "addressLine1": "Payless ShoeSource",
+        "addressLine2": "4444 SLAUSON AVE,",
+        "addressLine3": "MAYWOOD, CA 90270",
+        "phone": "(323) 560-8530",
+        "distance": "5.65 miles"
+      },
+      {
+        "addressLine1": "Payless ShoeSource",
+        "addressLine2": "5514 WHITTIER BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90022",
+        "phone": "(323) 721-9594",
+        "distance": "5.87 miles"
+      },
+      {
+        "addressLine1": "Payless ShoeSource",
+        "addressLine2": "2108 S ATLANTIC BLVD,",
+        "addressLine3": "MONTEREY PARK, CA 91754",
+        "phone": "(323) 724-4460",
+        "distance": "5.88 miles"
+      },
+      {
+        "addressLine1": "Payless ShoeSource",
+        "addressLine2": "3650 MARTIN LUTHER KING BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90008",
+        "phone": "(323) 295-8602",
+        "distance": "5.99 miles"
+      },
+      {
+        "addressLine1": "Payless ShoeSource",
+        "addressLine2": "300 E COLORADO ST,",
+        "addressLine3": "GLENDALE, CA 91205",
+        "phone": "(818) 246-9792",
+        "distance": "6.18 miles"
+      },
+      {
+        "addressLine1": "Payless ShoeSource",
+        "addressLine2": "2700 COLORADO BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90041",
+        "phone": "(323) 258-2952",
+        "distance": "6.29 miles"
+      },
+      {
+        "addressLine1": "Payless ShoeSource",
+        "addressLine2": "536 E MANCHESTER AVE,",
+        "addressLine3": "LOS ANGELES, CA 90003",
+        "phone": "(323) 750-9848",
+        "distance": "6.54 miles"
+      },
+      {
+        "addressLine1": "Payless ShoeSource",
+        "addressLine2": "215 N GLENDALE AVE,",
+        "addressLine3": "GLENDALE, CA 91206",
+        "phone": "(818) 550-3022",
+        "distance": "6.58 miles"
+      }
+    ]
+  },
+  {
+    "title": "Park Hyatt",
+    "description": "Save 10% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999ParkHyattNewYorke7ab14.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.aaa.com/hyatt",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "Elegance and luxury is what you get at Park Hyatt. As a distinguished guest, you will receive first-class service.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Park 'N Fly",
+    "description": "Save up to 15% on daily airport parking, plus no reservation fee when you book online ($3 savings). For reservations, visit AAA.com/discounts.",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://discounts.autoclubmo.aaa.com/offer/index/offerId/286345/uSource/PSRV…er%22:0,%22position%22:%220%22,%22entityType%22:%22Store%22,%22entityId%22",
+      "phone": ""
+    },
+    "merchantDescription": "A better way to park at the airport. Our 24-hour shuttles pick you up at your car, help with your luggage, drop you off at your gate and make sure you return safely.Cannot be used in conjunction with any other special rate, coupon or promotional offer including, but not limited to 7th day free.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Papillon Grand Canyon Helicopters",
+    "description": "Save 25% on all Las Vegas/Boulder City tour departures and 10% on all Grand Canyon South Rim tour departures. For reservations, call 1-702-736-7243 or 1-888-635-7272.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004papillongrandcanyonheli.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": "(888) 635-7272"
+    },
+    "merchantDescription": "Helicopter Tours of the Grand CanyonExcludes landing or park entrance fees. Valid up to 6 people per membership card. Mention AAA at time of reservation. Some restrictions apply.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Papillon Grand Canyon Helicopters",
+    "description": "Save 25% on all Las Vegas/Boulder City tour departures and 10% on all Grand Canyon South Rim tour departures. For reservations, call 1.888.635.7272.",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": "(888) 635-7272"
+    },
+    "merchantDescription": "Helicopter RideExcludes landing or park entrance fees. Valid up to 6 people per membership card. Mention AAA at time of reservation. Some restrictions apply.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Omaha Steaks",
+    "description": "Save an additional 15% off purchases $59 or more on all regular and sale prices sitewide. To purchase, call 1.800.960.8400 (reference source code AE0729), visit AAA.com/omahasteaks or a location near you. This offer cannot be combined with other offers.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004OmahaSteaks295d82.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.omahasteaks.com/servlet/redirect?fromUri=/aaadiscount",
+      "phone": "(800) 960-8400"
+    },
+    "merchantDescription": "Omaha Steaks quality is legendary. Our steaks are grain fed for exquisite marbling, giving them superior flavor, incredible tenderness and their unmistakable juiciness.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "OC Register",
+    "description": "\"3 Offers: NEW SUBSCRIBERSSign up today for just $19.99 a month and get your first month free!NOT A 7-DAY SUBSCRIBER?Upgrade your Register subscription for only $19.99 and get 4 weeks free.CURRENT 7-DAY SUBSCRIBERSGet a free thank you gift just for being a loyal Register subscriber and AAA member.\"",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004OCRegister113cd9.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.ocregister.com/sections/promo/aaa/",
+      "phone": ""
+    },
+    "merchantDescription": "Along with delivering the best local news, business and sports, the Orange County Register is committed to adding more value to your 7-day Register subscription. Sign up for a 7-day subscription today and receive free Angels tickets all season long.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Oahu Ghost tours",
+    "description": "\"AAA Hawaii members save 20% on Oahu Ghost Tours. Proof of residency required at time of tour.\"",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004OahuGhosttours6e518f.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": "(805) 524-4944"
+    },
+    "merchantDescription": "Experience some of the most haunted places on O'ahu. Oahu Ghost Tours® will take you close-up and allow you to witness firsthand these very unique places...from the much feared Night Marchers, to the places where sacrifices were made to ancient gods and gValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "New York & Company",
+    "description": "AAA and CAA members save 20% off their entire purchase of clothing and accessories.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999NewYorkCompany8080.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": ""
+    },
+    "merchantDescription": "From chic dresses and tops to pants and crops, find everything for workdays and weekends away at New York & Company. Even better: for the first time ever AAA members enjoy 35% off (usually 20% off) your entire purchase from May 22 - June 8, 2015.6/8/2015New York & Company, Inc. is a leading specialty manufacturer and retailer of women's fashion apparel and accessories providing AAA and CAA members with modern, wear-to-work solutions that are multi-functional at affordable prices.2147 MONTEBELLO TOWN CTR,MONTEBELLO, CA 906409.10 miles201 E MAGNOLIA AVE,BURBANK, CA 915029.75 miles6000 SEPULVEDA BLVD,CULVER CITY, CA 902309.81 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "New York & Company - Shops At Montebello",
+        "addressLine2": "2147 MONTEBELLO TOWN CTR,",
+        "addressLine3": "MONTEBELLO, CA 90640",
+        "phone": "(323) 724-0166",
+        "distance": "9.10 miles"
+      },
+      {
+        "addressLine1": "New York & Company - Burbank Town Center",
+        "addressLine2": "201 E MAGNOLIA AVE,",
+        "addressLine3": "BURBANK, CA 91502",
+        "phone": "(818) 559-7396",
+        "distance": "9.75 miles"
+      },
+      {
+        "addressLine1": "New York & Company - Westfield Culver City",
+        "addressLine2": "6000 SEPULVEDA BLVD,",
+        "addressLine3": "CULVER CITY, CA 90230",
+        "phone": "(310) 398-5855",
+        "distance": "9.81 miles"
+      }
+    ]
+  },
+  {
+    "title": "NAPA",
+    "description": "Save 10% on most auto parts and accessories at participating locations. Offer does not apply to anti-freeze, wax/chemicals, battery chargers, transmissions, crank shafts, spark plugs, motor oil, re-manufactured engines and other everyday low-priced items.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999NAPA4030.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": ""
+    },
+    "merchantDescription": "Distributor of automotive replacement parts and accessory items.825 E WASHINGTON BLVD,LOS ANGELES, CA 900211.93 miles5000 SAN FERNANDO ROAD,GLENDALE, CA 912046.35 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "NAPA - Genuine Parts Company",
+        "addressLine2": "825 E WASHINGTON BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90021",
+        "phone": "(213) 749-3838",
+        "distance": "1.93 miles"
+      },
+      {
+        "addressLine1": "NAPA - Genuine Parts Company",
+        "addressLine2": "5000 SAN FERNANDO ROAD,",
+        "addressLine3": "GLENDALE, CA 91204",
+        "phone": "(818) 246-1711",
+        "distance": "6.35 miles"
+      }
+    ]
+  },
+  {
+    "title": "NADAguides",
+    "description": "Save 15% on any single edition or annual subscription.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004NADAguides504aa9.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": "(800) 966-6232"
+    },
+    "merchantDescription": "Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Mr. Handyman",
+    "description": "Save 10% on labor for all household jobs.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004MrHandymanaa8da5.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": "(877) 674-2639"
+    },
+    "merchantDescription": "Professional, safe, reliable handyman services on-time, every time, that's our guarantee. Mr. Handyman completes all major and minor home repairs in a quick, efficient manner, making your \"To Do\" list manageable.Cannot be combined with any other discount or offer.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Monterey Ceramic, Tile & Marble",
+    "description": "Save 10% on Cepac Pool and Decorative Tile: Florida Tile, Dal Tile, International and Porcelanosa at Monterey Ceramic, Tile & Marble in Rosemead, CA.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004MontereyCeramicTileMarble0a57e8.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": ""
+    },
+    "merchantDescription": "One-stop tile and marble center3130 N DEL MAR AVE,ROSEMEAD, CA 917708.37 milesServing the Greater Los Angeles area. Restrictions apply; subject to availability; not valid with other discounts or offers.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Monterey Ceramic, Tile & Marble",
+        "addressLine2": "3130 N DEL MAR AVE,",
+        "addressLine3": "ROSEMEAD, CA 91770",
+        "phone": "(626) 288-8693",
+        "distance": "8.37 miles"
+      }
+    ]
+  },
+  {
+    "title": "METRO Express Lanes",
+    "description": "Save 20% off the initial pre-paid toll deposit of $40. AAA members will pay $32 for $40 worth of toll credits. Effective June 1, 2014, $1 Monthly Account Maintenance Fee will be applied to all accounts.Maximum discount is $8 per new account set-up. Other restrictions may apply.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004METROExpressLanes5e4d5a.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "https://www.metroexpresslanes.net/vector/account/signup/aaaWelcome.do?tid=metroexpresslanes%26hbtrack=metroexpresslanes",
+      "phone": ""
+    },
+    "merchantDescription": "Enjoy the benefits of getting through traffic faster with a Metro ExpressLanes FasTrak transponder.Other restrictions may apply.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "mattelshop",
+    "description": "Save 15% on orders of $50 or more. Use offer code AAA15. 15% savings offer is valid on orders totaling $50 or more before shipping, handling, and/or taxes are added, and applies automatically at checkout. Excludes Style By Me toys. Maximum savings of $45 per order. Offer is valid online only and expires at 11:59 PM ET on 6/30/15.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004mattelshop24229.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://shop.mattel.com/home/index.jsp",
+      "phone": ""
+    },
+    "merchantDescription": "At MattelShop.com, we deliver play every day. Find your favorite brands of toys, games, gifts and more for the kids (and kids at heart!) in your life.15% savings offer is valid on orders totaling $50 or more before shipping, handling, and/or taxes are added, and applies automatically at checkout. Excludes Style By Me toys. Maximum savings of $45 per order. Offer is valid online only and expires at 11:59 PM ET on 6/30/15.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Madame Tussauds Hollywood",
+    "description": "Receive $10 off admission when you purchase online. OR, save 20% on tickets at the box office and 30% on merchandise purchases of $30 or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004MadameTussaudsHollywoodd56f2e.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "https://secure.madametussauds.com/webapp/wcs/stores/servlet/StoreView?storeId=10673%26productId=364651",
+      "phone": ""
+    },
+    "merchantDescription": "Wax museum6933 HOLLYWOOD BLVD,HOLLYWOOD, CA 900286.41 milesValid up to six total admissions.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Madame Tussauds Hollywood",
+        "addressLine2": "6933 HOLLYWOOD BLVD,",
+        "addressLine3": "HOLLYWOOD, CA 90028",
+        "phone": "(323) 798-1673",
+        "distance": "6.41 miles"
+      }
+    ]
+  },
+  {
+    "title": "Luxury Collection",
+    "description": "Save up to 15%.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999LuxuryCollection5241.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Starwood",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "Extraordinary hotels offering the ultimate in service. The Luxury Collection is a group of unique hotels and resorts offering exceptional service and are internationally recognized as being among the world's finest.465 S LA CIENEGA BLVD,BEVERLY HILLS, CA 900487.61 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "SLS Hotel at Beverly Hills",
+        "addressLine2": "465 S LA CIENEGA BLVD,",
+        "addressLine3": "BEVERLY HILLS, CA 90048",
+        "phone": "(866) AAA-SAVE",
+        "distance": "7.61 miles"
+      }
+    ]
+  },
+  {
+    "title": "LensCrafters",
+    "description": "30% off on eye exams, complete pair eyewear, sunglasses, and accessories; 15% off lenses and frames purchased separately; 10% discount on contact lenses may apply. At participating locations, please check with store for more information.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999LensCrafters26.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": ""
+    },
+    "merchantDescription": "LensCrafters is an international retailer of prescription eyewear and prescription sunglasses, and the largest optical chain in the United States.2136 E FLORENCE AVE,HUNTINGTON PARK, CA 902555.47 miles1101 GLENDALE GALLERIA,GLENDALE, CA 912106.52 miles380 E COLORADO BLVD,PASADENA, CA 911018.70 miles1607 W VERDUGO AVE,BURBANK, CA 915069.08 miles616 W HUNTINGTON,MONROVIA, CA 910169.30 miles6000 SEPULVEDA BLVD,CULVER CITY, CA 902309.82 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Lenscrafters",
+        "addressLine2": "2136 E FLORENCE AVE,",
+        "addressLine3": "HUNTINGTON PARK, CA 90255",
+        "phone": "(323) 315-2640",
+        "distance": "5.47 miles"
+      },
+      {
+        "addressLine1": "Lenscrafters",
+        "addressLine2": "1101 GLENDALE GALLERIA,",
+        "addressLine3": "GLENDALE, CA 91210",
+        "phone": "(818) 552-4450",
+        "distance": "6.52 miles"
+      },
+      {
+        "addressLine1": "Lenscrafters",
+        "addressLine2": "380 E COLORADO BLVD,",
+        "addressLine3": "PASADENA, CA 91101",
+        "phone": "(626) 229-1966",
+        "distance": "8.70 miles"
+      },
+      {
+        "addressLine1": "Lenscrafters",
+        "addressLine2": "1607 W VERDUGO AVE,",
+        "addressLine3": "BURBANK, CA 91506",
+        "phone": "(818) 843-2673",
+        "distance": "9.08 miles"
+      },
+      {
+        "addressLine1": "Lenscrafters",
+        "addressLine2": "616 W HUNTINGTON,",
+        "addressLine3": "MONROVIA, CA 91016",
+        "phone": "(626) 303-1966",
+        "distance": "9.30 miles"
+      },
+      {
+        "addressLine1": "Lenscrafters",
+        "addressLine2": "6000 SEPULVEDA BLVD,",
+        "addressLine3": "CULVER CITY, CA 90230",
+        "phone": "(310) 390-2142",
+        "distance": "9.82 miles"
+      }
+    ]
+  },
+  {
+    "title": "LEGOLAND Discovery Center",
+    "description": "Save up to $7 when you purchase your tickets online, OR save $3 on Adult or Child admission at the gate.Valid up to 6 admission tickets. Offer is not valid on combination tickets.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004LEGOLANDDiscoveryCenter24225.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "https://secure.legolanddiscoverycenter.com/webapp/wcs/stores/servlet/Produc…gId=34551%26storeId=16651%26productId=195610%26altEntryPoint=%26visitDate=",
+      "phone": ""
+    },
+    "merchantDescription": "Enjoy an adventure with jungle explorers, ride into the unknown on dragons, construct intricate buildings and vehicles, see the local area in astonishing miniature detail in LEGO® MINILAND® or experience an extra dimension of entertainment in their LEGO SValid up to 6 admission tickets. Offer is not valid on combination tickets.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Le Meridien",
+    "description": "Save up to 15%.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999LeMeridien10693.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Starwood",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "Mixing contemporary culture with its European heritage, Le Meridien creates a culturally refined, meaningful and stimulating atmosphere which inspires participants to celebrate the beauty of a moment.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Knott's Berry Farm Theme Park",
+    "description": "Save 30% on Regular Admission and 10% on merchandise at Knott's Berry Farm.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004KnottsBerryFarmThemeParkc3ac3a.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://memberdiscounts.calif.aaa.com/offer/index/offerId/141743/uSource/PSR…22pageNumber%22:0,%22position%22:%220%22,%22entityType%22:%22Store%22,%22e",
+      "phone": ""
+    },
+    "merchantDescription": "Amusement ParkDiscount is not valid on Junior (age 3-11) or Senior (ages 62 ) admission. Valid for up to six (6) people. Merchandise discount not valid on collectibles at Virginia's Gift Shop or at concession locations. Cannot be combined with any other offers or discounts. Hours, prices, promotions and attraction availability subject to change without notice.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Kelly's Coffee & Fudge",
+    "description": "Save 10% on all regularly priced items.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004KellysCoffeeFudge39c452.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": ""
+    },
+    "merchantDescription": "Kelly's Coffee & Fudge Factory offers specialty coffees and frappes, candies and homemade fudge. Come try one today!277 W 8TH ST,LOS ANGELES, CA 90014Not AAA Evaluated0.86 miles6801 HOLLYWOOD BLVD,LOS ANGELES, CA 90028Not AAA Evaluated6.36 miles5701 S. EASTERN AVE,COMMERCE, CA 90040Not AAA Evaluated6.57 miles444 NORTH REXFORD DR.,BEVERLY HILLS, CA 90210Not AAA Evaluated8.95 milesCannot be combined with any other discount or offer.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Kelly's Coffee & Fudge Factory - Los Angeles #53",
+        "addressLine2": "277 W 8TH ST,",
+        "addressLine3": "LOS ANGELES, CA 90014",
+        "phone": "(213) 622-3363",
+        "distance": "0.86 miles"
+      },
+      {
+        "addressLine1": "Kelly's Coffee & Fudge Factory - Hollywood",
+        "addressLine2": "6801 HOLLYWOOD BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90028",
+        "phone": "(323) 464-6110",
+        "distance": "6.36 miles"
+      },
+      {
+        "addressLine1": "Kelly's Coffee & Fudge Factory - Commerce",
+        "addressLine2": "5701 S. EASTERN AVE,",
+        "addressLine3": "COMMERCE, CA 90040",
+        "phone": "(323) 887-0565",
+        "distance": "6.57 miles"
+      },
+      {
+        "addressLine1": "Kelly's Coffee & Fudge Factory - Beverly Hills",
+        "addressLine2": "444 NORTH REXFORD DR.,",
+        "addressLine3": "BEVERLY HILLS, CA 90210",
+        "phone": "(310) 550-9077",
+        "distance": "8.95 miles"
+      }
+    ]
+  },
+  {
+    "title": "JW Marriott",
+    "description": "Save 5% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999JWMarriott11409.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Marriott",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "Providing business and leisure travelers a deluxe level of comfort and personal service on their terms.900 W OLYMPIC BLVD,LOS ANGELES, CA 900151.35 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "JW Marriott Los Angeles L.A. LIVE",
+        "addressLine2": "900 W OLYMPIC BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90015",
+        "phone": "(866) AAA-SAVE",
+        "distance": "1.35 miles"
+      }
+    ]
+  },
+  {
+    "title": "John’s Incredible Pizza Compan",
+    "description": "Save up to 20% on AAA Package:$17.50 for adults (13 and over)$14.50 for children (3-12)Children 2 and under are freePer person package includes: All-You-Can-Eat Buffet, Unlimited beverages, $5 Fun Card, 2 Free Rides",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004JohnsIncrediblePizzaCompanbcce74.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "https://booking.johnspizza.com/Order/aaa/",
+      "phone": ""
+    },
+    "merchantDescription": "John’s offers year-round family fun that combines an All You Can Eat Buffet, with an enormous game room…Fun World.Fun World is packed with amusement park size rides, kiddie land, redemption games, video games, and other attractions. Lasting memories forAdmission to John's requires a Buffet Purchase. Applicable taxes apply. May not be combined with any other offer, discount, or coupon. Offer expires 12/30/14.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "iFLY Hollywood Indoor Skydiving",
+    "description": "Save 15% on Intro Flight Packages. Valid for Earn Your Wings or Spread Your Wings Flight Packages. Call 818-985-4359 ext 1 and refer to promo code iFLYAAA. Reservations strongly recommended.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004iFLYHollywoodIndoorSkydiving1d48ab.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": "(818) 985-4359"
+    },
+    "merchantDescription": "Excludes block time sessions. Terms and conditions apply.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "I Drive Safely",
+    "description": "Save 10%-20% for online courses, idrivesafely.com/California or idrivesafely.com/Nevada Save 20% on online mature driver improvement courses. Save 10% on online driver improvement courses. To register, visit AAA.com/discounts.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004IDriveSafely21530.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.idrivesafely.com/California",
+      "phone": ""
+    },
+    "merchantDescription": "Online Traffic School for Northern California and Nevada members. Senior Driver Improvement, Auto Insurance discount courses. Fleet Driver Training Reducing insurance cost for companies. DMV Practice Tests Practice for any DMV written exam.New Mexico state law requires that all students taking the online driver improvement course appear in-person to take the final exam. This can be done in testing centers at no additional cost; locations will be identified when you register.Cannot be combined with any other discountsValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Hyatt Regency",
+    "description": "Save 10% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999HyattRegency25cd18.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.aaa.com/hyatt",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "Hyatt Regency hotels, where connections flow seamlessly whether you're travelling for business or leisure. Where you'll find space to meet, and space to get away.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "HYATT house",
+    "description": "Save 10% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999HYATThouse9756f4.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.aaa.com/hyatt",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "To the generous welcome that makes our house a Hyatt, and the spaces and places that make our guests feel more like residents. At Hyatt House, you’re more than just a guest, you're a welcome resident.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "HP",
+    "description": "Up to 10% or more off list price on select products, plus 15% off printer ink.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999HP25208.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.aaa.com/hp",
+      "phone": ""
+    },
+    "merchantDescription": "HP is one of the world's largest providers of information technology infrastructure, software, services and solutions to individuals and organizations of all sizes.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Hornblower Cruises & Events",
+    "description": "Save 15% on all adult dinner cruises out of the Marina del Rey, Newport Beach, and San Diego ports. Excludes holidays and special events. Must ask for discount at time of booking.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004HornblowerCruisesEventsda1774.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": "(888) 467-6256"
+    },
+    "merchantDescription": "Whether the highlight of a California vacation or a close-to-home birthday party, anniversary dinner or special celebration, a Hornblower dining cruise is always memorable.Excludes holidays and special events. Must ask for discount at time of booking.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Homewood Suites",
+    "description": "Save 5% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999HomewoodSuites11405.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Hilton",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "Homewood Suites is designed to make guests feel at home, providing them with all of the comforts, and convenience of home for the price of a traditional hotel room. Every suite features separate living and sleeping areas and a fully equipped kitchen.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Home2 Suites",
+    "description": "Save 5% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999Home2SuitesbyHiltonPhiladelphiaConventionCenter6eaa24.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.aaa.com/hilton",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "Home2 Suites by Hilton is a hip extended stay hotel experience. We offer great deals and cheap rates whether guests are traveling for a few nights, few weeks or longer.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Hilton Hotels & Resorts",
+    "description": "Save 5% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999HiltonHotelsResorts11375.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Hilton",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "Featuring full-service hotels and resorts in locations throughout the world. Whether traveling for business or pleasure, Hilton guests can expect an experience made special through quality accommodations and superior service.535 S GRAND AVE,LOS ANGELES, CA 900710.59 miles100 W GLENOAKS BLVD,GLENDALE, CA 912027.35 miles225 W VALLEY BLVD,SAN GABRIEL, CA 917768.37 miles555 UNIVERSAL HOLLYWOOD DR,UNIVERSAL CITY, CA 916088.69 miles9876 WILSHIRE BLVD,BEVERLY HILLS, CA 902109.67 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Hilton Checkers Los Angeles",
+        "addressLine2": "535 S GRAND AVE,",
+        "addressLine3": "LOS ANGELES, CA 90071",
+        "phone": "(866) AAA-SAVE",
+        "distance": "0.59 miles"
+      },
+      {
+        "addressLine1": "Hilton Los Angeles North/Glendale & Executive Meeting Center",
+        "addressLine2": "100 W GLENOAKS BLVD,",
+        "addressLine3": "GLENDALE, CA 91202",
+        "phone": "(866) AAA-SAVE",
+        "distance": "7.35 miles"
+      },
+      {
+        "addressLine1": "Hilton Los Angeles/San Gabriel",
+        "addressLine2": "225 W VALLEY BLVD,",
+        "addressLine3": "SAN GABRIEL, CA 91776",
+        "phone": "(866) AAA-SAVE",
+        "distance": "8.37 miles"
+      },
+      {
+        "addressLine1": "Hilton Los Angeles /Universal City",
+        "addressLine2": "555 UNIVERSAL HOLLYWOOD DR,",
+        "addressLine3": "UNIVERSAL CITY, CA 91608",
+        "phone": "(866) AAA-SAVE",
+        "distance": "8.69 miles"
+      },
+      {
+        "addressLine1": "The Beverly Hilton",
+        "addressLine2": "9876 WILSHIRE BLVD,",
+        "addressLine3": "BEVERLY HILLS, CA 90210",
+        "phone": "(866) AAA-SAVE",
+        "distance": "9.67 miles"
+      }
+    ]
+  },
+  {
+    "title": "Hilton Grand Vacations",
+    "description": "Save 5% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999HiltonGrandVacations11406.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Hilton",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "A collection of spectacular resorts in renowned vacation destinations, each resort sets the stage for great getaways and include amenities from complimentary high-speed wireless Internet access and fully equipped kitchens to spectacular swimming pools.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Hilton Garden Inn",
+    "description": "Save 5% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999HiltonGardenInn11404.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Hilton",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "Hilton Garden Inn continually strives to ensure today's busy travelers have everything they need to be most productive on the road - from complimentary high-speed Internet access in all guestrooms and to getting the perfect night's sleep.2005 N HIGHLAND AVE,HOLLYWOOD, CA 900686.45 miles801 N VIA SAN CLEMENTE,MONTEBELLO, CA 906406.79 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Hilton Garden Inn Los Angeles/Hollywood",
+        "addressLine2": "2005 N HIGHLAND AVE,",
+        "addressLine3": "HOLLYWOOD, CA 90068",
+        "phone": "(866) AAA-SAVE",
+        "distance": "6.45 miles"
+      },
+      {
+        "addressLine1": "Hilton Garden Inn Montebello",
+        "addressLine2": "801 N VIA SAN CLEMENTE,",
+        "addressLine3": "MONTEBELLO, CA 90640",
+        "phone": "(866) AAA-SAVE",
+        "distance": "6.79 miles"
+      }
+    ]
+  },
+  {
+    "title": "Hertz Rent2Buy",
+    "description": "Rent for 3 days at participating U.S. Hertz rental location. If you buy, rental is free and you receive $300 off price of the car.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999HertzRent2Buy24781.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.aaa.com/buyhertz",
+      "phone": ""
+    },
+    "merchantDescription": "Try before you buy! Rent for 3 days before you buy.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Hertz Car Rental",
+    "description": "Save 20% on Standard rate for premium car classes and above, 15% on Standard rate for economy through full size, 15% on Leisure and Promotional rates for premium car classes and above, 10% on Leisure and Promotional rates for economy through full size.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999HertzCarRental4.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://aaa.com/hertz",
+      "phone": "(800) 654-3080"
+    },
+    "merchantDescription": "Hertz is a car rental company with international locations in 145 countries worldwide.800 N ALAMEDA ST,LOS ANGELES, CA 900120.49 miles333 S. FIGUEROA ST,LOS ANGELES, CA 900710.58 miles711 SOUTH HOPE STREET,LOS ANGELES, CA 900170.88 miles900 W OLYMPIC BLVD,LOS ANGELES, CA 900151.32 miles2830 A WEST OLYMMPIC BOULEVARD,LOS ANGELES, CA 900062.89 miles1804 HYPERION AVENUE,LOS ANGELES, CA 900263.45 miles150 S WESTERN AVENUE,LOS ANGELES, CA 900043.88 miles4334 W PICO BLVD,LOS ANGELES, CA 900194.82 miles4730 EAGLE ROAK BLVD,LOS ANGELES, CA 900415.63 miles1001 SOUTH BRAND BLVD,GLENDALE, CA 912045.64 miles361 NORTH LA BREA,LOS ANGELES, CA 900365.94 miles1755 N. HIGHLAND,LOS ANGELES, CA 900286.40 miles1103 S. LA CIENEGA BLVD.,LOS ANGELES, CA 900357.53 miles1930 S. LA CIENEGA BLVD.,LOS ANGELES, CA 900357.55 miles450 N LACIENEGA BLVD,LOS ANGELES, CA 900487.72 miles5645 FIRESTONE BLVD,SOUTH GATE, CA 902808.44 miles8949 VENICE BOULEVARD,LOS ANGELES, CA 900348.47 miles1177 S. BEVERLY DRIVE,BEVERLY HILLS, CA 900358.65 miles810 S VICTORY BLVD,BURBANK, CA 915028.73 miles8534 WHITTIER BLVD,PICO RIVERA, CA 906609.54 miles4426 LANKERSHIM BLVD,NORTH HOLLYWOOD, CA 916029.67 miles2025 AVE OF THE STAR,CENTURY CITY, CA 900679.79 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Hertz Car Rental - UNION STATION",
+        "addressLine2": "800 N ALAMEDA ST,",
+        "addressLine3": "LOS ANGELES, CA 90012",
+        "phone": "(213) 625-1034",
+        "distance": "0.49 miles"
+      },
+      {
+        "addressLine1": "Hertz Car Rental - DOWNTOWN MARRIOTT",
+        "addressLine2": "333 S. FIGUEROA ST,",
+        "addressLine3": "LOS ANGELES, CA 90071",
+        "phone": "(213) 625-0997",
+        "distance": "0.58 miles"
+      },
+      {
+        "addressLine1": "Hertz Car Rental - DOWNTOWN SHERATON HLE",
+        "addressLine2": "711 SOUTH HOPE STREET,",
+        "addressLine3": "LOS ANGELES, CA 90017",
+        "phone": "(213) 629-7421",
+        "distance": "0.88 miles"
+      },
+      {
+        "addressLine1": "Hertz Car Rental - JW MARRIOTT LOS ANGELES",
+        "addressLine2": "900 W OLYMPIC BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90015",
+        "phone": "(213) 765-8659",
+        "distance": "1.32 miles"
+      },
+      {
+        "addressLine1": "Hertz Car Rental - KOREA TOWN HLE",
+        "addressLine2": "2830 A WEST OLYMMPIC BOULEVARD,",
+        "addressLine3": "LOS ANGELES, CA 90006",
+        "phone": "(213) 738-0648",
+        "distance": "2.89 miles"
+      },
+      {
+        "addressLine1": "Hertz Car Rental - RICKS AUTO BODY HLE",
+        "addressLine2": "1804 HYPERION AVENUE,",
+        "addressLine3": "LOS ANGELES, CA 90026",
+        "phone": "(323) 644-6987",
+        "distance": "3.45 miles"
+      },
+      {
+        "addressLine1": "Hertz Car Rental - WESTERN A/B KOREA TOWN",
+        "addressLine2": "150 S WESTERN AVENUE,",
+        "addressLine3": "LOS ANGELES, CA 90004",
+        "phone": "(213) 387-1062",
+        "distance": "3.88 miles"
+      },
+      {
+        "addressLine1": "Hertz Car Rental - PICO HLE",
+        "addressLine2": "4334 W PICO BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90019",
+        "phone": "(323) 954-1187",
+        "distance": "4.82 miles"
+      },
+      {
+        "addressLine1": "Hertz Car Rental - EAGLE ROCK HLE",
+        "addressLine2": "4730 EAGLE ROAK BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90041",
+        "phone": "(323) 255-5704",
+        "distance": "5.63 miles"
+      },
+      {
+        "addressLine1": "Hertz Car Rental - GLENDALE HLE",
+        "addressLine2": "1001 SOUTH BRAND BLVD,",
+        "addressLine3": "GLENDALE, CA 91204",
+        "phone": "(818) 265-3805",
+        "distance": "5.64 miles"
+      },
+      {
+        "addressLine1": "Hertz Car Rental - HOLLYWOOD/FAIRFAX HLE",
+        "addressLine2": "361 NORTH LA BREA,",
+        "addressLine3": "LOS ANGELES, CA 90036",
+        "phone": "(323) 965-9691",
+        "distance": "5.94 miles"
+      },
+      {
+        "addressLine1": "Hertz Car Rental - RENAISSANCE HOLLYWOOD HL",
+        "addressLine2": "1755 N. HIGHLAND,",
+        "addressLine3": "LOS ANGELES, CA 90028",
+        "phone": "(323) 957-1219",
+        "distance": "6.40 miles"
+      },
+      {
+        "addressLine1": "Hertz Car Rental - LA CIENEGA HLE",
+        "addressLine2": "1103 S. LA CIENEGA BLVD.,",
+        "addressLine3": "LOS ANGELES, CA 90035",
+        "phone": "(310) 360-7281",
+        "distance": "7.53 miles"
+      },
+      {
+        "addressLine1": "Hertz Car Rental - LACIENEGA SOUTH",
+        "addressLine2": "1930 S. LA CIENEGA BLVD.,",
+        "addressLine3": "LOS ANGELES, CA 90035",
+        "phone": "(310) 559-5976",
+        "distance": "7.55 miles"
+      },
+      {
+        "addressLine1": "Hertz Car Rental - WEST HOLLYWOOD HLE",
+        "addressLine2": "450 N LACIENEGA BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90048",
+        "phone": "(310) 659-2280",
+        "distance": "7.72 miles"
+      },
+      {
+        "addressLine1": "Hertz Car Rental - CENTRAL FORD HLE",
+        "addressLine2": "5645 FIRESTONE BLVD,",
+        "addressLine3": "SOUTH GATE, CA 90280",
+        "phone": "(562) 803-5500",
+        "distance": "8.44 miles"
+      },
+      {
+        "addressLine1": "Hertz Car Rental - BEV.HILLS BODY AND PAINT",
+        "addressLine2": "8949 VENICE BOULEVARD,",
+        "addressLine3": "LOS ANGELES, CA 90034",
+        "phone": "(310) 839-0945",
+        "distance": "8.47 miles"
+      },
+      {
+        "addressLine1": "Hertz Car Rental - RESIDENCE INN HLE",
+        "addressLine2": "1177 S. BEVERLY DRIVE,",
+        "addressLine3": "BEVERLY HILLS, CA 90035",
+        "phone": "(310) 553-5128",
+        "distance": "8.65 miles"
+      },
+      {
+        "addressLine1": "Hertz Car Rental - BURBANK HLE",
+        "addressLine2": "810 S VICTORY BLVD,",
+        "addressLine3": "BURBANK, CA 91502",
+        "phone": "(818) 841-8704",
+        "distance": "8.73 miles"
+      },
+      {
+        "addressLine1": "Hertz Car Rental - PICO RIVERA HLE",
+        "addressLine2": "8534 WHITTIER BLVD,",
+        "addressLine3": "PICO RIVERA, CA 90660",
+        "phone": "(562) 942-0802",
+        "distance": "9.54 miles"
+      },
+      {
+        "addressLine1": "Hertz Car Rental - TOLUCA LAKE HLE",
+        "addressLine2": "4426 LANKERSHIM BLVD,",
+        "addressLine3": "NORTH HOLLYWOOD, CA 91602",
+        "phone": "(818) 980-1601",
+        "distance": "9.67 miles"
+      },
+      {
+        "addressLine1": "Hertz Car Rental - HYATT REGENCY CENTURY PL",
+        "addressLine2": "2025 AVE OF THE STAR,",
+        "addressLine3": "CENTURY CITY, CA 90067",
+        "phone": "(310) 277-0015",
+        "distance": "9.79 miles"
+      }
+    ]
+  },
+  {
+    "title": "Hawaiian Island Shine",
+    "description": "Save 25% on all regularly priced items. Receive a free gift with the purchase on monthly promotional items. To purchase, visit AAA.com/discounts.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004HawaiianIslandShine3e66e0.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://memberdiscounts.hawaii.aaa.com/offer/index/offerId/137420/uSource/PS…ageNumber%22:0,%22position%22:%220%22,%22entityType%22:%22Store%22,%22enti",
+      "phone": ""
+    },
+    "merchantDescription": "From the auto hobbyist to the show room floor our goal is to establish that show quality shine at a great price. Save on Professional grade Car/RV/Marine care products.cannot be combined with any other offersValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Hard Rock Cafe",
+    "description": "Save 10% on food, non-alcoholic beverages and non-charity merchandise at all U.S., and select Canadian and international locations. Multiply your savings by joining Hard Rock Rewards for points toward future privileges!",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999HardRockCafe21.png",
+    "details": {
+      "cuisine": "American"
+    },
+    "waysToRedeem": {
+      "online": "http://www.aaa.com/hardrock",
+      "phone": ""
+    },
+    "merchantDescription": "Experience the Hard Rock's fantastic food, exceptional service, awesome rock memorabilia and quality collectible merchandise while you enjoy cool music in a fun-filled atmosphere!1000 UNIVERSAL STUDIOS BLVD,UNIVERSAL CITY, CA 916088.34 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Hard Rock Cafe",
+        "addressLine2": "1000 UNIVERSAL STUDIOS BLVD,",
+        "addressLine3": "UNIVERSAL CITY, CA 91608",
+        "phone": "(888) 519-6683",
+        "distance": "8.34 miles"
+      }
+    ]
+  },
+  {
+    "title": "Hampton Inn & Suites",
+    "description": "Save 5% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999HamptonInnSuites10700.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Hampton",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Hampton Inn",
+    "description": "Save 5% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999HamptonInn10701.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Hampton",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "All Hampton hotels offer warm surroundings and a friendly service backed by a 100% Hampton Satisfaction Guarantee and high-quality accommodations and services. Currently, there are more than 1,600 Hampton hotels located across North America.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Grand Hyatt",
+    "description": "Save 10% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999GrandHyatt35a566.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.aaa.com/hyatt",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "Expect nothing but the best at Grand Hyatt hotels. The most spectacular accommodations, most savory dining options and most eye-opening entertainment. You'll find our distinctive hotels in major cities and resort locales, right in the center of it all.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "GotCarWash.com",
+    "description": "Enjoy unlimited car washes for 1 month for only $9.99. Pay no initiation fee ($14.99 savings) and save 10% on your monthly renewal (regularly priced $24.99-$34.99). To sign up, visit AAA.com/discounts.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004GotCarWashcom684f70.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://loyaltyconcepts.net/programs/aaa/",
+      "phone": ""
+    },
+    "merchantDescription": "Car WashValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "glasses.com",
+    "description": "We're excited to offer the brands you love, free lenses, free shipping and free returns. AAA members get 25% off your $200 order + free lenses.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999glassescom24820.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.aaa.com/glasses",
+      "phone": ""
+    },
+    "merchantDescription": "Online retailer of prescription and non-prescription glasses and sunglasses, carrying a wide-range of styles and name brands such as Oakley, Ray-Ban, Kate Spade New York, Burberry, Maui Jim, and more.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Gaylord Hotels",
+    "description": "Save 5% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999GaylordHotels5129ca.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.aaa.com/marriott",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "Fueled by the brand’s hallmark “Everything in one place” concept, Gaylord Hotels resort vacations blend magnificent settings, luxurious rooms and world-class entertainment.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "FTD.com",
+    "description": "AAA members save 20% sitewide every day. Shop today and mention promo code 11000. No promo code needed for internet ordering, enter member ID at checkout.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999FTDcom7979.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/ftd",
+      "phone": "(800) 736-3383"
+    },
+    "merchantDescription": "Discover FTD's extensive selection of beautiful flowers and plants. Plus, find thoughtful gifts and delicious gourmet delights from top brands including Starbucks, Mrs. Fields, Godiva and more.1065 W SUNSET BLVD,LOS ANGELES, CA 900120.85 miles711 FAIR OAKS AVE,SOUTH PASADENA, CA 910306.97 miles7435 FLORENCE AVE,DOWNEY, CA 902418.91 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "FTD - Four Seasons Flowers & Gifts",
+        "addressLine2": "1065 W SUNSET BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90012",
+        "phone": "(213) 250-7373",
+        "distance": "0.85 miles"
+      },
+      {
+        "addressLine1": "FTD - Flower Gallery",
+        "addressLine2": "711 FAIR OAKS AVE,",
+        "addressLine3": "SOUTH PASADENA, CA 91030",
+        "phone": "(626) 799-7111",
+        "distance": "6.97 miles"
+      },
+      {
+        "addressLine1": "FTD - Fitzgeralds Flower Shop",
+        "addressLine2": "7435 FLORENCE AVE,",
+        "addressLine3": "DOWNEY, CA 90241",
+        "phone": "(562) 927-1467",
+        "distance": "8.91 miles"
+      }
+    ]
+  },
+  {
+    "title": "Fourever Fab",
+    "description": "\"Save 20% on tickets. For reservations, call 1.808.725,4136. Must show your AAA membership card on the day of the show.\"",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004FoureverFab295dd0.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": "(808) 725-4136"
+    },
+    "merchantDescription": "Fourever Fab and its founding members have been performing the hits of the world’s most-loved lads, The Beatles, for over twenty years. From the Asia-Pacific to the east coast of the US, audiences have fallen in love all over with the magic that is recreaMust show your AAA membership card on the day of the showValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Four Points by Sheraton",
+    "description": "Save up to 15%.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999FourPointsbySheraton10692.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Starwood",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "Four Points by Sheraton, with 130 properties in 22 countries, offers the self-sufficient traveler a new kind of style and comfort combined with a spirited \"can-do\" service -- all at an honest value.5990 GREEN VALLEY CIR,CULVER CITY, CA 902309.80 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Four Points by Sheraton",
+        "addressLine2": "5990 GREEN VALLEY CIR,",
+        "addressLine3": "CULVER CITY, CA 90230",
+        "phone": "(866) AAA-SAVE",
+        "distance": "9.80 miles"
+      }
+    ]
+  },
+  {
+    "title": "Fairfield Inns",
+    "description": "Save 5% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999FairfieldInns3285.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Marriott",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "Consistent, quality lodging at an affordable price. Features include spacious guest rooms and daily complimentary continental breakfast.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Fairfield Inn & Suites",
+    "description": "Save 5% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999FairfieldInnSuites11408.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Marriott",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "Consistent, quality lodging at an affordable price. Features include spacious guest rooms and daily complimentary continental breakfast.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Enterprise Car Sales",
+    "description": "Save 20 percent on the purchase of vehicle service agreements and after-market accessories.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004EnterpriseCarSales4c05ca.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": ""
+    },
+    "merchantDescription": "Automotive Product & Services11180 LUCERNE AVE,LOS ANGELES, CA 902309.69 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Enterprise Car Sales",
+        "addressLine2": "11180 LUCERNE AVE,",
+        "addressLine3": "LOS ANGELES, CA 90230",
+        "phone": "(866) 714-1264",
+        "distance": "9.69 miles"
+      }
+    ]
+  },
+  {
+    "title": "Embassy Suites",
+    "description": "Save 5% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999EmbassySuites11403.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Hilton",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "Embassy Suites, targeted to both leisure and business travelers, offers upscale all-suite hotels, featuring two-room suites with separate living and sleeping areas with a complimentary cooked-to-order breakfast and evening Manager's Reception.800 N CENTRAL AVE,GLENDALE, CA 912037.26 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Embassy Suites Los Angeles Glendale",
+        "addressLine2": "800 N CENTRAL AVE,",
+        "addressLine3": "GLENDALE, CA 91203",
+        "phone": "(866) AAA-SAVE",
+        "distance": "7.26 miles"
+      }
+    ]
+  },
+  {
+    "title": "Elitch Gardens Theme & Water Park",
+    "description": "Save 35% on tickets, 20% on parking, and 15% on meal deal vouchers.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004ElitchGardensThemeWaterParkbbad5d.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://memberdiscounts.newmexico.aaa.com/offer/index/offerId/631405/uSource…umber%22:0,%22position%22:%220%22,%22entityType%22:%22Store%22,%22entityId",
+      "phone": ""
+    },
+    "merchantDescription": "Thrilling rides. Entertaining shows. Refreshing water slides. Two parks for the price of one await you at Colorado’s coaster capital, Elitch Gardens. Give your family a much-needed escape at the area’s #1 theme and water park.Daily Ticket includes unlimited admission to Elitch Gardens Theme and Water Park. Offer valid online only. Please check operating calendar for schedule. Children 3 and under are admitted free and do not require a ticket. $5 processing fee per order.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Element",
+    "description": "Save up to 15%.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999Element10691.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Starwood",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "Whether traveling for business or fun, element hotels meets your needs no matter how long your stay. A full kitchen in your guest room, healthy food choices and a gym are just a few of the features that help keep you in balance.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "El Torito",
+    "description": "Save 10% on up to 4 adult entrées.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004eltorito.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": ""
+    },
+    "merchantDescription": "Not valid at El Torito Grill.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "El Torito",
+        "addressLine2": "4012 RIVERSIDE DR,",
+        "addressLine3": "BURBANK, CA 90505",
+        "phone": "(818) 848-4501",
+        "distance": "8.84 miles"
+      }
+    ]
+  },
+  {
+    "title": "El Monte RV",
+    "description": "Save 10% September through May and 5% June through August.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999ElMonteRV23331.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.aaa.com/elmonterv",
+      "phone": "(800) 337-2156"
+    },
+    "merchantDescription": "El Monte RV is America's premier nationwide RV rental company.1256 W 7TH ST,LOS ANGELES, CA 900171.30 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "El Monte RV - Los Angeles CA Shuttle Service Only",
+        "addressLine2": "1256 W 7TH ST,",
+        "addressLine3": "LOS ANGELES, CA 90017",
+        "phone": "(800) 337-2156",
+        "distance": "1.30 miles"
+      }
+    ]
+  },
+  {
+    "title": "Edition",
+    "description": "Save 5% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999Edition857c37.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.aaa.com/marriott",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "Stay in sophisticated style at EDITION Hotels, a unique concept in the lifestyle hotel space conceived by Ian Schrager and Marriott International.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "EarthLink",
+    "description": "Save up to $100 off your first year DSL, Cable or Dial-up internet service. Save up to $50 a year when you renew.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004EarthLink15b3f6.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": "(866) 662-1315"
+    },
+    "merchantDescription": "Internet service provider12-month contract required with DSL internet service. Cable not available in New Mexico.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "EagleRider",
+    "description": "Save 20% on rentals, 15% on apparel and accessories, and $250 on pre-owned motorcycles. For rental reservations, call 1.877.869.5023. To purchase apparel and accessories, visit AAA.com/eaglerider.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004EagleRiderb683de.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://aaa.com/eaglerider",
+      "phone": "(877) 869-5023"
+    },
+    "merchantDescription": "Largest Motorcycle Rental & Tour Company in the World. Harley-Davidson« motorcycle rentals as well as Honda«, BMW«, Polaris«, Triumph« and Yamaha«.3717 SAN FERNANDO ROAD,GLENDALE, CA 912044.95 milesValid driver's license with motorcyle endorsement is required with rental. Valid AAA membership card must be present at time of rental.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Eagle Rider",
+        "addressLine2": "3717 SAN FERNANDO ROAD,",
+        "addressLine3": "GLENDALE, CA 91204",
+        "phone": "(818) 552-6246",
+        "distance": "4.95 miles"
+      }
+    ]
+  },
+  {
+    "title": "DoubleTree Hotels",
+    "description": "Save 5% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999DoubleTreeHotels11402.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Hilton",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "With 189 locations in the U.S., Canada and Latin America, Doubletree Hotels is the full-service hotel brand that provides all the conveniences travelers might expect, in a warm and welcoming environment.120 S LOS ANGELES ST,LOS ANGELES, CA 900120.23 miles5757 TELEGRAPH RD,COMMERCE, CA 900406.40 miles888 MONTEBELLO BLVD,ROSEMEAD, CA 917709.46 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "DoubleTree by Hilton Los Angeles Downtown",
+        "addressLine2": "120 S LOS ANGELES ST,",
+        "addressLine3": "LOS ANGELES, CA 90012",
+        "phone": "(866) AAA-SAVE",
+        "distance": "0.23 miles"
+      },
+      {
+        "addressLine1": "DoubleTree by Hilton Los Angeles - Commerce",
+        "addressLine2": "5757 TELEGRAPH RD,",
+        "addressLine3": "COMMERCE, CA 90040",
+        "phone": "(866) AAA-SAVE",
+        "distance": "6.40 miles"
+      },
+      {
+        "addressLine1": "DoubleTree by Hilton Hotel Los Angeles - Rosemead",
+        "addressLine2": "888 MONTEBELLO BLVD,",
+        "addressLine3": "ROSEMEAD, CA 91770",
+        "phone": "(866) AAA-SAVE",
+        "distance": "9.46 miles"
+      }
+    ]
+  },
+  {
+    "title": "Dollar Rent A Car",
+    "description": "Members save 10% on car rental in the US and Canada with advance registration and 10% on navigation units at time of vehicle pickup. CD number must be included in reservation in order to receive offer.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999DollarRentACar21735.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.aaa.com/hertz",
+      "phone": "(855) 214-9138"
+    },
+    "merchantDescription": "Dollar Rent A Car provides car rentals for cost-conscious leisure and business travelers. Dollar has 629 locations worldwide and is owned by Hertz.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "DIRECTV",
+    "description": "Members who become new subscribers to DIRECTV will receive a $10 credit on their monthly bill for 20 months. Sign up as a new DIRECTV customer. Restrictions apply.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999DIRECTV17027.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.aaa.com/directv",
+      "phone": "(800) 370-3578"
+    },
+    "merchantDescription": "DIRECTV is the nation's leading satellite TV provider and currently has more than 20 million subscribers.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Dell",
+    "description": "AAA members save up to 10, 20 or 30% on select configurations of Dell systems. Some restrictions apply.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999Dell9310.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.aaa.com/dell",
+      "phone": ""
+    },
+    "merchantDescription": "Get 25% and a free 32\" LG TV with the purchase of select PCs priced $699.99 or more now through August 31, 2015.8/31/2015Dell Inc. is a multinational information technology corporation that develops, sells and supports computers and related products and services.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Darrin Gee's",
+    "description": "Receive 33% off the signature Spirit of Golf Clinic (adult or junior).",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004DarrinGees21506.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": "(808) 887-6800"
+    },
+    "merchantDescription": "Take your golf game to the next level with lessons at Darrin Gee's Spirit of Golf Academy on the Big Island of Hawaii. Golfers have cut as many as 22 strokes with just one simple golf lesson!Cannot be combined with any other discount or offer.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "dana wharf",
+    "description": "Whale Watching Offer: Save 30% on your whale watching excursion. Visit AAA.com/discounts to book and enter AUTOWHALE at checkout. Fishing Offer: Free equipment rental with starter tackle pack ($12 value) when you purchase a 5 or 9 hour fishing trip.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004danawharf59b746.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://danawharf.com/aaa.htm",
+      "phone": ""
+    },
+    "merchantDescription": "whale watchingValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Curio",
+    "description": "Save 5% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999Curio64575e.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.aaa.com/hilton",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "There is extraordinary. And then there is Curio.Some are well known. Some are local legends. But each hotel in the Curio Collection is a masterpiece that reflects the best of its surroundings.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Courtyard by Marriott",
+    "description": "Save 5% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999CourtyardbyMarriott10688.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Marriott",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "Over 700 Courtyard by Marriott locations worldwide. Providing all the options to let you make you the most of your trip, like Free Wi-Fi, the 24/7 Market and more.180 N FAIR OAKS AVE,PASADENA, CA 911038.55 miles6333 BRISTOL PKWY,CULVER CITY, CA 902309.83 miles10320 W OLYMPIC BLVD,LOS ANGELES, CA 900649.85 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Courtyard by Marriott",
+        "addressLine2": "180 N FAIR OAKS AVE,",
+        "addressLine3": "PASADENA, CA 91103",
+        "phone": "(866) AAA-SAVE",
+        "distance": "8.55 miles"
+      },
+      {
+        "addressLine1": "Courtyard by Marriott",
+        "addressLine2": "6333 BRISTOL PKWY,",
+        "addressLine3": "CULVER CITY, CA 90230",
+        "phone": "(866) AAA-SAVE",
+        "distance": "9.83 miles"
+      },
+      {
+        "addressLine1": "Courtyard by Marriott",
+        "addressLine2": "10320 W OLYMPIC BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90064",
+        "phone": "(866) AAA-SAVE",
+        "distance": "9.85 miles"
+      }
+    ]
+  },
+  {
+    "title": "Consumers Relocation Services",
+    "description": "Save up to 64% on tariff rates on state-to-state moves and 25% on in-state moves over 100 miles, standard service fee waived. Receive free replacement valuation coverage up to $100,000. For a free quote, call 1.800.839.6683 or visit AAA.com/discounts.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004ConsumersRelocationServices352cff.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.consumersrelocation.com/zip_code_check.php",
+      "phone": "(800) 839-6683"
+    },
+    "merchantDescription": "We offer household goods moving services, auto transportation, and specialty item shipment coordination, and assistance tailored to the general consumer.cannot be used with any other offer.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Conrad Hotels & Resorts",
+    "description": "Save 5% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999ConradHotelsResorts11401.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Hilton",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "A global contemporary luxury brand, Conrad's award-winning hotels and resorts are located in cosmopolitan destinations across the globe. Discover the World of Conrad and the greatest luxury of all...The Luxury of Being Yourself.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Connect Hearing",
+    "description": "Save 40% on a variety of hearing aids from Connect Hearing. Also included is a complimentary hearing evaluation, three year supply of batteries, three year warranty, free follow up visits and and a price match guarantee. Also a free 2 week trial - no obligation. Try before you buy!",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999ConnectHearing13526.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": "(800) 222-1076"
+    },
+    "merchantDescription": "Connect Hearing is one of the nation's leading providers of hearing healthcare and hearing-aid services.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "California Ravelco",
+    "description": "Receive 10% off Ravelco ATD and installation for standard vehicles. Receive 15% off Ravelco ATD and installation for specialty vehicles.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004CaliforniaRavelco7a07d9.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": "(877) 222-0456"
+    },
+    "merchantDescription": "California Ravelco is dedicated to providing customers with vehicle security solutions that work before the vehicle is stolen. Our mobile installation service is available in most areas.Must show AAA membership card to the California Ravelco installer at the time of installation in order to receive the discount.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "California Philharmonic",
+    "description": "Save 20% on select seats for Victor Vener and his California Philharmonic at Walt Disney Concert Hall or Santa Anita Race Track.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004californiaphilharmonic.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.calphilmusic.com/2014-season-aaa/",
+      "phone": "(800) 745-3000"
+    },
+    "merchantDescription": "Experience the magic of music. Santa Anita Race Track is a place like no other—it’s where awesome music happens. It’s the perfect place to spend an evening under the stars with the music and people you love.Or spend Sunday afternoons at Walt Disney Co400 S BALDWIN AVE.,ARCADIA, CA 910078.12 milesMust mention promotion code: SYCVVCP. Present your valid AAA membership card at the box office, by phone at 1.800.745.3000 or online at AAA.com/discounts.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "California Philharmonic",
+        "addressLine2": "400 S BALDWIN AVE.,",
+        "addressLine3": "ARCADIA, CA 91007",
+        "phone": "(626) 300-8200",
+        "distance": "8.12 miles"
+      }
+    ]
+  },
+  {
+    "title": "budget blinds",
+    "description": "Save an additional 10% off the promotional 30% discount on selected Signature Series® Window Treatments. For a complimentary in-home consultation or more information, call 1.800.815.9692.Applies to Selected Signature Series® Window Treatments only by Budget Blinds®. At participating franchises only. Some restrictions may apply. Offer good at initial time of estimate only. Each franchise independently owned and operated. Limited time only. Valid AAA membership required.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004budgetblindsf4cdbe.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": "(866) 537-1152"
+    },
+    "merchantDescription": "You’ll love working with the Design Consultants at Budget Blinds. We’ll bring samples, swatches and styles to you, so you can see how they look in your home. We’ll measure your windows, do the ordering, inspect your window coverings on delivery, bring theApplies to Selected Signature Series® Window Treatments only by Budget Blinds®. At participating franchises only. Some restrictions may apply. Offer good at initial time of estimate only. Each franchise independently owned and operated. Limited time only. Valid AAA membership required.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Box Brothers",
+    "description": "Save 10 percent on moving and shipping boxes and supplies, packaging and crating services and shipping services, including FedEx and UPS.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004BoxBrothersd841ff.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": ""
+    },
+    "merchantDescription": "Office moving and shipping supplies1954 HILLHURST AVE,LOS ANGELES, CA 900274.43 miles3154 GLENDALE BLVD,LOS ANGELES, CA 900394.51 miles5629 HOLLYWOOD BLVD,HOLLYWOOD, CA 900285.12 miles5353 WILSHIRE BLVD,LOS ANGELES, CA 900365.78 miles8533 SANTA MONICA BLVD,WEST HOLLYWOOD, CA 900697.97 miles220 W IVY AVE,INGLEWOOD, CA 903028.70 miles1806 W OLIVE,BURBANK, CA 915069.02 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Box Brothers",
+        "addressLine2": "1954 HILLHURST AVE,",
+        "addressLine3": "LOS ANGELES, CA 90027",
+        "phone": "(800) 84B-OXES",
+        "distance": "4.43 miles"
+      },
+      {
+        "addressLine1": "Box Brothers",
+        "addressLine2": "3154 GLENDALE BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90039",
+        "phone": "(800) 84B-OXES",
+        "distance": "4.51 miles"
+      },
+      {
+        "addressLine1": "Box Brothers",
+        "addressLine2": "5629 HOLLYWOOD BLVD,",
+        "addressLine3": "HOLLYWOOD, CA 90028",
+        "phone": "(800) 84B-OXES",
+        "distance": "5.12 miles"
+      },
+      {
+        "addressLine1": "Box Brothers",
+        "addressLine2": "5353 WILSHIRE BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90036",
+        "phone": "(800) 84B-OXES",
+        "distance": "5.78 miles"
+      },
+      {
+        "addressLine1": "Box Brothers",
+        "addressLine2": "8533 SANTA MONICA BLVD,",
+        "addressLine3": "WEST HOLLYWOOD, CA 90069",
+        "phone": "(800) 84B-OXES",
+        "distance": "7.97 miles"
+      },
+      {
+        "addressLine1": "Box Brothers",
+        "addressLine2": "220 W IVY AVE,",
+        "addressLine3": "INGLEWOOD, CA 90302",
+        "phone": "(800) 84B-OXES",
+        "distance": "8.70 miles"
+      },
+      {
+        "addressLine1": "Box Brothers",
+        "addressLine2": "1806 W OLIVE,",
+        "addressLine3": "BURBANK, CA 91506",
+        "phone": "(800) 84B-OXES",
+        "distance": "9.02 miles"
+      }
+    ]
+  },
+  {
+    "title": "Blue Man Group Las Vegas",
+    "description": "Save 30% on tickets to Blue Man Group at Monte Carlo Resort and Casino.To purchase tickets, Show your AAA membership card at the Monte Carlo box office in Las Vegas, visit www.blueman.com/aaavegas, or call 1.800.258-3626.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004BlueManGroupLasVegas1cfc6e.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.blueman.com/aaavegas",
+      "phone": "(800) 258-3626"
+    },
+    "merchantDescription": "Blue Man Group has turbo-charged its newest show in Las Vegas with electrifying music, sensational technology, and innovative new ways of interacting with the audience.Valid on Category A: Premium, Category B: Poncho Premium, and Category C: Standard tickets only. Must present a valid AAA card at box office when picking up tickets. Offer is subject to availability and cannot be combined with any other offer. Not valid on previously purchased tickets. Blue Man Group reserves all rights.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Best Western Premier",
+    "description": "Save up to 20%.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999BestWesternPremier21256.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/BestWestern",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "The World's Largest Hotel Chain. There are more than 4,200 Best Western hotels worldwide. Stay with the hotel chain you've come to trust over the past 60 years or discover them for the first time.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Best Western Plus",
+    "description": "Save up to 20%.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999BestWesternPlus23163.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/BestWestern",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "The World's Largest Hotel Chain. There are more than 4,200 Best Western hotels worldwide, Stay with the hotel chain you've come to trust over the past 60 years or discover them for the first time.818 N HILL ST,LOS ANGELES, CA 900120.75 miles6141 FRANKLIN AVE,HOLLYWOOD, CA 900285.77 miles2911 COLORADO BLVD,LOS ANGELES, CA 900416.27 miles8400 SUNSET BLVD,WEST HOLLYWOOD, CA 900697.85 miles3910 W RIVERSIDE DR,BURBANK, CA 915058.81 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "BEST WESTERN PLUS Dragon Gate Inn",
+        "addressLine2": "818 N HILL ST,",
+        "addressLine3": "LOS ANGELES, CA 90012",
+        "phone": "(866) AAA-SAVE",
+        "distance": "0.75 miles"
+      },
+      {
+        "addressLine1": "BEST WESTERN PLUS Hollywood Hills Hotel",
+        "addressLine2": "6141 FRANKLIN AVE,",
+        "addressLine3": "HOLLYWOOD, CA 90028",
+        "phone": "(866) AAA-SAVE",
+        "distance": "5.77 miles"
+      },
+      {
+        "addressLine1": "BEST WESTERN PLUS Eagle Rock Inn",
+        "addressLine2": "2911 COLORADO BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90041",
+        "phone": "(866) AAA-SAVE",
+        "distance": "6.27 miles"
+      },
+      {
+        "addressLine1": "BEST WESTERN PLUS Sunset Plaza Hotel",
+        "addressLine2": "8400 SUNSET BLVD,",
+        "addressLine3": "WEST HOLLYWOOD, CA 90069",
+        "phone": "(866) AAA-SAVE",
+        "distance": "7.85 miles"
+      },
+      {
+        "addressLine1": "BEST WESTERN PLUS Media Center Inn & Suites",
+        "addressLine2": "3910 W RIVERSIDE DR,",
+        "addressLine3": "BURBANK, CA 91505",
+        "phone": "(866) AAA-SAVE",
+        "distance": "8.81 miles"
+      }
+    ]
+  },
+  {
+    "title": "Best Western",
+    "description": "Save up to 20%.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999BestWestern5331.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/BestWestern",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "The World's Largest Hotel Chain. There are more than 4,200 Best Western hotels worldwide. Stay with the hotel chain you've come to trust over the past 60 years or discover them for the first time.420 N ATLANTIC BLVD,MONTEREY PARK, CA 917546.41 miles2011 N HIGHLAND AVE,HOLLYWOOD, CA 900686.47 miles434 POTRERO GRANDE DR,MONTEREY PARK, CA 917557.41 miles1730 CENTINELA AVE,INGLEWOOD, CA 903028.85 miles640 W MANCHESTER BLVD,INGLEWOOD, CA 903019.48 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "BEST WESTERN Monterey Park Inn",
+        "addressLine2": "420 N ATLANTIC BLVD,",
+        "addressLine3": "MONTEREY PARK, CA 91754",
+        "phone": "(866) AAA-SAVE",
+        "distance": "6.41 miles"
+      },
+      {
+        "addressLine1": "BEST WESTERN Hollywood Plaza Inn",
+        "addressLine2": "2011 N HIGHLAND AVE,",
+        "addressLine3": "HOLLYWOOD, CA 90068",
+        "phone": "(866) AAA-SAVE",
+        "distance": "6.47 miles"
+      },
+      {
+        "addressLine1": "BEST WESTERN Markland Hotel",
+        "addressLine2": "434 POTRERO GRANDE DR,",
+        "addressLine3": "MONTEREY PARK, CA 91755",
+        "phone": "(866) AAA-SAVE",
+        "distance": "7.41 miles"
+      },
+      {
+        "addressLine1": "BEST WESTERN Airport Plaza Inn",
+        "addressLine2": "1730 CENTINELA AVE,",
+        "addressLine3": "INGLEWOOD, CA 90302",
+        "phone": "(866) AAA-SAVE",
+        "distance": "8.85 miles"
+      },
+      {
+        "addressLine1": "BEST WESTERN Airpark Hotel",
+        "addressLine2": "640 W MANCHESTER BLVD,",
+        "addressLine3": "INGLEWOOD, CA 90301",
+        "phone": "(866) AAA-SAVE",
+        "distance": "9.48 miles"
+      }
+    ]
+  },
+  {
+    "title": "Autry National Center",
+    "description": "10% off one day admission or memebership package",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004AutryNationalCenterd8d78c.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": ""
+    },
+    "merchantDescription": "Museum4700 WESTERN HERITAGE WAY,LOS ANGELES, CA 900276.75 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Autry National Center",
+        "addressLine2": "4700 WESTERN HERITAGE WAY,",
+        "addressLine3": "LOS ANGELES, CA 90027",
+        "phone": "(323) 667-2000",
+        "distance": "6.75 miles"
+      }
+    ]
+  },
+  {
+    "title": "Autonomy Apparel",
+    "description": "Save 20% on all purchases. Enter promo code AAA20. To purchase, visit AAA.com/discounts.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004AutonomyApparel88c1a1.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.autonomyapparel.com/aaa_ep_50-1.html",
+      "phone": ""
+    },
+    "merchantDescription": "Autonomy® Apparel is a line of clothing created for the fashion savvy woman who is always on the move. It is figure flattering and slenderizing to all shapes and sizes. The styles are on-trend and promise the utmost in comfort whether you’re at work, on tNot to be combined with any other offer. Free shipping is restricted to the continental United States only. Sales tax will be added to the invoices generated from applicable statesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Autograph Collection",
+    "description": "Save 5% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999AutographCollectioncfd096.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.aaa.com/marriott",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "The Autograph Collection is an evolving ensemble of strikingly independent hotels. Exactly like nothing else, each destination has been selected for its quality, bold originality, rich character and uncommon details.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Atlas Van Lines",
+    "description": "Moving? get an Instant Quote now. AAA members receive an average savings of $560! Get full-value protection (up to $100,000) at no additional charge. Plus, AAA members can save up to 60% or more off published tariff rates when moving state-to-state.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999AtlasVanLines14089.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.aaa.com/atlasvanlines",
+      "phone": "(800) 621-6547"
+    },
+    "merchantDescription": "As one of the world's best known and most trusted names in moving, Atlas professionals cover the globe, moving families across towns, countries, and oceans...every day. It's what we do. And we never stop thinking of better ways to help you go new places.141 W AVE 34,LOS ANGELES, CA 900312.34 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Atlas - Ortiz Bros. Moving & Storage",
+        "addressLine2": "141 W AVE 34,",
+        "addressLine3": "LOS ANGELES, CA 90031",
+        "phone": "(800) 621-6547",
+        "distance": "2.34 miles"
+      }
+    ]
+  },
+  {
+    "title": "ARS®/Rescue Rooter® Network",
+    "description": "Save $30 on Air Conditioning, Heating, Plumbing or Drain Cleaning services of $125 or more. For more information or to schedule service, call 1.888.762.5334.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004ARSRescueRooterNetwork3549f3.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": "(888) 762-5334"
+    },
+    "merchantDescription": "Not valid for third party or new constructions customers. License numbers available at ars.com.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Aquatica",
+    "description": "Save up to $21.00 on single day admission to Aquatica Orlando at your local AAA office or online at AAA.com.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999Aquatica13507.jpg",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://aaa.com/seaworld",
+      "phone": ""
+    },
+    "merchantDescription": "From high-speed water slides and exhilarating wave pools, to tranquil beaches and the remarkable animal habitats that are the hallmark of SeaWorld, Aquatica, SeaWorld's Waterpark, delights all ages and interests.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Andaz",
+    "description": "Save 10% or more.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999Andaz13364.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Hyatt",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "The latest in style and high-tech innovation.8401 W SUNSET BLVD,WEST HOLLYWOOD, CA 900697.88 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Andaz West Hollywood",
+        "addressLine2": "8401 W SUNSET BLVD,",
+        "addressLine3": "WEST HOLLYWOOD, CA 90069",
+        "phone": "(866) AAA-SAVE",
+        "distance": "7.88 miles"
+      }
+    ]
+  },
+  {
+    "title": "Amtrak",
+    "description": "Save 10% on passenger fares, including Auto Trains, with 3-day advance purchase.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999Amtrak5344.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Amtrak",
+      "phone": "(800) 872-7245"
+    },
+    "merchantDescription": "Amtrak was designed to move the nation, and for over 40 years they have done just that. They serve over 500 destinations across 46 states, D.C. and three Canadian provinces - uniting communities and bringing people a little closer together.800 N ALAMEDA ST,LOS ANGELES, CA 900120.48 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Amtrak",
+        "addressLine2": "800 N ALAMEDA ST,",
+        "addressLine3": "LOS ANGELES, CA 90012",
+        "phone": "(800) USA-RAIL",
+        "distance": "0.48 miles"
+      }
+    ]
+  },
+  {
+    "title": "Aloha Air Cargo",
+    "description": "Save 15% on general freight rates. For more information, call 1-888-94-ALOHA (942-5642).",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/004AlohaAirCargoaf4bcf.gif",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": "(888) 942-5642"
+    },
+    "merchantDescription": "ShippingExcludes any applicable fuel or other surcharge.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "Aloft",
+    "description": "Save up to 15%.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999Aloft10690.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/Starwood",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "A Vision of W Hotels, Aloft is a new destination sensation featuring loft-inspired design, accessible technology and a stylish urban attitude.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "All Star Glass",
+    "description": "Save 10% on parts and labor for all auto glass, windshield replacement and windshield repair. Free mobile service available depending on territory and location. Save 10% on windshield wipers. To get a free quote, call 1.800.320.3550 or visit AAA.com/discounts.The difficulty of some installations requires in-shop completion.",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.allstarglass.net/quote-aaa.php",
+      "phone": "(800) 320-3550"
+    },
+    "merchantDescription": "Save 10% on parts and labor for auto and truck glass replacement. Free mobile service available depending on territory and location. Also, save 10% on windshield wipers.AAA discount is not valid with any other discounts and/or promotions. Free mobile service available in most areas, depending on territory and location. Services usually available within 24 hours. The difficulty of some installations requires in-shop completion.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "All Pest Pros",
+    "description": "Save 15% off any one service. For an estimate, call 1.800.301.0676.",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": "(800) 301-0676"
+    },
+    "merchantDescription": "All Pest Pros is dedicated to a personalized and top quality service throughout California. We strive to be as cost effective, eco-friendly and environmentally conscious as possible.May not be combined with other offers or pre-set advertised prices.\"Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "ADT",
+    "description": "Save 20%* on Equipment & Installation of any ADT security system. To order, call 1.800.686.6304. *36-month monitoring contract required. For important terms and conditions, visit AAA.com/discounts.",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": "(800) 686-6304"
+    },
+    "merchantDescription": "Save 20%* on Equipment & Installation of any ADT security system. 36-month monitoring contract required. In California, 24-month monitoring contract required.Limit one offer per new ADT customer and cannot be combined with other offers or discounts. Not valid for existing customers under contract. Not valid on purchases from ADT Authorized Dealers.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "adidas Outlet",
+    "description": "Members save 20% off their total purchase at the adidas outlet.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999adidasOutlet24699.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": ""
+    },
+    "merchantDescription": "adidas products range from shoes, tennis, basketball, soccer, running and even golf shoes, to apparel and other sports gear designed for comfort, flexibility and style. adidas is changing the game.100 CITADEL DRIVE,COMMERCE, CA 900406.20 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "adidas Outlet - Citadel",
+        "addressLine2": "100 CITADEL DRIVE,",
+        "addressLine3": "COMMERCE, CA 90040",
+        "phone": "(508) 384-6265",
+        "distance": "6.20 miles"
+      }
+    ]
+  },
+  {
+    "title": "AAA/CAA Battery Tenders",
+    "description": "Exclusive member pricing and extended warranties. Click to view product choices.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999AAACAABatteryTenders23351.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.aaa.com/batterytender",
+      "phone": ""
+    },
+    "merchantDescription": "Vehicles that sit too long are among the most common reasons for a failed battery. AAA/CAA Battery Tenders® are state-of-the-art chargers that can help infrequently used vehicle batteries remain fully charged without overcharging.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "AAA Travel Money",
+    "description": "Before you begin your trip, visit your local AAA office for advice on the best mix of payment options wherever you are traveling to.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999AAATravelMoney20297.jpg",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://aaa.com/travelmoney",
+      "phone": ""
+    },
+    "merchantDescription": "AAA helps You prepare for your next trip with a mixed travel wallet of AAA Travel Money products. Whether you are traveling around the corner or around the world, you are ready with AAA Travel Money.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "AAA Prescription Savings",
+    "description": "AAA members can save up to 50%* on prescriptions.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999AAAPrescriptionSavings5938.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/prescriptions",
+      "phone": "(866) AAA-SAVE"
+    },
+    "merchantDescription": "Cut prescription costs with AAA Prescription Savings. AAA members save on prescriptions with AAA Prescription Savings at more than 65,000 participating pharmacies.351 EAST TEMPLE STREET,LOS ANGELES, CA 900120.38 miles351 E TEMPLE ST,LOS ANGELES, CA 900120.38 miles460 S BROADWAY,LOS ANGELES, CA 900130.43 miles500 SOUTH BROADWAY,LOS ANGELES, CA 900130.49 miles633 N SPRING ST STE 5,LOS ANGELES, CA 900120.52 miles701 W CESAR E CHAVEZ,LOS ANGELES, CA 900120.55 miles322 S FIGUEROA ST,LOS ANGELES, CA 900710.59 miles809 W CESAR E CHAVEZ AVE,LOS ANGELES, CA 900120.59 miles540 S SAN PEDRO ST,LOS ANGELES, CA 900130.70 milesPO BOX 743475,LOS ANGELES, CA 900740.73 miles210 WEST 7TH ST,LOS ANGELES, CA 900140.74 miles617 W 7TH ST,LOS ANGELES, CA 900170.78 miles600 W 7TH ST,LOS ANGELES, CA 900170.80 miles861 N BROADWAY,LOS ANGELES, CA 900120.85 miles735 S FIGUEROA ST,LOS ANGELES, CA 900170.93 miles645 W 9TH ST,LOS ANGELES, CA 900151.05 miles1663 BEVERLY BLVD,LOS ANGELES, CA 900261.37 miles1625 E 4TH ST,LOS ANGELES, CA 900331.47 miles1711 W TEMPLE ST. #100B,LOS ANGELES, CA 900261.51 miles1744 W 6TH ST,LOS ANGELES, CA 900171.54 miles1600 S HILL ST STE B,LOS ANGELES, CA 900151.71 miles123 S ALVARADO ST,LOS ANGELES, CA 900571.73 miles2013 WILSHIRE BLVD,LOS ANGELES, CA 900571.73 miles119 E WASHINGTON BLVD,LOS ANGELES, CA 900151.88 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Los Angeles Va Cboc Pharmacy",
+        "addressLine2": "351 EAST TEMPLE STREET,",
+        "addressLine3": "LOS ANGELES, CA 90012",
+        "phone": "(310) 268-3152",
+        "distance": "0.38 miles"
+      },
+      {
+        "addressLine1": "La Va Cboc Methadone Phcy",
+        "addressLine2": "351 E TEMPLE ST,",
+        "addressLine3": "LOS ANGELES, CA 90012",
+        "phone": "(213) 253-2677",
+        "distance": "0.38 miles"
+      },
+      {
+        "addressLine1": "Walgreens",
+        "addressLine2": "460 S BROADWAY,",
+        "addressLine3": "LOS ANGELES, CA 90013",
+        "phone": "(213) 572-0127",
+        "distance": "0.43 miles"
+      },
+      {
+        "addressLine1": "Rite Aid Pharmacy",
+        "addressLine2": "500 SOUTH BROADWAY,",
+        "addressLine3": "LOS ANGELES, CA 90013",
+        "phone": "(213) 623-5820",
+        "distance": "0.49 miles"
+      },
+      {
+        "addressLine1": "Thanh's Pharmacy",
+        "addressLine2": "633 N SPRING ST STE 5,",
+        "addressLine3": "LOS ANGELES, CA 90012",
+        "phone": "(213) 680-2198",
+        "distance": "0.52 miles"
+      },
+      {
+        "addressLine1": "Walmart Pharmacy",
+        "addressLine2": "701 W CESAR E CHAVEZ,",
+        "addressLine3": "LOS ANGELES, CA 90012",
+        "phone": "(213) 337-0182",
+        "distance": "0.55 miles"
+      },
+      {
+        "addressLine1": "Rite Aid Pharmacy",
+        "addressLine2": "322 S FIGUEROA ST,",
+        "addressLine3": "LOS ANGELES, CA 90071",
+        "phone": "(323) 235-3535",
+        "distance": "0.59 miles"
+      },
+      {
+        "addressLine1": "Evan Pharmacy",
+        "addressLine2": "809 W CESAR E CHAVEZ AVE,",
+        "addressLine3": "LOS ANGELES, CA 90012",
+        "phone": "(213) 626-5228",
+        "distance": "0.59 miles"
+      },
+      {
+        "addressLine1": "Downtown Med & Mental Health Srvcs",
+        "addressLine2": "540 S SAN PEDRO ST,",
+        "addressLine3": "LOS ANGELES, CA 90013",
+        "phone": "(213) 236-0556",
+        "distance": "0.70 miles"
+      },
+      {
+        "addressLine1": "Ucsd Moores Cancer Center",
+        "addressLine2": "PO BOX 743475,",
+        "addressLine3": "LOS ANGELES, CA 90074",
+        "phone": "(858) 822-6088",
+        "distance": "0.73 miles"
+      },
+      {
+        "addressLine1": "CVS Pharmacy #10309",
+        "addressLine2": "210 WEST 7TH ST,",
+        "addressLine3": "LOS ANGELES, CA 90014",
+        "phone": "(213) 327-0062",
+        "distance": "0.74 miles"
+      },
+      {
+        "addressLine1": "Walgreens",
+        "addressLine2": "617 W 7TH ST,",
+        "addressLine3": "LOS ANGELES, CA 90017",
+        "phone": "(213) 694-2880",
+        "distance": "0.78 miles"
+      },
+      {
+        "addressLine1": "Rite Aid Pharmacy",
+        "addressLine2": "600 W 7TH ST,",
+        "addressLine3": "LOS ANGELES, CA 90017",
+        "phone": "(213) 896-0083",
+        "distance": "0.80 miles"
+      },
+      {
+        "addressLine1": "Columbus Pharmacy",
+        "addressLine2": "861 N BROADWAY,",
+        "addressLine3": "LOS ANGELES, CA 90012",
+        "phone": "(213) 622-2777",
+        "distance": "0.85 miles"
+      },
+      {
+        "addressLine1": "Target Pharmacy",
+        "addressLine2": "735 S FIGUEROA ST,",
+        "addressLine3": "LOS ANGELES, CA 90017",
+        "phone": "(213) 330-4544",
+        "distance": "0.93 miles"
+      },
+      {
+        "addressLine1": "Ralphs Pharmacy",
+        "addressLine2": "645 W 9TH ST,",
+        "addressLine3": "LOS ANGELES, CA 90015",
+        "phone": "(213) 452-0830",
+        "distance": "1.05 miles"
+      },
+      {
+        "addressLine1": "1663 Pharmacy",
+        "addressLine2": "1663 BEVERLY BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90026",
+        "phone": "(213) 250-7229",
+        "distance": "1.37 miles"
+      },
+      {
+        "addressLine1": "La Christian Health Centers",
+        "addressLine2": "1625 E 4TH ST,",
+        "addressLine3": "LOS ANGELES, CA 90033",
+        "phone": "(323) 268-8391",
+        "distance": "1.47 miles"
+      },
+      {
+        "addressLine1": "Express Pharmacy Services Inc.",
+        "addressLine2": "1711 W TEMPLE ST. #100B,",
+        "addressLine3": "LOS ANGELES, CA 90026",
+        "phone": "(310) 558-2520",
+        "distance": "1.51 miles"
+      },
+      {
+        "addressLine1": "Rite Aid Pharmacy",
+        "addressLine2": "1744 W 6TH ST,",
+        "addressLine3": "LOS ANGELES, CA 90017",
+        "phone": "(213) 413-2458",
+        "distance": "1.54 miles"
+      },
+      {
+        "addressLine1": "California Family Pharmacy",
+        "addressLine2": "1600 S HILL ST STE B,",
+        "addressLine3": "LOS ANGELES, CA 90015",
+        "phone": "(213) 746-3777",
+        "distance": "1.71 miles"
+      },
+      {
+        "addressLine1": "Clinica Msr Oscar Romero",
+        "addressLine2": "123 S ALVARADO ST,",
+        "addressLine3": "LOS ANGELES, CA 90057",
+        "phone": "(213) 201-2601",
+        "distance": "1.73 miles"
+      },
+      {
+        "addressLine1": "Wilshire Pharmacy",
+        "addressLine2": "2013 WILSHIRE BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90057",
+        "phone": "(213) 483-8025",
+        "distance": "1.73 miles"
+      },
+      {
+        "addressLine1": "The Medicine Cabinet",
+        "addressLine2": "119 E WASHINGTON BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90015",
+        "phone": "(213) 743-9791",
+        "distance": "1.88 miles"
+      }
+    ]
+  },
+  {
+    "title": "AAA Mobile Battery Service",
+    "description": "Call or click to have AAA Mobile Battery Service test your battery.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/999AAAMobileBatteryService23350.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.aaa.com/battery",
+      "phone": "(800) AAA-HELP"
+    },
+    "merchantDescription": "AAA Battery Services will test, boost, and if necessary, replace and install a new battery at a special member rate right on the spot. It's easy and convenient!Battery Service is available for most vehicles and in participating club areas. Battery costs vary by make and model of vehicle and include professional vehicle charging system testing and installation. Certain vehicles due to the location of the battery may require both additional time and labor cost to install. Member savings are off non-member prices. View battery availability and pricing in your area at AAA.com/Battery.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  },
+  {
+    "title": "AAA Approved Auto Repair - Auto Club",
+    "description": "Save a minimum of 10% off on all parts and labor up to a maximum discount of $50.00.",
+    "details": {},
+    "waysToRedeem": {
+      "online": "",
+      "phone": ""
+    },
+    "merchantDescription": "Approved Auto Repair411 GLENDALE BLVD,LOS ANGELES, CA 900261.35 miles2001 S FIGUEROA ST,LOS ANGELES, CA 900072.13 miles1101 S BRAND BLVD,GLENDALE, CA 912045.56 miles2146 S ATLANTIC BLVD,COMMERCE, CA 900405.75 miles5126 S CRENSHAW BLVD,LOS ANGELES, CA 900436.28 miles130 N VERDUGO RD,GLENDALE, CA 912066.52 miles6100 W PICO BLVD,LOS ANGELES, CA 900357.38 miles9030 NATIONAL BLVD,LOS ANGELES, CA 900348.54 miles9448 W PICO BLVD,LOS ANGELES, CA 900358.59 miles310 W WHITTIER BLVD,MONTEBELLO, CA 906408.72 miles605 S VICTORY BLVD,BURBANK, CA 915028.89 miles640 N FAIR OAKS AVE,PASADENA, CA 911038.99 miles200 W OLIVE,BURBANK, CA 915029.29 miles404 S GLADYS AVE,SAN GABRIEL, CA 917769.42 milesValid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": [
+      {
+        "addressLine1": "Sunset Transmission",
+        "addressLine2": "411 GLENDALE BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90026",
+        "phone": "(213) 483-8092",
+        "distance": "1.35 miles"
+      },
+      {
+        "addressLine1": "LA Auto Center",
+        "addressLine2": "2001 S FIGUEROA ST,",
+        "addressLine3": "LOS ANGELES, CA 90007",
+        "phone": "(213) 747-2847",
+        "distance": "2.13 miles"
+      },
+      {
+        "addressLine1": "Jack Ellis Glendale Dodge",
+        "addressLine2": "1101 S BRAND BLVD,",
+        "addressLine3": "GLENDALE, CA 91204",
+        "phone": "(818) 242-4161",
+        "distance": "5.56 miles"
+      },
+      {
+        "addressLine1": "Webb's Auto & Truck Services/Paul's Transmissions",
+        "addressLine2": "2146 S ATLANTIC BLVD,",
+        "addressLine3": "COMMERCE, CA 90040",
+        "phone": "(323) 268-1266",
+        "distance": "5.75 miles"
+      },
+      {
+        "addressLine1": "New Crenshaw Transmission & Auto Service",
+        "addressLine2": "5126 S CRENSHAW BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90043",
+        "phone": "(323) 294-0038",
+        "distance": "6.28 miles"
+      },
+      {
+        "addressLine1": "RPM Automotive Repair",
+        "addressLine2": "130 N VERDUGO RD,",
+        "addressLine3": "GLENDALE, CA 91206",
+        "phone": "(818) 247-4513",
+        "distance": "6.52 miles"
+      },
+      {
+        "addressLine1": "Autopro Service Center",
+        "addressLine2": "6100 W PICO BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90035",
+        "phone": "(323) 936-1199",
+        "distance": "7.38 miles"
+      },
+      {
+        "addressLine1": "Complete Automotive Systems",
+        "addressLine2": "9030 NATIONAL BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90034",
+        "phone": "(310) 839-1100",
+        "distance": "8.54 miles"
+      },
+      {
+        "addressLine1": "Service Station of the Stars",
+        "addressLine2": "9448 W PICO BLVD,",
+        "addressLine3": "LOS ANGELES, CA 90035",
+        "phone": "(310) 275-9628",
+        "distance": "8.59 miles"
+      },
+      {
+        "addressLine1": "Chevrolet of Montebello",
+        "addressLine2": "310 W WHITTIER BLVD,",
+        "addressLine3": "MONTEBELLO, CA 90640",
+        "phone": "(323) 728-9181",
+        "distance": "8.72 miles"
+      },
+      {
+        "addressLine1": "Art's Auto Care",
+        "addressLine2": "605 S VICTORY BLVD,",
+        "addressLine3": "BURBANK, CA 91502",
+        "phone": "(818) 848-3163",
+        "distance": "8.89 miles"
+      },
+      {
+        "addressLine1": "Master Automotive Tow Service",
+        "addressLine2": "640 N FAIR OAKS AVE,",
+        "addressLine3": "PASADENA, CA 91103",
+        "phone": "(626) 449-8321",
+        "distance": "8.99 miles"
+      },
+      {
+        "addressLine1": "Community Chevrolet",
+        "addressLine2": "200 W OLIVE,",
+        "addressLine3": "BURBANK, CA 91502",
+        "phone": "(818) 843-2200",
+        "distance": "9.29 miles"
+      },
+      {
+        "addressLine1": "Auto Car",
+        "addressLine2": "404 S GLADYS AVE,",
+        "addressLine3": "SAN GABRIEL, CA 91776",
+        "phone": "(626) 285-3033",
+        "distance": "9.42 miles"
+      }
+    ]
+  },
+  {
+    "title": "1-800-Flowers.com",
+    "description": "Save $20 off your purchase of $79.99 or more with promo code 79AAA or save 20% with code 20AAA.",
+    "imageUrl": "http://www.aaa.com/AAA/common/sycs/9991800Flowerscom15403.png",
+    "details": {},
+    "waysToRedeem": {
+      "online": "http://www.AAA.com/1800flowers",
+      "phone": "(800) 356-9377"
+    },
+    "merchantDescription": "1-800-FLOWERS.COM is passionate about delivering flowers and gifts that bring smiles. In addition to flowers, you'll find gourmet gifts from 1-800-Baskets, Cheryl's, Fannie May, The Popcorn Factory and now introducing Harry and David.Valid AAA membership card required. Various restrictions apply. Good at participating locations only. Offer subject to change without notice. Discounts for International Auto Club members traveling to the US and Canada are limited to discounts available at participating merchant locations.",
+    "locations": []
+  }
+]

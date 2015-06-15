@@ -7,7 +7,7 @@ body {
 /*table*/
 tr.labels {
 	font-size: 18px;
-	text-align: center;
+	text-align: left;
 }
 
 tr.items {
@@ -23,14 +23,14 @@ div.deal-list div.item {
 	border-bottom: 1px solid #ccc;
 }
 
-.affix {
-	
+#dealsList.affix {
+	position: fixed;
+	top: 0;
+	width: 80%;
+	background-color: white;
+	/*margin-left: 0px;*/
 }
 
-.affix-top {
-
-}
-
-.affix-bottom {
+#dealsList.affix-top {
 
 }

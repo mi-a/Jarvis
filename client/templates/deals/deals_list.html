@@ -4,7 +4,7 @@
   <div class="clearfix"></div>
 	<div class="table-responsive hidden-xs hidden-sm"> 
     <table class="table borderless">
-    	<thead data-spy="affix" data-offset-top="60" data-offset-bottom="200">
+    	<thead id="dealsList" data-spy="affix" data-offset-top="100">
     		<tr class="labels">
     			<th class="col-md-2">HEADLINE</th>
     			<th class="col-md-1">COMPANY</th>
@@ -27,8 +27,8 @@
         			{{location.zip}}
             {{/if}}
       		</td>
-       		<td>{{formatDate updatedAt}}</td>
-          <td></td>
+       		<td class="col-md-1">{{formatDate updatedAt}}</td>
+          <td class="col-md-1">&nbsp;</td>
       	</tr>
     	{{/each}}
       </tbody>
@@ -49,5 +49,8 @@
     </div>
     {{/each}}
   </div>
-
+<script>
+  $('#dealsList').affix({
+  });
+</script>
 </template>
