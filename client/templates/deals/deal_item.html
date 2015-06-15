@@ -40,7 +40,9 @@
       <!-- Button Drop Down -->
           <div class="form-group col-md-4 pull-left">
               <select id="state" name="state" value="{{location.state}}" class="form-control">
-                <option value=''>State</option>
+                {{#if location.state}}
+                  <option value='{{location.state}}' selected>{{location.state}}</option>
+                {{/if}}
                 <option value='AL'>AL</option>
                 <option value='AK'>AK</option>
                 <option value='AZ'>AZ</option>
