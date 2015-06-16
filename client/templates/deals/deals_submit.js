@@ -24,6 +24,8 @@ Template.dealSubmit.events({
       headline: $el.find('[name=headline]').val(),
       company: $el.find('[name=company]').val(),
       details: $el.find('[name=details]').val(),
+      url: $el.find('[name=url]').val(),
+      phone: $el.find('[name=phone]').val(),
       location: {
         street: $el.find('[name=street]').val(),
         city: $el.find('[name=city]').val(),
