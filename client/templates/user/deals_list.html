@@ -1,0 +1,17 @@
+<template name="allDeals">
+	<h3>All Deals</h3>
+
+
+	<div class="clearfix"></div>
+	  <div class="deal-list">
+	    {{#each deals}}
+	    <div class="item">
+	      <div class="panel-body">
+	        <h4><a class="headline" href="{{pathFor 'oneDeal'}}">{{headline}}</a></h4>
+	        <p>{{details}}</p>
+	      </div>
+	    </div>
+	    {{/each}}
+	  </div>
+
+</template>
