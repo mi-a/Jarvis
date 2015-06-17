@@ -39,4 +39,13 @@ describe('Deal', function() {
             done();
         }, 600);
     });
-});
+
+    it('should display deal info on deal page', function(done) {
+        Router.go('/deals/558078e3d8c85dd8d522f8ff');
+        Meteor.setTimeout(function() {
+            $(window).load(function() {
+                expect($('.headline').text()).toBe('SAVE UP TO 15%.');
+            });
+            done();
+        }, 600);
+    });
