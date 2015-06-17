@@ -4,6 +4,7 @@ describe('Deal', function() {
     it('should be created', function(done) {
         Router.go('dealSubmit');
         Meteor.setTimeout(function() {
+            $('_id').val('AAAAAAAAAAAAAAAAA');
         	$('#headline').val('Free help from Charlie Co.');
             $('#company').val('Charlie Co.');
             $('#details').val('Get professional technical assistance from Charles Dudley of Charlie Co.');
@@ -40,12 +41,18 @@ describe('Deal', function() {
         }, 600);
     });
 
-    it('should display deal info on deal page', function(done) {
-        Router.go('/deals/558078e3d8c85dd8d522f8ff');
+    it('should display deal info when viewing specific deal page', function(done) {
+        Router.go('/deals/AAAAAAAAAAAAAAAAA');
         Meteor.setTimeout(function() {
             $(window).load(function() {
-                expect($('.headline').text()).toBe('SAVE UP TO 15%.');
+                expect($('.headline').text()).toBe('Free help from Charlie Co.');
+                expect($('.company').text()).toBe('Charlie Co.');
+                expect($('.details').text().toBe('Get professional technical assistance from Charles Dudley of Charlie Co.'));
             });
             done();
         }, 600);
     });
+
+
+
+});
