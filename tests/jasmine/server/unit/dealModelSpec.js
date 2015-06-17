@@ -10,7 +10,9 @@ describe("Deal", function() {
 			headline: "Sample Headline",
 			company: "Sample Company",
 			details: "Sample Details",
-			location: {street: '123 Main Street', city: 'San Francisco', state: 'CA', zip: '94101'}
+			location: {street: '123 Main Street', city: 'San Francisco', state: 'CA', zip: '94101'},
+			phone: "1234567890",
+			url: "http://sampledealpage.com"
 		});
 	});
 
@@ -29,7 +31,7 @@ describe("Deal", function() {
 		expect(deal.details).toBe("Sample Details");
 	});
 
-	it("should update an existing deal if deal already exists", function() {
+	it("should update the applicable properties of an existing deal if deal already exists", function() {
 		Meteor.call('saveDeal', deal, function (error, response) {
 			Session.set('saveDeal', response);
 		});

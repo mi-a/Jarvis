@@ -18,16 +18,16 @@
   		{{#each deals}}
       	<tr class="items">
       		<td class="col-md-2"><a class="headline" href="{{pathFor 'dealItem'}}">{{headline}}</a></td>
-      		<td class="col-md-1">{{company}}</td>
-      		<td class="col-md-5">{{details}}</td>
-      		<td class="col-md-2">
+      		<td class="col-md-1 company">{{company}}</td>
+      		<td class="col-md-5 details">{{details}}</td>
+      		<td class="col-md-2 location">
             {{#if location.city}}
         			{{location.street}}<br>
         			{{location.city}}, {{location.state}}<br>
         			{{location.zip}}
             {{/if}}
       		</td>
-       		<td class="col-md-1">{{formatDate updatedAt}}</td>
+       		<td class="col-md-1 updateDate">{{formatDate updatedAt}}</td>
           <td class="col-md-1">&nbsp;</td>
       	</tr>
     	{{/each}}
