@@ -52,7 +52,4 @@ describe('Deal', function() {
             done();
         }, 600);
     });
-
-
-
 });
