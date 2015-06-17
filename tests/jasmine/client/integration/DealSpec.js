@@ -4,7 +4,6 @@ describe('Deal', function() {
     it('should be created', function(done) {
         Router.go('dealSubmit');
         Meteor.setTimeout(function() {
-            $('_id').val('AAAAAAAAAAAAAAAAA');
         	$('#headline').val('Free help from Charlie Co.');
             $('#company').val('Charlie Co.');
             $('#details').val('Get professional technical assistance from Charles Dudley of Charlie Co.');
@@ -42,12 +41,15 @@ describe('Deal', function() {
     });
 
     it('should display deal info when viewing specific deal page', function(done) {
-        Router.go('/deals/AAAAAAAAAAAAAAAAA');
+        Router.go('/deals');
+        var headline = $('a.headline').first().text();
+        var details = $('p.details').first().text();
         Meteor.setTimeout(function() {
+            $('a.headline').first().click();
             $(window).load(function() {
-                expect($('.headline').text()).toBe('Free help from Charlie Co.');
-                expect($('.company').text()).toBe('Charlie Co.');
-                expect($('.details').text().toBe('Get professional technical assistance from Charles Dudley of Charlie Co.'));
+                expect($('.headline').text()).toBe(headline);
+                expect($('.details').text()).toBe(details);
+                expect($('#redeemButton').text()).toEqual('Redeem Deal');
             });
             done();
         }, 600);
