@@ -46,3 +46,14 @@ div.deal-list div.item {
 #dealsList.affix-top {
 
 }
+
+/*navigation*/
+
+.navbar-header {
+    float: left;
+    position: fixed;
+    padding: 15px;
+    text-align: center;
+    width: 100%;
+}
+.navbar-brand {float:none;}
