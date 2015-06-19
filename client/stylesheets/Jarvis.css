@@ -1,12 +1,58 @@
 /* CSS declarations go here */
 body {
-	color: #20467e;
-	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; ;
+	color: #5e5e5e;
+	font-family: "Roboto Condensed", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font-size: 14px;
+	letter-spacing: 1.5px;
+}
+
+.container-fluid {
+	margin-top: 51px;
+}
+
+.btn, a.btn {
+	font-family: 'Montserrat', sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	background-color: #98ccff;
+	border: #98ccff;
+	-webkit-border-radius: 0;
+	-moz-border-radius: 0;
+	border-radius: 0;
+}
+
+.btn:hover, button:hover {
+	text-decoration: none;
 }
 
 .btn:active, button:active {
 	background-color: #e9e9e9;
 	color: #fff;
+	text-decoration: none;
+	border: 0;
+}
+
+button#redeemButton {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 15px;
+	font-size: 16px;
+}
+
+h3.headline, h4.location {
+	color: #013569;
+	font-family: "Roboto", sans-serif;
+	letter-spacing: 2px;
+}
+
+h3.headline {
+	font-size: 18px;
+	margin-top: 35px;
+	margin-bottom: 23px;
+}
+
+h4.location {
+	font-size: 16px;
 }
 
 #oneDeal .headline, #oneDeal .location {
@@ -17,7 +63,16 @@ body {
 	color: #8c8c8c;
 }
 
+#oneDeal p.details {
+	text-align: justify;
+}
+
 /*table*/
+
+#dealsList th {
+	color: #013569;
+}
+
 tr.labels {
 	font-size: 18px;
 	text-align: left;
@@ -38,9 +93,10 @@ div.deal-list div.item {
 
 #dealsList.affix {
 	position: fixed;
-	top: 0;
+	top: 50;
 	width: 80%;
 	background-color: white;
+	margin-top: -50px;
 }
 
 #dealsList.affix-top {
@@ -49,11 +105,24 @@ div.deal-list div.item {
 
 /*navigation*/
 
-.navbar-header {
+div.navbar-header {
     float: left;
+    background-color: #fff;
     position: fixed;
-    padding: 15px;
     text-align: center;
     width: 100%;
+    box-shadow: 0 2px 14px 0 rgba(0, 0, 0, .15);
+
 }
-.navbar-brand {float:none;}
+
+.navbar-brand {
+	float: none;
+	padding: 12px;
+}
+
+img#nav-logo {
+	max-height: 15px;
+	height: 100%;
+	width: 54px;
+	max-width: 100%;
+}
