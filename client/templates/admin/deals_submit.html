@@ -1,5 +1,11 @@
 <template name="dealSubmit">
   <div class="col-md-6 col-md-offset-3">
+    <div id="errors" name="errors">
+      {{#each errors}}
+        <p class="text-danger">{{this}}</p>
+      {{/each}}
+    </div>
+    
     <form>
     <!-- Form Name -->
     <legend>ADD NEW DEAL</legend>
@@ -118,7 +124,7 @@
 
     <div id="errors" name="errors">
       {{#each errors}}
-        <p>{{this}}</p>
+        <p class="text-danger">{{this}}</p>
       {{/each}}
     </div>
 
