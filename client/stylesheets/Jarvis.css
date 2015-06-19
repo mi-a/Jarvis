@@ -7,7 +7,7 @@ body {
 }
 
 .container-fluid {
-	margin-top: 51px;
+	margin-top: 80px;
 }
 
 .btn, a.btn {
@@ -96,7 +96,7 @@ div.deal-list div.item {
 	top: 50;
 	width: 80%;
 	background-color: white;
-	margin-top: -50px;
+	margin-top: -79px;
 }
 
 #dealsList.affix-top {
