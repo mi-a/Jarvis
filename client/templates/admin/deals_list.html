@@ -11,7 +11,7 @@
     			<th class="col-md-5">DESCRIPTION</th>
     			<th class="col-md-2">ADDRESS</th>
     			<th class="col-md-1">UPDATED</th>
-          <th class="col-md-1"><a href="/admin/deals/create"><button id="addDealButton" type="button" class="btn btn-primary">Add Deal</button></a></th>
+          <th class="col-md-1"><a href="{{pathFor 'dealSubmit'}}"><button id="addDealButton" type="button" class="btn btn-primary">Add Deal</button></a></th>
     		</tr>
     	</thead>
       <tbody>
@@ -38,7 +38,7 @@
   <div class="clearfix"></div>
   <div class="deal-list visible-xs-12 visible-sm-12 hidden-md hidden-lg">
     <div class="text-center">
-      <a href="/admin/deals/create"><button type="button" class="btn btn-primary">Add Deal</button></a>
+      <a href="{{pathFor 'dealSubmit'}}"><button type="button" class="btn btn-primary">Add Deal</button></a>
     </div>
     {{#each deals}}
     <div class="item">
