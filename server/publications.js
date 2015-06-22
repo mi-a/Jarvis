@@ -6,8 +6,8 @@ Meteor.publish('singleDeal', function(id) {
 	return Deals.find(id);
 });
 
-Meteor.publish('regionDeal', function(region) {
+Meteor.publish('regionDeal', function(regions) {
 	return Deals.find({
-		region: region
+		region: {$in: regions}
 	});
 })

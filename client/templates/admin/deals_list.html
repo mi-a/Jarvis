@@ -11,7 +11,7 @@
     			<th class="col-md-5">DESCRIPTION</th>
     			<th class="col-md-2">ADDRESS</th>
     			<th class="col-md-1">UPDATED</th>
-          <th class="col-md-1"><a href="/admin/deals/create"><button type="button" class="btn btn-primary">Add Deal</button></a></th>
+          <th class="col-md-1"><a href="/admin/deals/create"><button id="addDealButton" type="button" class="btn btn-primary">Add Deal</button></a></th>
     		</tr>
     	</thead>
       <tbody>
@@ -28,7 +28,7 @@
             {{/if}}
       		</td>
        		<td class="col-md-1 updateDate">{{formatDate updatedAt}}</td>
-          <td class="col-md-1">&nbsp;</td>
+          <td class="col-md-1"></td>
       	</tr>
     	{{/each}}
       </tbody>

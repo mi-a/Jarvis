@@ -10,7 +10,7 @@ body {
 	margin-top: 80px;
 }
 
-.btn, a.btn {
+.btn, button {
 	font-family: 'Montserrat', sans-serif;
 	text-transform: uppercase;
 	letter-spacing: 3px;
@@ -97,6 +97,11 @@ div.deal-list div.item {
 	width: 80%;
 	background-color: white;
 	margin-top: -79px;
+}
+
+#dealsList.affix tr.labels th {
+	padding-top: 10px;
+	padding-bottom: 10px;
 }
 
 #dealsList.affix-top {
