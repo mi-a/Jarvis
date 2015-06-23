@@ -1,17 +1,17 @@
 <template name="regionDeals">
+	<div class="deal-list col-md-10 col-md-offset-1 col-sm-12 col-lg-8 col-lg-offset-2">
 	<h3>{{region}} Deals</h3>
-
-
 	<div class="clearfix"></div>
 	  <div class="deal-list">
 	    {{#each deals}}
 	    <div class="item">
 	      <div class="panel-body">
-	        <h4><a class="headline" href="{{pathFor 'oneDeal'}}">{{headline}}</a></h4>
-	        <p class="details">{{details}}</p>
+	        <h4><a class="headline line-clamp" href="{{pathFor 'oneDeal'}}">{{headline}}</a></h4>
+	        <p class="details line-clamp">{{details}}</p>
 	      </div>
 	    </div>
 	    {{/each}}
 	  </div>
+	</div>
 
 </template>
