@@ -47,5 +47,16 @@ Template.dealItem.events({
         console.log("Result: ", result);
       }
     });
-	}
+  },
+
+    'click #removeDeal': function(e) {
+      e.preventDefault();
+      
+      if (confirm("Delete this post?")) {
+        var currentDealId = this._id;
+        Meteor.call('removeDeal', currentDealId);
+        Router.go('dealsList');
+      }
+    }
+    
 });
