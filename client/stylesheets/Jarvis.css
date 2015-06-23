@@ -108,6 +108,60 @@ div.deal-list div.item {
 
 }
 
+.line-clamp {
+	height: auto;
+	overflow: hidden;
+	position: relative;
+}
+
+.headline.line-clamp {
+	height: 1.1em;
+}
+
+.details.line-clamp {
+	height: 4.7em;
+	padding: 5px;
+}
+
+.details.line-clamp::after {
+  	content: "...";
+  	background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1) 50%);
+ }
+
+@supports (-webkit-line-clamp: 1) {
+	/*.line-clamp {
+		display: -webkit-box;
+		-webkit-box-orient: vertical;
+		height: auto;
+	}
+	.headline.line-clamp {
+		-webkit-line-clamp: 1;
+		max-height: 1.2em;
+	}*/
+
+	/*.line-clamp::after {
+        content: "...";
+    }*/
+}
+
+@supports (-webkit-line-clamp: 3) {
+	.line-clamp {
+		display: -webkit-box;
+		-webkit-box-orient: vertical;
+		height: auto;
+	}
+
+    .details.line-clamp {
+        -webkit-line-clamp: 3; 
+        max-height: 4.7em;
+    }
+
+    .line-clamp::after {
+        display: none;
+    }
+}
+
+
 /*navigation*/
 
 div.navbar-header {
