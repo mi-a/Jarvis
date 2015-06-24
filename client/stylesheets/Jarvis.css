@@ -123,10 +123,27 @@ div.deal-list div.item {
 	padding: 5px;
 }
 
-.details.line-clamp::after {
+.headline.line-clamp::after, .details.line-clamp::after {
   	content: "...";
   	background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1) 50%);
- }
+}
+
+@supports (-webkit-line-clamp: 1) {
+	.line-clamp {
+		display: -webkit-box;
+		-webkit-box-orient: vertical;
+		height: auto;
+	}
+
+    .headline.line-clamp {
+        -webkit-line-clamp: 3; 
+        max-height: 4.7em;
+    }
+
+    .line-clamp::after {
+        display: none;
+    }
+}
 
 @supports (-webkit-line-clamp: 3) {
 	.line-clamp {
@@ -161,19 +178,19 @@ nav#nav {
 }
 
 img#nav-logo {
-	max-height: 15px;
-	height: 100%;
+	display: inline;
+	height: 15px;
 	width: 54px;
-	max-width: 100%;
-	/*margin-top: 10px;*/
-
+	margin-top: 8px;
+	vertical-align: middle;
 }
 
 img#back-arrow {
-	max-height: 30px;
-	height: 100%;
-	width: 30px;
-	max-width: 100%;
+	display: inline;
+	padding: 7px;
+	width: 40px;
+	height: 40px;
+	vertical-align: middle;
 }
 
 .navbar-brand {
