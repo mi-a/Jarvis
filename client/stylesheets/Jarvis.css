@@ -152,6 +152,9 @@ nav#nav {
     width: 100%;
     box-shadow: 0 2px 14px 0 rgba(0, 0, 0, .15);
 }
+.nav > li > a {
+	margin: 0;
+}
 
 .nav > li > a:hover, .nav > li > a:focus {
 	background-color: transparent;
@@ -162,7 +165,8 @@ img#nav-logo {
 	height: 100%;
 	width: 54px;
 	max-width: 100%;
-	margin-top: 10px;
+	/*margin-top: 10px;*/
+
 }
 
 img#back-arrow {
@@ -179,4 +183,9 @@ img#back-arrow {
     top: 0;
     text-align: center;
     margin: auto;
+}
+
+nav#nav ul.nav.navbar-nav.navbar-left {
+	margin: 0;
+	padding: 0;
 }

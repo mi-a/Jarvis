@@ -1,16 +1,10 @@
 <template name="navigation">
-
-
-
-
-
-<nav id="nav" class="navbar navbar-fixed-top" role="navigation">
-    <a class="navbar-brand" href="{{pathFor 'allDeals'}}"><img id="nav-logo" class="img-responsive center-block" src="/logo.png" /></a>
-    <ul class="nav navbar-nav navbar-left">
-	{{#if showBackButton}}
-		<li><a href="{{pathFor 'allDeals'}}"><img id="back-arrow" src="/back_arrow.png" /></a></li>
-	{{/if}}
-	</ul>
-</nav>
-
+	<nav id="nav" class="navbar navbar-fixed-top" role="navigation">
+	    <a class="navbar-brand" href="{{pathFor 'allDeals'}}"><img id="nav-logo" class="img-responsive center-block" src="/logo.png" /></a>
+	    <ul class="nav navbar-nav navbar-left">
+		{{#if showBackButton}}
+			<li><a href="{{pathFor 'allDeals'}}"><img id="back-arrow" src="/back_arrow.png" /></a></li>
+		{{/if}}
+		</ul>
+	</nav>
 </template>
