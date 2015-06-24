@@ -128,22 +128,6 @@ div.deal-list div.item {
   	background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1) 50%);
  }
 
-@supports (-webkit-line-clamp: 1) {
-	/*.line-clamp {
-		display: -webkit-box;
-		-webkit-box-orient: vertical;
-		height: auto;
-	}
-	.headline.line-clamp {
-		-webkit-line-clamp: 1;
-		max-height: 1.2em;
-	}*/
-
-	/*.line-clamp::after {
-        content: "...";
-    }*/
-}
-
 @supports (-webkit-line-clamp: 3) {
 	.line-clamp {
 		display: -webkit-box;
@@ -162,21 +146,16 @@ div.deal-list div.item {
 }
 
 
-/*navigation*/
+/* Navigation */
 nav#nav {
     background-color: #fff;
     width: 100%;
     box-shadow: 0 2px 14px 0 rgba(0, 0, 0, .15);
 }
 
-/*div.navbar-header {
-    float: left;
-    background-color: #fff;
-    position: fixed;
-    text-align: center;
-    width: 100%;
-    box-shadow: 0 2px 14px 0 rgba(0, 0, 0, .15);
-}*/
+.nav > li > a:hover, .nav > li > a:focus {
+	background-color: transparent;
+}
 
 img#nav-logo {
 	max-height: 15px;
@@ -191,8 +170,8 @@ img#back-arrow {
 	height: 100%;
 	width: 30px;
 	max-width: 100%;
+	visibility: hidden;
 }
-
 
 .navbar-brand {
     position: absolute;
