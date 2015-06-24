@@ -1,3 +1,3 @@
 Template.oneDeal.rendered = function() {
-	$('img#back-arrow').css('visibility', 'visible');
+	// $('img#back-arrow').css('visibility', 'visible');
 };
