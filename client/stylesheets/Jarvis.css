@@ -163,25 +163,42 @@ div.deal-list div.item {
 
 
 /*navigation*/
+nav#nav {
+    background-color: #fff;
+    width: 100%;
+    box-shadow: 0 2px 14px 0 rgba(0, 0, 0, .15);
+}
 
-div.navbar-header {
+/*div.navbar-header {
     float: left;
     background-color: #fff;
     position: fixed;
     text-align: center;
     width: 100%;
     box-shadow: 0 2px 14px 0 rgba(0, 0, 0, .15);
-
-}
-
-.navbar-brand {
-	float: none;
-	padding: 12px;
-}
+}*/
 
 img#nav-logo {
 	max-height: 15px;
 	height: 100%;
 	width: 54px;
 	max-width: 100%;
+	margin-top: 10px;
+}
+
+img#back-arrow {
+	max-height: 30px;
+	height: 100%;
+	width: 30px;
+	max-width: 100%;
+}
+
+
+.navbar-brand {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    text-align: center;
+    margin: auto;
 }
