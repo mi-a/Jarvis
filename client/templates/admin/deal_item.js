@@ -51,12 +51,18 @@ Template.dealItem.events({
 
     'click #removeDeal': function(e) {
       e.preventDefault();
-      
-      if (confirm("Delete this post?")) {
-        var currentDealId = this._id;
-        Meteor.call('removeDeal', currentDealId);
-        Router.go('dealsList');
-      }
+      $('#confirm-delete').show;
+    },
+              
+    'click #confirmDelete': function() {
+      var currentDealId = this._id;
+      Meteor.call('removeDeal', currentDealId);
+      $('#confirm-delete')
+        .on('hidden.bs.modal', function() {
+            Router.go('dealsList');
+        })
+        .modal('hide');
     }
-    
+      
 });
+

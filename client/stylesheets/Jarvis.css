@@ -7,6 +7,7 @@ body {
 	margin-top: 80px;
 }
 
+
 .btn, button {
 	font-family: 'Montserrat', sans-serif;
 	text-transform: uppercase;
@@ -29,54 +30,55 @@ body {
 	border: 0;
 }
 
+
 button#redeemButton {
-	margin-top: 10px;
-	margin-bottom: 10px;
-	padding: 15px;
-	font-size: 16px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 15px;
+  font-size: 16px;
 }
 
 h3.headline, h4.location {
-	color: #013569;
-	font-family: "Roboto", sans-serif;
-	letter-spacing: 2px;
+  color: #013569;
+  font-family: "Roboto", sans-serif;
+  letter-spacing: 2px;
 }
 
 h3.headline {
-	font-size: 18px;
-	margin-top: 35px;
-	margin-bottom: 23px;
+  font-size: 18px;
+  margin-top: 35px;
+  margin-bottom: 23px;
 }
 
 h4.location {
-	font-size: 16px;
+  font-size: 16px;
 }
 
 #oneDeal .headline, #oneDeal .location {
-	text-transform: uppercase;
+  text-transform: uppercase;
 }
 
 #oneDeal p.address, #oneDeal p.details {
-	color: #8c8c8c;
+  color: #8c8c8c;
 }
 
 #oneDeal p.details {
-	text-align: justify;
+  text-align: justify;
 }
 
 /*table*/
 
 #dealsList th {
-	color: #013569;
+  color: #013569;
 }
 
 tr.labels {
-	font-size: 18px;
-	text-align: left;
+  font-size: 18px;
+  text-align: left;
 }
 
 tr.items {
-	font-size: 14px;
+  font-size: 14px;
 }
 
 .borderless td, .borderless th {
@@ -84,21 +86,21 @@ tr.items {
 }
 
 div.deal-list div.item {
-	border: 0;
-	border-bottom: 1px solid #ccc;
+  border: 0;
+  border-bottom: 1px solid #ccc;
 }
 
 #dealsList.affix {
-	position: fixed;
-	top: 50;
-	width: 80%;
-	background-color: white;
-	margin-top: -79px;
+  position: fixed;
+  top: 50;
+  width: 80%;
+  background-color: white;
+  margin-top: -79px;
 }
 
 #dealsList.affix tr.labels th {
-	padding-top: 10px;
-	padding-bottom: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 #dealsList.affix-top {
@@ -135,6 +137,41 @@ a.itemLink .panel-body:active {
 
 .item .details {
 	color: #5e5e5e;
+}
+
+/* modal */
+
+button#confirmDelete {
+	background: transparent; 
+	border: none;
+	color: #013569;
+  font-size: 12px;
+  letter-spacing: 2px;
+}
+
+button#btn-dark {
+	background-color: #013569;
+  font-size: 12px;
+  letter-spacing: 2px;
+}
+
+.modal-header {
+  border: none;
+}
+
+.modal-dialog {
+  border: none;
+  height: auto;
+  padding-top: 30px;
+  text-align: center;
+  width: 375px;
+}
+
+.modal-footer {
+  border: none;
+  height: auto;
+  margin-left: 15px;
+  margin-right: 15px;
 }
 
 /* Navigation */
