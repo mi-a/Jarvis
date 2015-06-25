@@ -108,7 +108,35 @@ div.deal-list div.item {
 
 }
 
-.line-clamp {
+.headline-clamp {
+	white-space: nowrap;
+	font-size: 18px;
+	width: 100%;
+	height: 25px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.details-clamp {
+	width: 100%;
+	height: 60px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+a.itemLink:hover {
+	text-decoration: none;
+}
+
+.item {
+	margin-bottom: 5px;
+}
+
+.item .details {
+	color: #5e5e5e;
+}
+
+/*.line-clamp {
 	height: auto;
 	overflow: hidden;
 	position: relative;
@@ -160,7 +188,7 @@ div.deal-list div.item {
     .line-clamp::after {
         display: none;
     }
-}
+}*/
 
 
 /* Navigation */

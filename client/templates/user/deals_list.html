@@ -3,12 +3,16 @@
 	  <div class="deal-list col-md-10 col-md-offset-1 col-sm-12 col-lg-8 col-lg-offset-2">
 	  	<h3>Savi Deals</h3>
 	    {{#each deals}}
-	    <div class="item">
-	      <div class="panel-body">
-	        <h4><a class="headline line-clamp" href="{{pathFor 'oneDeal'}}">{{headline}}</a></h4>
-	        <p class="details line-clamp">{{details}}</p>
-	      </div>
-	    </div>
+	    <a class="itemLink" href="{{pathFor 'oneDeal'}}">
+		    <div class="item">
+		      <div class="panel-body">
+	<!-- 	        <h4><a class="headline line-clamp" href="{{pathFor 'oneDeal'}}">{{headline}}</a></h4>
+		        <p class="details line-clamp">{{details}}</p> -->
+		        <p class="headline-clamp"><a href="{{pathFor 'oneDeal'}}">{{headline}}</a></p>
+		        <p class="details details-clamp">{{details}}</p>
+		      </div>
+		    </div>
+		</a>
 	    {{/each}}
 	  </div>
 
