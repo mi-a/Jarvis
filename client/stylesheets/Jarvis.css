@@ -4,9 +4,6 @@ body {
 	font-family: "Roboto Condensed", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
 	font-size: 14px;
 	letter-spacing: 1.5px;
-}
-
-.container-fluid {
 	margin-top: 80px;
 }
 
@@ -128,6 +125,10 @@ a.itemLink:hover {
 	text-decoration: none;
 }
 
+a.itemLink .panel-body:active {
+	background-color: #e9e9e9;
+}
+
 .item {
 	margin-bottom: 5px;
 }
@@ -136,63 +137,8 @@ a.itemLink:hover {
 	color: #5e5e5e;
 }
 
-/*.line-clamp {
-	height: auto;
-	overflow: hidden;
-	position: relative;
-}
-
-.headline.line-clamp {
-	height: 1.1em;
-}
-
-.details.line-clamp {
-	height: 4.7em;
-	padding: 5px;
-}
-
-.headline.line-clamp::after, .details.line-clamp::after {
-  	content: "...";
-  	background: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 1) 50%);
-}
-
-@supports (-webkit-line-clamp: 1) {
-	.line-clamp {
-		display: -webkit-box;
-		-webkit-box-orient: vertical;
-		height: auto;
-	}
-
-    .headline.line-clamp {
-        -webkit-line-clamp: 3; 
-        max-height: 4.7em;
-    }
-
-    .line-clamp::after {
-        display: none;
-    }
-}
-
-@supports (-webkit-line-clamp: 3) {
-	.line-clamp {
-		display: -webkit-box;
-		-webkit-box-orient: vertical;
-		height: auto;
-	}
-
-    .details.line-clamp {
-        -webkit-line-clamp: 3; 
-        max-height: 4.7em;
-    }
-
-    .line-clamp::after {
-        display: none;
-    }
-}*/
-
-
 /* Navigation */
-nav#nav {
+/*nav#nav {
     background-color: #fff;
     width: 100%;
     box-shadow: 0 2px 14px 0 rgba(0, 0, 0, .15);
@@ -204,33 +150,33 @@ nav#nav {
 .nav > li > a:hover, .nav > li > a:focus {
 	background-color: transparent;
 }
-
+*/
 img#nav-logo {
-	display: inline;
-	height: 15px;
-	width: 54px;
-	margin-top: 8px;
-	vertical-align: middle;
+	height: 20px;
+	width: 71px;
 }
 
 img#back-arrow {
-	display: inline;
-	padding: 7px;
-	width: 40px;
-	height: 40px;
-	vertical-align: middle;
+	height: 20px;
+	width: 27px;
+}
+
+.navbar-header {
+	float: left;
+	text-align: center;
+	/*width: 100%;*/
 }
 
 .navbar-brand {
+	float: none;
     position: absolute;
     width: 100%;
     left: 0;
     top: 0;
     text-align: center;
-    margin: auto;
 }
-
+/*
 nav#nav ul.nav.navbar-nav.navbar-left {
 	margin: 0;
 	padding: 0;
-}
+}*/
