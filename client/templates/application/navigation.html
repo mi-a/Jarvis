@@ -1,19 +1,8 @@
 <template name="navigation">
 	<nav id="nav" class="navbar navbar-fixed-top" role="navigation">
-	    <!-- <ul class="nav navbar-nav navbar-left">
-		{{#if showBackButton}}
-			<li id="back"><a href="{{pathFor 'allDeals'}}"><img id="back-arrow" src="/back_arrow.png" /></a></li>
-		{{/if}}
-		</ul> -->
 		{{#if showBackButton}}
 		<a class="navbar-brand" href="{{pathFor 'allDeals'}}"><img id="back-arrow" src="/back_arrow.png" /></a>
 		{{/if}}
 		<a class="navbar-brand" href="{{pathFor 'allDeals'}}"><img id="nav-logo" class="center-block" src="/logo.png" /></a>
 	</nav>
-
-	<!-- <nav class="nav navbar-fixed-top">
-		<div class="container-fluid">
-			<span class="glyphicon glyphicon-menu-left"></span>
-		</div>
-	</nav> -->
 </template>
