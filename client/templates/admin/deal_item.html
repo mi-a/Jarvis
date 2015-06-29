@@ -51,11 +51,14 @@
       <!-- Button Drop Down -->
           <div class="form-group col-md-4 pull-left">
               <select id="state" name="state" class="form-control">
-                {{#if location.state}}
+
+                {{#if location}}
                   <option value='{{location.state}}' selected>{{location.state}}</option>
                   {{else}}
-                  <option value="" selected>State</option>
+                  <option value="" disabled selected>State</option>
                 {{/if}}
+                
+                <option value=''></option>
                 <option value='AL'>AL</option>
                 <option value='AK'>AK</option>
                 <option value='AZ'>AZ</option>
@@ -107,6 +110,7 @@
                 <option value='WI'>WI</option>
                 <option value='WY'>WY</option>
               </select>
+
           </div>
 
 
